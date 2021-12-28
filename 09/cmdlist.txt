@@ -1,0 +1,245 @@
+$ volatility --profile Win10x64_19041 -f /dumps/dump.mem cmdline
+Volatility Foundation Volatility Framework 2.6.1
+************************************************************************
+System pid:      4
+************************************************************************
+Registry pid:     92
+************************************************************************
+smss.exe pid:    312
+************************************************************************
+csrss.exe pid:    424
+Command line : 
+************************************************************************
+wininit.exe pid:    500
+************************************************************************
+csrss.exe pid:    520
+Command line : %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+************************************************************************
+winlogon.exe pid:    608
+Command line : winlogon.exe
+************************************************************************
+services.exe pid:    644
+Command line : C:\Windows\system32\services.exe
+************************************************************************
+lsass.exe pid:    668
+Command line : C:\Windows\system32\lsass.exe
+************************************************************************
+fontdrvhost.ex pid:    764
+************************************************************************
+fontdrvhost.ex pid:    772
+************************************************************************
+svchost.exe pid:    780
+Command line : C:\Windows\system32\svchost.exe -k DcomLaunch -p
+************************************************************************
+svchost.exe pid:    888
+Command line : C:\Windows\system32\svchost.exe -k RPCSS -p
+************************************************************************
+dwm.exe pid:    980
+Command line : "dwm.exe"
+************************************************************************
+svchost.exe pid:    496
+Command line : C:\Windows\system32\svchost.exe -k netsvcs -p
+************************************************************************
+svchost.exe pid:    388
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+************************************************************************
+svchost.exe pid:    720
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+************************************************************************
+svchost.exe pid:    956
+************************************************************************
+svchost.exe pid:    416
+Command line : C:\Windows\system32\svchost.exe -k LocalService -p
+************************************************************************
+svchost.exe pid:   1084
+Command line : C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+************************************************************************
+svchost.exe pid:   1404
+Command line : C:\Windows\System32\svchost.exe -k NetworkService -p
+************************************************************************
+svchost.exe pid:   1468
+************************************************************************
+MemCompression pid:   1556
+************************************************************************
+svchost.exe pid:   1652
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+************************************************************************
+svchost.exe pid:   1744
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+************************************************************************
+svchost.exe pid:   1756
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+************************************************************************
+svchost.exe pid:   1800
+Command line : C:\Windows\system32\svchost.exe -k appmodel -p
+************************************************************************
+spoolsv.exe pid:   1924
+************************************************************************
+svchost.exe pid:   1952
+Command line : C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+************************************************************************
+svchost.exe pid:   2180
+Command line : C:\Windows\System32\svchost.exe -k utcsvc -p
+************************************************************************
+VGAuthService. pid:   2248
+************************************************************************
+vm3dservice.ex pid:   2272
+************************************************************************
+vmtoolsd.exe pid:   2284
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+************************************************************************
+MsMpEng.exe pid:   2324
+Command line : "C:\Program Files\Windows Defender\MsMpEng.exe"
+************************************************************************
+vm3dservice.ex pid:   2432
+Command line : 
+************************************************************************
+dllhost.exe pid:   2736
+************************************************************************
+WmiPrvSE.exe pid:   2832
+Command line : C:\Windows\system32\wbem\wmiprvse.exe
+************************************************************************
+NisSrv.exe pid:   1796
+Command line : 
+************************************************************************
+msdtc.exe pid:   1060
+************************************************************************
+sihost.exe pid:   3092
+Command line : sihost.exe
+************************************************************************
+svchost.exe pid:   3108
+Command line : C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+************************************************************************
+taskhostw.exe pid:   3236
+Command line : taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+************************************************************************
+userinit.exe pid:   3464
+************************************************************************
+explorer.exe pid:   3496
+Command line : C:\Windows\Explorer.EXE
+************************************************************************
+ctfmon.exe pid:   3660
+Command line : 
+************************************************************************
+svchost.exe pid:   3828
+Command line : C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p
+************************************************************************
+StartMenuExper pid:   2132
+Command line : "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+************************************************************************
+RuntimeBroker. pid:   4012
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+SearchApp.exe pid:   4156
+Command line : "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+************************************************************************
+RuntimeBroker. pid:   4244
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+MicrosoftEdge. pid:   4476
+************************************************************************
+ApplicationFra pid:   4492
+Command line : 
+************************************************************************
+RuntimeBroker. pid:   4836
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+SearchIndexer. pid:   5176
+Command line : C:\Windows\system32\SearchIndexer.exe /Embedding
+************************************************************************
+svchost.exe pid:   5428
+Command line : 
+************************************************************************
+smartscreen.ex pid:   5496
+Command line : 
+************************************************************************
+SecurityHealth pid:   5540
+Command line : 
+************************************************************************
+TrueCrypt.exe pid:   5564
+Command line : 
+************************************************************************
+SecurityHealth pid:   5592
+************************************************************************
+vmtoolsd.exe pid:   5716
+Command line : "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+************************************************************************
+OneDrive.exe pid:   5808
+Command line : 
+************************************************************************
+SgrmBroker.exe pid:    516
+Command line : C:\Windows\system32\SgrmBroker.exe
+************************************************************************
+svchost.exe pid:   2020
+Command line : C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+************************************************************************
+svchost.exe pid:    540
+Command line : C:\Windows\System32\svchost.exe -k netsvcs -p
+************************************************************************
+dllhost.exe pid:   2724
+Command line : 
+************************************************************************
+TextInputHost. pid:   4748
+Command line : "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+************************************************************************
+MicrosoftEdgeC pid:   4412
+************************************************************************
+ShellExperienc pid:   1056
+************************************************************************
+powershell.exe pid:   5084
+Command line : "PowerShell.exe" -noexit -command Set-Location -literalPath 'C:\Users\kali\Downloads\volatility_2.6_win64_standalone\volatility_2.6_win64_standalone'
+************************************************************************
+conhost.exe pid:   5512
+Command line : \??\C:\Windows\system32\conhost.exe 0x4
+************************************************************************
+taskhostw.exe pid:   1984
+************************************************************************
+svchost.exe pid:   6764
+Command line : 
+************************************************************************
+Taskmgr.exe pid:   5312
+Command line : "C:\Windows\system32\taskmgr.exe" /4
+************************************************************************
+notepad.exe pid:   6148
+Command line : "C:\Windows\system32\notepad.exe" 
+************************************************************************
+RuntimeBroker. pid:   4640
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+svchost.exe pid:   3304
+Command line : C:\Windows\system32\svchost.exe -k wsappx -p
+************************************************************************
+TrustedInstall pid:   6428
+************************************************************************
+TiWorker.exe pid:    592
+************************************************************************
+WmiPrvSE.exe pid:   3688
+************************************************************************
+MoUsoCoreWorke pid:   1396
+Command line : 
+************************************************************************
+audiodg.exe pid:   2848
+Command line : C:\Windows\system32\AUDIODG.EXE 0x2c0
+************************************************************************
+svchost.exe pid:   5272
+Command line : C:\Windows\System32\svchost.exe -k NetworkService -p
+************************************************************************
+HxTsr.exe pid:   7988
+Command line : "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+************************************************************************
+RuntimeBroker. pid:   5328
+Command line : C:\Windows\System32\RuntimeBroker.exe -Embedding
+************************************************************************
+MicrosoftEdge. pid:   8088
+************************************************************************
+browser_broker pid:   7784
+************************************************************************
+MicrosoftEdgeS pid:   7288
+************************************************************************
+MicrosoftEdgeC pid:   7460
+************************************************************************
+DumpIt.exe pid:   5940
+Command line : "C:\Users\kali\Downloads\DumpIt.exe" 
+************************************************************************
+conhost.exe pid:   4976
+Command line : \??\C:\Windows\system32\conhost.exe 0x4

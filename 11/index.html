@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- saved from url=(0051)https://naughty.owasp.si/deployed/christmas-decode/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>XMAS Challenge</title>
+  <link rel="icon" type="image/x-icon" href="https://naughty.owasp.si/deployed/christmas-decode/favicon.ico">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./index_files/index.css">
+
+  </head><body data-new-gr-c-s-check-loaded="14.1043.0" data-gr-ext-installed="">
+    <div class="bgimg-1" id="home">
+      <div>
+        <div class="decode-label">Flag to decode</div>
+        <div class="decode-text">
+          -49, -4, 7, -10, -16, -8, -4, 3, -41, -14, -7, -14, -5, -16, -14, -8,
+          -49, -7, -10, 1, 7, -14, -5
+        </div>
+      </div>
+      <button class="decode-button" onclick="decode()">Decode</button>
+    </div>
+    <div id="snackbar"></div>
+  
+
+  <script>
+    function show_toast(text) {
+      var x = document.getElementById("snackbar");
+      x.innerHTML = text;
+      x.className = "show";
+      setTimeout(function () {
+        x.className = x.className.replace("show", "");
+      }, 3000);
+    }
+
+    function decode() {
+      //TO DO
+      // implement decode function
+
+      show_toast("Not implemented");
+    }
+
+    function encode(flag) {
+      var inputlen = flag.length;
+      var randkey = getRandomInt(23, 2300);
+      var i = 0;
+      var inputchr = [];
+
+      while (i < inputlen) {
+        inputchr[i] = ord(flag[i]) - randkey + 55;
+        i++;
+      }
+    }
+
+    function ord(str) {
+      return str.charCodeAt(0);
+    }
+
+    function getRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    //encode("******");
+  </script>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

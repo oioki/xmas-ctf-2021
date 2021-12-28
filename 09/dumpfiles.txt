@@ -1,0 +1,1714 @@
+$ volatility --profile Win10x64_19041 -f /dumps/dump.mem -D /dumps/dumpfiles/ dumpfiles
+Volatility Foundation Volatility Framework 2.6.1
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+WARNING : volatility.debug    : Cannot find nt!ObGetObjectType
+ImageSectionObject 0xffffc98695ee3d10   4      \Device\HarddiskVolume3\Windows\SysWOW64\ntdll.dll
+ImageSectionObject 0xffffc98695ee3750   4      \Device\HarddiskVolume3\Windows\System32\vertdll.dll
+ImageSectionObject 0xffffc98695ee3190   4      \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+DataSectionObject 0xffffc98697067b50   92     \Device\HarddiskVolume3\Windows\System32\config\SOFTWARE
+SharedCacheMap 0xffffc98697067b50   92     \Device\HarddiskVolume3\Windows\System32\config\SOFTWARE
+DataSectionObject 0xffffc98697066bb0   92     \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD
+SharedCacheMap 0xffffc98697066bb0   92     \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD
+DataSectionObject 0xffffc9869936dec0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat
+SharedCacheMap 0xffffc9869936dec0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat
+DataSectionObject 0xffffc98697353800   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+SharedCacheMap 0xffffc98697353800   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+DataSectionObject 0xffffc98697f37bc0   92     \Device\HarddiskVolume3\Windows\System32\config\SECURITY
+SharedCacheMap 0xffffc98697f37bc0   92     \Device\HarddiskVolume3\Windows\System32\config\SECURITY
+DataSectionObject 0xffffc986976738a0   92     \Device\HarddiskVolume3\Windows\System32\config\DEFAULT
+SharedCacheMap 0xffffc986976738a0   92     \Device\HarddiskVolume3\Windows\System32\config\DEFAULT
+DataSectionObject 0xffffc98697fd1270   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+SharedCacheMap 0xffffc98697fd1270   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+DataSectionObject 0xffffc98697f4c850   92     \Device\HarddiskVolume3\Windows\System32\config\SAM
+SharedCacheMap 0xffffc98697f4c850   92     \Device\HarddiskVolume3\Windows\System32\config\SAM
+DataSectionObject 0xffffc986973542f0   92     \Device\HarddiskVolume3\Windows\System32\config\BBI
+SharedCacheMap 0xffffc986973542f0   92     \Device\HarddiskVolume3\Windows\System32\config\BBI
+DataSectionObject 0xffffc98698d45940   92     \Device\HarddiskVolume3\Windows\appcompat\Programs\Amcache.hve
+SharedCacheMap 0xffffc98698d45940   92     \Device\HarddiskVolume3\Windows\appcompat\Programs\Amcache.hve
+DataSectionObject 0xffffc9869899d700   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\UsrClass.dat
+SharedCacheMap 0xffffc9869899d700   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\UsrClass.dat
+DataSectionObject 0xffffc9869899e830   92     None
+SharedCacheMap 0xffffc9869899e830   92     None
+DataSectionObject 0xffffc98699367930   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat
+SharedCacheMap 0xffffc98699367930   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat
+DataSectionObject 0xffffc98699163a60   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+SharedCacheMap 0xffffc98699163a60   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+DataSectionObject 0xffffc98699369a00   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.0.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+SharedCacheMap 0xffffc98699369a00   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.0.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+DataSectionObject 0xffffc9869a258c80   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_120.2202.130.0_x64__cw5n1h2txyewy\ActivationStore.dat
+SharedCacheMap 0xffffc9869a258c80   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_120.2202.130.0_x64__cw5n1h2txyewy\ActivationStore.dat
+DataSectionObject 0xffffc98699120150   92     \Device\HarddiskVolume3\Windows\System32\config\DRIVERS
+SharedCacheMap 0xffffc98699120150   92     \Device\HarddiskVolume3\Windows\System32\config\DRIVERS
+DataSectionObject 0xffffc9869937e220   92     None
+SharedCacheMap 0xffffc9869937e220   92     None
+DataSectionObject 0xffffc9869a7e97c0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat
+SharedCacheMap 0xffffc9869a7e97c0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat
+DataSectionObject 0xffffc9869c4b0420   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat
+SharedCacheMap 0xffffc9869c4b0420   92     \Device\HarddiskVolume3\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat
+DataSectionObject 0xffffc9869a24a9f0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Settings\settings.dat
+SharedCacheMap 0xffffc9869a24a9f0   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Settings\settings.dat
+DataSectionObject 0xffffc9869914bd20   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\ActivationStore.dat
+SharedCacheMap 0xffffc9869914bd20   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\ActivationStore.dat
+DataSectionObject 0xffffc98699749b70   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.19041.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+SharedCacheMap 0xffffc98699749b70   92     \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.19041.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+DataSectionObject 0xffffc9869a7bf970   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat
+SharedCacheMap 0xffffc9869a7bf970   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat
+DataSectionObject 0xffffc9869a7ea440   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat
+SharedCacheMap 0xffffc9869a7ea440   92     \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat
+ImageSectionObject 0xffffc98695b53d50   312    \Device\HarddiskVolume3\Windows\System32\smss.exe
+DataSectionObject 0xffffc98697675650   424    \Device\HarddiskVolume3\Windows\System32\en-US\csrss.exe.mui
+DataSectionObject 0xffffc98697673580   424    \Device\HarddiskVolume3\Windows\System32\locale.nls
+DataSectionObject 0xffffc98697673d50   424    \Device\HarddiskVolume3\Windows\System32\en-US\winsrv.dll.mui
+ImageSectionObject 0xffffc98697674e80   424    \Device\HarddiskVolume3\Windows\System32\csrsrv.dll
+ImageSectionObject 0xffffc98697673710   424    \Device\HarddiskVolume3\Windows\System32\csrss.exe
+ImageSectionObject 0xffffc98697675b00   424    \Device\HarddiskVolume3\Windows\System32\winsrv.dll
+ImageSectionObject 0xffffc986976730d0   424    \Device\HarddiskVolume3\Windows\System32\sxssrv.dll
+ImageSectionObject 0xffffc986972becf0   424    \Device\HarddiskVolume3\Windows\System32\sxs.dll
+ImageSectionObject 0xffffc98697675c90   424    \Device\HarddiskVolume3\Windows\System32\winsrvext.dll
+ImageSectionObject 0xffffc986976751a0   424    \Device\HarddiskVolume3\Windows\System32\basesrv.dll
+ImageSectionObject 0xffffc98695bcf380   424    \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+DataSectionObject 0xffffc98695bcf380   424    \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+ImageSectionObject 0xffffc98695bce0c0   424    \Device\HarddiskVolume3\Windows\System32\msvcp_win.dll
+DataSectionObject 0xffffc98695bce0c0   424    \Device\HarddiskVolume3\Windows\System32\msvcp_win.dll
+ImageSectionObject 0xffffc98695bcfe70   424    \Device\HarddiskVolume3\Windows\System32\ucrtbase.dll
+DataSectionObject 0xffffc98695bcfe70   424    \Device\HarddiskVolume3\Windows\System32\ucrtbase.dll
+ImageSectionObject 0xffffc98695bcfce0   424    \Device\HarddiskVolume3\Windows\System32\bcryptprimitives.dll
+DataSectionObject 0xffffc98695bcfce0   424    \Device\HarddiskVolume3\Windows\System32\bcryptprimitives.dll
+ImageSectionObject 0xffffc98695bcebb0   424    \Device\HarddiskVolume3\Windows\System32\gdi32full.dll
+DataSectionObject 0xffffc98695bcebb0   424    \Device\HarddiskVolume3\Windows\System32\gdi32full.dll
+ImageSectionObject 0xffffc98695bce890   424    \Device\HarddiskVolume3\Windows\System32\cfgmgr32.dll
+ImageSectionObject 0xffffc98695bbcbb0   424    \Device\HarddiskVolume3\Windows\System32\user32.dll
+DataSectionObject 0xffffc98695bbcbb0   424    \Device\HarddiskVolume3\Windows\System32\user32.dll
+ImageSectionObject 0xffffc98695bbd510   424    \Device\HarddiskVolume3\Windows\System32\combase.dll
+DataSectionObject 0xffffc98695bbd510   424    \Device\HarddiskVolume3\Windows\System32\combase.dll
+ImageSectionObject 0xffffc98695bcf830   424    \Device\HarddiskVolume3\Windows\System32\win32u.dll
+DataSectionObject 0xffffc98695bcf830   424    \Device\HarddiskVolume3\Windows\System32\win32u.dll
+ImageSectionObject 0xffffc98695bbdce0   424    \Device\HarddiskVolume3\Windows\System32\rpcrt4.dll
+DataSectionObject 0xffffc98695bbdce0   424    \Device\HarddiskVolume3\Windows\System32\rpcrt4.dll
+ImageSectionObject 0xffffc986952f6510   424    \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+DataSectionObject 0xffffc986952f6510   424    \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+ImageSectionObject 0xffffc986952f6e70   424    \Device\HarddiskVolume3\Windows\System32\gdi32.dll
+DataSectionObject 0xffffc986952f6e70   424    \Device\HarddiskVolume3\Windows\System32\gdi32.dll
+DataSectionObject 0xffffc98697250710   500    \Device\HarddiskVolume3\Windows\System32\en-US\user32.dll.mui
+DataSectionObject 0xffffc98697f389d0   500    \Device\HarddiskVolume3\Windows\Globalization\Sorting\SortDefault.nls
+ImageSectionObject 0xffffc98697251200   500    \Device\HarddiskVolume3\Windows\System32\userenv.dll
+ImageSectionObject 0xffffc98697f509f0   500    \Device\HarddiskVolume3\Windows\System32\profext.dll
+ImageSectionObject 0xffffc98697676dc0   500    \Device\HarddiskVolume3\Windows\System32\wininit.exe
+ImageSectionObject 0xffffc98697f4edd0   500    \Device\HarddiskVolume3\Windows\System32\FirewallAPI.dll
+DataSectionObject 0xffffc98697f4edd0   500    \Device\HarddiskVolume3\Windows\System32\FirewallAPI.dll
+ImageSectionObject 0xffffc98697f4e600   500    \Device\HarddiskVolume3\Windows\System32\fwbase.dll
+ImageSectionObject 0xffffc98697f51350   500    \Device\HarddiskVolume3\Windows\System32\ntmarta.dll
+ImageSectionObject 0xffffc98697f386b0   500    \Device\HarddiskVolume3\Windows\System32\dnsapi.dll
+ImageSectionObject 0xffffc98697f38cf0   500    \Device\HarddiskVolume3\Windows\System32\IPHLPAPI.DLL
+ImageSectionObject 0xffffc98697252e20   500    \Device\HarddiskVolume3\Windows\System32\sspicli.dll
+DataSectionObject 0xffffc98697252e20   500    \Device\HarddiskVolume3\Windows\System32\sspicli.dll
+ImageSectionObject 0xffffc98697f39650   500    \Device\HarddiskVolume3\Windows\System32\mswsock.dll
+ImageSectionObject 0xffffc986976762d0   500    \Device\HarddiskVolume3\Windows\System32\profapi.dll
+ImageSectionObject 0xffffc98697251e80   500    \Device\HarddiskVolume3\Windows\System32\wininitext.dll
+ImageSectionObject 0xffffc98695bce570   500    \Device\HarddiskVolume3\Windows\System32\bcrypt.dll
+DataSectionObject 0xffffc98695bce570   500    \Device\HarddiskVolume3\Windows\System32\bcrypt.dll
+ImageSectionObject 0xffffc98695bbc3e0   500    \Device\HarddiskVolume3\Windows\System32\msvcrt.dll
+DataSectionObject 0xffffc98695bbc3e0   500    \Device\HarddiskVolume3\Windows\System32\msvcrt.dll
+ImageSectionObject 0xffffc98695bcf6a0   500    \Device\HarddiskVolume3\Windows\System32\advapi32.dll
+DataSectionObject 0xffffc98695bcf6a0   500    \Device\HarddiskVolume3\Windows\System32\advapi32.dll
+ImageSectionObject 0xffffc98695bbd380   500    \Device\HarddiskVolume3\Windows\System32\nsi.dll
+ImageSectionObject 0xffffc986952f6830   500    \Device\HarddiskVolume3\Windows\System32\ws2_32.dll
+ImageSectionObject 0xffffc986952f6380   500    \Device\HarddiskVolume3\Windows\System32\sechost.dll
+DataSectionObject 0xffffc986952f6380   500    \Device\HarddiskVolume3\Windows\System32\sechost.dll
+ImageSectionObject 0xffffc9869734def0   608    \Device\HarddiskVolume3\Windows\System32\UXInit.dll
+ImageSectionObject 0xffffc98697251b60   608    \Device\HarddiskVolume3\Windows\System32\winlogon.exe
+ImageSectionObject 0xffffc98697351be0   608    \Device\HarddiskVolume3\Windows\System32\dsreg.dll
+ImageSectionObject 0xffffc98698685d10   608    \Device\HarddiskVolume3\Windows\System32\usermgrcli.dll
+ImageSectionObject 0xffffc98698c28c50   608    \Device\HarddiskVolume3\Windows\System32\mpr.dll
+ImageSectionObject 0xffffc9869734d590   608    \Device\HarddiskVolume3\Windows\System32\dwminit.dll
+ImageSectionObject 0xffffc98697352ea0   608    \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+ImageSectionObject 0xffffc9869734d0e0   608    \Device\HarddiskVolume3\Windows\System32\uxtheme.dll
+ImageSectionObject 0xffffc98697fd7cb0   608    \Device\HarddiskVolume3\Windows\System32\dwmapi.dll
+ImageSectionObject 0xffffc98697fd8610   608    \Device\HarddiskVolume3\Windows\System32\kernel.appcore.dll
+DataSectionObject 0xffffc98697fd8610   608    \Device\HarddiskVolume3\Windows\System32\kernel.appcore.dll
+ImageSectionObject 0xffffc986972bf1a0   608    \Device\HarddiskVolume3\Windows\System32\winsta.dll
+ImageSectionObject 0xffffc98697f4ce90   608    \Device\HarddiskVolume3\Windows\System32\msvcp110_win.dll
+ImageSectionObject 0xffffc98697f4c6c0   608    \Device\HarddiskVolume3\Windows\System32\dpapi.dll
+ImageSectionObject 0xffffc98697f4d4d0   608    \Device\HarddiskVolume3\Windows\System32\wkscli.dll
+ImageSectionObject 0xffffc98697f391a0   608    \Device\HarddiskVolume3\Windows\System32\cryptsp.dll
+DataSectionObject 0xffffc98697f391a0   608    \Device\HarddiskVolume3\Windows\System32\cryptsp.dll
+ImageSectionObject 0xffffc98697f38840   608    \Device\HarddiskVolume3\Windows\System32\netutils.dll
+ImageSectionObject 0xffffc98697f37a30   608    \Device\HarddiskVolume3\Windows\System32\cryptbase.dll
+DataSectionObject 0xffffc98697f37a30   608    \Device\HarddiskVolume3\Windows\System32\cryptbase.dll
+ImageSectionObject 0xffffc98697253c30   608    \Device\HarddiskVolume3\Windows\System32\powrprof.dll
+ImageSectionObject 0xffffc98697253910   608    \Device\HarddiskVolume3\Windows\System32\umpdc.dll
+ImageSectionObject 0xffffc98695bceed0   608    \Device\HarddiskVolume3\Windows\System32\crypt32.dll
+DataSectionObject 0xffffc98695bceed0   608    \Device\HarddiskVolume3\Windows\System32\crypt32.dll
+ImageSectionObject 0xffffc98695bbc250   608    \Device\HarddiskVolume3\Windows\System32\imm32.dll
+DataSectionObject 0xffffc98695bbc250   608    \Device\HarddiskVolume3\Windows\System32\imm32.dll
+ImageSectionObject 0xffffc98695bbc700   608    \Device\HarddiskVolume3\Windows\System32\SHCore.dll
+ImageSectionObject 0xffffc986952f5a20   608    \Device\HarddiskVolume3\Windows\System32\oleaut32.dll
+DataSectionObject 0xffffc986952f5a20   608    \Device\HarddiskVolume3\Windows\System32\oleaut32.dll
+DataSectionObject 0xffffc98697f52160   644    \Device\HarddiskVolume3\Windows\System32\en-US\services.exe.mui
+ImageSectionObject 0xffffc98697f4fd70   644    \Device\HarddiskVolume3\Windows\System32\WUDFPlatform.dll
+ImageSectionObject 0xffffc986972bd580   644    \Device\HarddiskVolume3\Windows\System32\services.exe
+ImageSectionObject 0xffffc98698b38ee0   644    \Device\HarddiskVolume3\Windows\System32\spinf.dll
+ImageSectionObject 0xffffc98699152120   644    \Device\HarddiskVolume3\Windows\System32\srvcli.dll
+ImageSectionObject 0xffffc98697352d10   644    \Device\HarddiskVolume3\Windows\System32\dabapi.dll
+ImageSectionObject 0xffffc98697f4cd00   644    \Device\HarddiskVolume3\Windows\System32\scesrv.dll
+ImageSectionObject 0xffffc98697f4f0f0   644    \Device\HarddiskVolume3\Windows\System32\authz.dll
+ImageSectionObject 0xffffc986972bfb00   644    \Device\HarddiskVolume3\Windows\System32\devobj.dll
+ImageSectionObject 0xffffc986972bf970   644    \Device\HarddiskVolume3\Windows\System32\EventAggregation.dll
+ImageSectionObject 0xffffc98697f37260   668    \Device\HarddiskVolume3\Windows\System32\msprivs.dll
+DataSectionObject 0xffffc98697f39b00   668    \Device\HarddiskVolume3\Windows\System32\en-US\lsasrv.dll.mui
+DataSectionObject 0xffffc98697f4d660   668    \Device\HarddiskVolume3\Windows\System32\C_28591.NLS
+DataSectionObject 0xffffc98698687de0   668    \Device\HarddiskVolume3\Windows\System32\en-US\crypt32.dll.mui
+DataSectionObject 0xffffc9869899acd0   668    \Device\HarddiskVolume3\Windows\System32\normidna.nls
+DataSectionObject 0xffffc9869a0e8360   668    \Device\HarddiskVolume3\Windows\System32\en-US\vaultsvc.dll.mui
+DataSectionObject 0xffffc9869734e210   668    \Device\HarddiskVolume3\Windows\Registration\R000000000006.clb
+ImageSectionObject 0xffffc98697f37580   668    \Device\HarddiskVolume3\Windows\System32\joinutil.dll
+ImageSectionObject 0xffffc98697f4e150   668    \Device\HarddiskVolume3\Windows\System32\rsaenh.dll
+DataSectionObject 0xffffc98697f4e150   668    \Device\HarddiskVolume3\Windows\System32\rsaenh.dll
+ImageSectionObject 0xffffc98698d50b60   668    \Device\HarddiskVolume3\Windows\System32\ncryptprov.dll
+ImageSectionObject 0xffffc9869914a420   668    \Device\HarddiskVolume3\Windows\System32\cryptnet.dll
+ImageSectionObject 0xffffc986972c0910   668    \Device\HarddiskVolume3\Windows\System32\lsass.exe
+ImageSectionObject 0xffffc9869a0c9a50   668    None
+ImageSectionObject 0xffffc9869a0e0ca0   668    \Device\HarddiskVolume3\Windows\System32\vaultsvc.dll
+ImageSectionObject 0xffffc9869a0c5270   668    \Device\HarddiskVolume3\Windows\System32\ngcpopkeysrv.dll
+ImageSectionObject 0xffffc98699145470   668    \Device\HarddiskVolume3\Windows\System32\mskeyprotect.dll
+ImageSectionObject 0xffffc9869914aa60   668    \Device\HarddiskVolume3\Windows\System32\SecureTimeAggregator.dll
+ImageSectionObject 0xffffc98699147ea0   668    \Device\HarddiskVolume3\Windows\System32\ncryptsslp.dll
+ImageSectionObject 0xffffc986991465a0   668    \Device\HarddiskVolume3\Windows\System32\dssenh.dll
+ImageSectionObject 0xffffc98698d51e20   668    \Device\HarddiskVolume3\Windows\System32\keyiso.dll
+ImageSectionObject 0xffffc98697f4e470   668    \Device\HarddiskVolume3\Windows\System32\kdcpw.dll
+ImageSectionObject 0xffffc98697350470   668    \Device\HarddiskVolume3\Windows\System32\wtsapi32.dll
+ImageSectionObject 0xffffc9869878dc10   668    \Device\HarddiskVolume3\Windows\System32\PCPKsp.dll
+ImageSectionObject 0xffffc98698995230   668    \Device\HarddiskVolume3\Windows\System32\dsparse.dll
+ImageSectionObject 0xffffc98698b2f750   668    None
+ImageSectionObject 0xffffc9869878c310   668    \Device\HarddiskVolume3\Windows\System32\tbs.dll
+ImageSectionObject 0xffffc986986d94f0   668    \Device\HarddiskVolume3\Windows\System32\wevtapi.dll
+ImageSectionObject 0xffffc9869878aec0   668    \Device\HarddiskVolume3\Windows\System32\cryptngc.dll
+ImageSectionObject 0xffffc986973db280   668    \Device\HarddiskVolume3\Windows\System32\dsrole.dll
+DataSectionObject 0xffffc986973db280   668    \Device\HarddiskVolume3\Windows\System32\dsrole.dll
+ImageSectionObject 0xffffc98697fd1590   668    \Device\HarddiskVolume3\Windows\System32\gpapi.dll
+ImageSectionObject 0xffffc98697f4eab0   668    \Device\HarddiskVolume3\Windows\System32\scecli.dll
+ImageSectionObject 0xffffc98697f4b720   668    \Device\HarddiskVolume3\Windows\System32\dpapisrv.dll
+ImageSectionObject 0xffffc98697f4c080   668    \Device\HarddiskVolume3\Windows\System32\sspisrv.dll
+ImageSectionObject 0xffffc98697f4d7f0   668    \Device\HarddiskVolume3\Windows\System32\schannel.dll
+ImageSectionObject 0xffffc98697f4b400   668    \Device\HarddiskVolume3\Windows\System32\efslsaext.dll
+ImageSectionObject 0xffffc98697f4c210   668    \Device\HarddiskVolume3\Windows\System32\wdigest.dll
+ImageSectionObject 0xffffc98697f38520   668    \Device\HarddiskVolume3\Windows\System32\logoncli.dll
+ImageSectionObject 0xffffc98697f3a780   668    \Device\HarddiskVolume3\Windows\System32\cloudAP.dll
+ImageSectionObject 0xffffc98697f4d340   668    \Device\HarddiskVolume3\Windows\System32\MicrosoftAccountCloudAP.dll
+ImageSectionObject 0xffffc98697f4dca0   668    \Device\HarddiskVolume3\Windows\System32\aadcloudap.dll
+ImageSectionObject 0xffffc98697f3adc0   668    \Device\HarddiskVolume3\Windows\System32\TSpkg.dll
+ImageSectionObject 0xffffc98697f3a2d0   668    \Device\HarddiskVolume3\Windows\System32\pku2u.dll
+ImageSectionObject 0xffffc98697f39c90   668    \Device\HarddiskVolume3\Windows\System32\cryptdll.dll
+ImageSectionObject 0xffffc98697f378a0   668    \Device\HarddiskVolume3\Windows\System32\netlogon.dll
+ImageSectionObject 0xffffc98697f38390   668    \Device\HarddiskVolume3\Windows\System32\gmsaclient.dll
+ImageSectionObject 0xffffc98697f38b60   668    \Device\HarddiskVolume3\Windows\System32\msv1_0.dll
+ImageSectionObject 0xffffc98697f39970   668    \Device\HarddiskVolume3\Windows\System32\NtlmShared.dll
+ImageSectionObject 0xffffc98697f37ee0   668    \Device\HarddiskVolume3\Windows\System32\kerberos.dll
+ImageSectionObject 0xffffc98697f38200   668    \Device\HarddiskVolume3\Windows\System32\KerbClientShared.dll
+ImageSectionObject 0xffffc98697f397e0   668    \Device\HarddiskVolume3\Windows\System32\negoexts.dll
+ImageSectionObject 0xffffc986972c0c30   668    \Device\HarddiskVolume3\Windows\System32\msasn1.dll
+ImageSectionObject 0xffffc98697f39330   668    \Device\HarddiskVolume3\Windows\System32\wldp.dll
+ImageSectionObject 0xffffc98697f373f0   668    \Device\HarddiskVolume3\Windows\System32\netprovfw.dll
+ImageSectionObject 0xffffc986972c02d0   668    \Device\HarddiskVolume3\Windows\System32\ncrypt.dll
+ImageSectionObject 0xffffc98697f3a140   668    \Device\HarddiskVolume3\Windows\System32\ntasn1.dll
+ImageSectionObject 0xffffc986972c0460   668    \Device\HarddiskVolume3\Windows\System32\samsrv.dll
+ImageSectionObject 0xffffc986972c05f0   668    \Device\HarddiskVolume3\Windows\System32\lsasrv.dll
+ImageSectionObject 0xffffc98695bbd6a0   668    \Device\HarddiskVolume3\Windows\System32\Wldap32.dll
+ImageSectionObject 0xffffc98695bbca20   668    \Device\HarddiskVolume3\Windows\System32\clbcatq.dll
+ImageSectionObject 0xffffc98695bbd830   668    \Device\HarddiskVolume3\Windows\System32\imagehlp.dll
+DataSectionObject 0xffffc98697f51990   764    \Device\HarddiskVolume3\Windows\Fonts\vgasys.fon
+DataSectionObject 0xffffc9869914e110   764    \Device\HarddiskVolume3\Windows\Fonts\segmdl2.ttf
+DataSectionObject 0xffffc98697fd2080   764    \Device\HarddiskVolume3\Windows\Fonts\marlett.ttf
+DataSectionObject 0xffffc9869c487250   764    \Device\HarddiskVolume3\Windows\Fonts\lucon.ttf
+DataSectionObject 0xffffc98698859df0   764    \Device\HarddiskVolume3\Windows\Fonts\segoeui.ttf
+DataSectionObject 0xffffc98697fd3b10   764    \Device\HarddiskVolume3\Windows\Fonts\micross.ttf
+DataSectionObject 0xffffc9869936f180   764    \Device\HarddiskVolume3\Windows\Fonts\segoeuib.ttf
+DataSectionObject 0xffffc98699d9a240   764    \Device\HarddiskVolume3\Windows\Fonts\tahoma.ttf
+DataSectionObject 0xffffc98699739cc0   764    \Device\HarddiskVolume3\Windows\Fonts\consola.ttf
+DataSectionObject 0xffffc9869c4a4ee0   764    \Device\HarddiskVolume3\Windows\Fonts\segoeuii.ttf
+ImageSectionObject 0xffffc98697f50220   764    \Device\HarddiskVolume3\Windows\System32\fontdrvhost.exe
+ImageSectionObject 0xffffc98697f506d0   780    \Device\HarddiskVolume3\Windows\System32\svchost.exe
+DataSectionObject 0xffffc98697f52610   780    \Device\HarddiskVolume3\Windows\System32\en-US\svchost.exe.mui
+DataSectionObject 0xffffc98698c35db0   780    None
+ImageSectionObject 0xffffc9869734f4d0   780    \Device\HarddiskVolume3\Windows\System32\ResourcePolicyServer.dll
+ImageSectionObject 0xffffc986989a2390   780    \Device\HarddiskVolume3\Windows\System32\AppxAllUserStore.dll
+ImageSectionObject 0xffffc98698d52910   780    \Device\HarddiskVolume3\Windows\System32\BackgroundMediaPolicy.dll
+ImageSectionObject 0xffffc98698d51b00   780    \Device\HarddiskVolume3\Windows\System32\SebBackgroundManagerPolicy.dll
+ImageSectionObject 0xffffc98698d52dc0   780    \Device\HarddiskVolume3\Windows\System32\execmodelproxy.dll
+ImageSectionObject 0xffffc98699164d20   780    \Device\HarddiskVolume3\Windows\System32\LicenseManagerApi.dll
+ImageSectionObject 0xffffc98698d525f0   780    \Device\HarddiskVolume3\Windows\System32\SmartCardBackgroundPolicy.dll
+ImageSectionObject 0xffffc98698d4fee0   780    \Device\HarddiskVolume3\Windows\System32\Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy.dll
+ImageSectionObject 0xffffc98698d506b0   780    \Device\HarddiskVolume3\Windows\System32\ACPBackgroundManagerPolicy.dll
+ImageSectionObject 0xffffc98698c41de0   780    \Device\HarddiskVolume3\Windows\System32\Windows.StateRepositoryPS.dll
+ImageSectionObject 0xffffc98698d4d320   780    \Device\HarddiskVolume3\Windows\System32\ExecModelClient.dll
+ImageSectionObject 0xffffc9869878be60   780    \Device\HarddiskVolume3\Windows\System32\capauthz.dll
+ImageSectionObject 0xffffc9869899d570   780    None
+ImageSectionObject 0xffffc98698997170   780    \Device\HarddiskVolume3\Windows\System32\Windows.StateRepositoryCore.dll
+ImageSectionObject 0xffffc986986d7290   780    \Device\HarddiskVolume3\Windows\System32\OneCoreUAPCommonProxyStub.dll
+ImageSectionObject 0xffffc986986e0d40   780    \Device\HarddiskVolume3\Windows\System32\winnsi.dll
+ImageSectionObject 0xffffc986986df8f0   780    \Device\HarddiskVolume3\Windows\System32\AppXDeploymentClient.dll
+ImageSectionObject 0xffffc98698684a50   780    \Device\HarddiskVolume3\Windows\System32\bi.dll
+ImageSectionObject 0xffffc986973dd1c0   780    \Device\HarddiskVolume3\Windows\System32\policymanager.dll
+ImageSectionObject 0xffffc98698682980   780    \Device\HarddiskVolume3\Windows\System32\twinapi.appcore.dll
+ImageSectionObject 0xffffc986973526d0   780    \Device\HarddiskVolume3\Windows\System32\propsys.dll
+ImageSectionObject 0xffffc98697350c40   780    \Device\HarddiskVolume3\Windows\System32\BrokerLib.dll
+ImageSectionObject 0xffffc98697351410   780    \Device\HarddiskVolume3\Windows\System32\dab.dll
+ImageSectionObject 0xffffc98697351280   780    \Device\HarddiskVolume3\Windows\System32\CoreMessaging.dll
+ImageSectionObject 0xffffc9869734fb10   780    \Device\HarddiskVolume3\Windows\System32\SystemEventsBrokerServer.dll
+ImageSectionObject 0xffffc98697fd8ac0   780    \Device\HarddiskVolume3\Windows\System32\PsmServiceExtHost.dll
+ImageSectionObject 0xffffc98697350150   780    \Device\HarddiskVolume3\Windows\System32\ResourcePolicyClient.dll
+ImageSectionObject 0xffffc9869734da40   780    \Device\HarddiskVolume3\Windows\System32\sysntfy.dll
+ImageSectionObject 0xffffc9869734e9e0   780    \Device\HarddiskVolume3\Windows\System32\embeddedmodesvcapi.dll
+ImageSectionObject 0xffffc9869734dbd0   780    \Device\HarddiskVolume3\Windows\System32\wshhyperv.dll
+ImageSectionObject 0xffffc9869734d270   780    \Device\HarddiskVolume3\Windows\System32\rmclient.dll
+ImageSectionObject 0xffffc9869734f660   780    None
+ImageSectionObject 0xffffc9869734ee90   780    None
+ImageSectionObject 0xffffc98697fd7b20   780    \Device\HarddiskVolume3\Windows\System32\psmsrv.dll
+ImageSectionObject 0xffffc98697fd8c50   780    None
+ImageSectionObject 0xffffc98697fd2850   780    \Device\HarddiskVolume3\Windows\System32\windows.storage.dll
+ImageSectionObject 0xffffc98697fd10e0   780    \Device\HarddiskVolume3\Windows\System32\rpcss.dll
+DataSectionObject 0xffffc98697fd10e0   780    \Device\HarddiskVolume3\Windows\System32\rpcss.dll
+ImageSectionObject 0xffffc98697fd3ca0   780    \Device\HarddiskVolume3\Windows\System32\hid.dll
+ImageSectionObject 0xffffc98697f52c50   780    \Device\HarddiskVolume3\Windows\System32\sppc.dll
+DataSectionObject 0xffffc98697f52c50   780    \Device\HarddiskVolume3\Windows\System32\sppc.dll
+ImageSectionObject 0xffffc98697f51b20   780    \Device\HarddiskVolume3\Windows\System32\tdh.dll
+ImageSectionObject 0xffffc98697f51e40   780    \Device\HarddiskVolume3\Windows\System32\dxgi.dll
+ImageSectionObject 0xffffc98697f52930   780    \Device\HarddiskVolume3\Windows\System32\umpoext.dll
+ImageSectionObject 0xffffc98697f52de0   780    \Device\HarddiskVolume3\Windows\System32\umpo.dll
+ImageSectionObject 0xffffc98697f527a0   780    \Device\HarddiskVolume3\Windows\System32\slc.dll
+ImageSectionObject 0xffffc98697f52ac0   780    \Device\HarddiskVolume3\Windows\System32\umpnpmgr.dll
+ImageSectionObject 0xffffc98695bcfb50   780    \Device\HarddiskVolume3\Windows\System32\shlwapi.dll
+ImageSectionObject 0xffffc98695bce3e0   780    \Device\HarddiskVolume3\Windows\System32\wintrust.dll
+ImageSectionObject 0xffffc98695bbde70   780    \Device\HarddiskVolume3\Windows\System32\ole32.dll
+DataSectionObject 0xffffc98695bbde70   780    \Device\HarddiskVolume3\Windows\System32\ole32.dll
+ImageSectionObject 0xffffc986952f50c0   780    \Device\HarddiskVolume3\Windows\System32\coml2.dll
+DataSectionObject 0xffffc98697fd4920   888    \Device\HarddiskVolume3\Windows\System32\en-US\mswsock.dll.mui
+DataSectionObject 0xffffc98698c312b0   888    None
+DataSectionObject 0xffffc986988597b0   888    \Device\HarddiskVolume3\Windows\System32\en-US\KernelBase.dll.mui
+ImageSectionObject 0xffffc986988565b0   888    \Device\HarddiskVolume3\Windows\System32\FWPUCLNT.DLL
+ImageSectionObject 0xffffc98697fd5d70   888    \Device\HarddiskVolume3\Windows\System32\RpcEpMap.dll
+ImageSectionObject 0xffffc98697fd6220   888    \Device\HarddiskVolume3\Windows\System32\RpcRtRemote.dll
+DataSectionObject 0xffffc986973529f0   980    \Device\HarddiskVolume3\Windows\System32\en-US\dwm.exe.mui
+DataSectionObject 0xffffc98697350920   980    \Device\HarddiskVolume3\Windows\System32\en-US\d2d1.dll.mui
+DataSectionObject 0xffffc9869734e850   980    \Device\HarddiskVolume3\Windows\Resources\Themes\aero\aero.msstyles
+DataSectionObject 0xffffc9869914c810   980    \Device\HarddiskVolume3\Windows\Fonts\StaticCache.dat
+SharedCacheMap 0xffffc9869914c810   980    \Device\HarddiskVolume3\Windows\Fonts\StaticCache.dat
+ImageSectionObject 0xffffc98697354610   980    \Device\HarddiskVolume3\Windows\System32\dwmghost.dll
+ImageSectionObject 0xffffc986986d7bf0   980    \Device\HarddiskVolume3\Windows\System32\Windows.Gaming.Input.dll
+ImageSectionObject 0xffffc986986e0bb0   980    \Device\HarddiskVolume3\Windows\System32\version.dll
+ImageSectionObject 0xffffc9869885ba10   980    \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.Controls.dll
+ImageSectionObject 0xffffc9869734d400   980    \Device\HarddiskVolume3\Windows\System32\dwm.exe
+ImageSectionObject 0xffffc98698860380   980    \Device\HarddiskVolume3\Windows\System32\wuceffects.dll
+ImageSectionObject 0xffffc98698859c60   980    \Device\HarddiskVolume3\Windows\System32\TextShaping.dll
+ImageSectionObject 0xffffc9869878fb50   980    \Device\HarddiskVolume3\Windows\System32\BCP47Langs.dll
+ImageSectionObject 0xffffc986987920d0   980    \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.dll
+ImageSectionObject 0xffffc98698793200   980    \Device\HarddiskVolume3\Windows\System32\iertutil.dll
+ImageSectionObject 0xffffc986986e0890   980    \Device\HarddiskVolume3\Windows\System32\cabinet.dll
+ImageSectionObject 0xffffc986986df120   980    \Device\HarddiskVolume3\Windows\System32\DXCore.dll
+ImageSectionObject 0xffffc986986e1ce0   980    \Device\HarddiskVolume3\Windows\System32\vm3dum64_10.dll
+ImageSectionObject 0xffffc986986e2190   980    \Device\HarddiskVolume3\Windows\System32\winmm.dll
+ImageSectionObject 0xffffc98698680720   980    \Device\HarddiskVolume3\Windows\System32\vm3dum64_loader.dll
+ImageSectionObject 0xffffc986986dc6f0   980    \Device\HarddiskVolume3\Windows\System32\Windows.Graphics.dll
+ImageSectionObject 0xffffc98698682660   980    \Device\HarddiskVolume3\Windows\System32\d3d10warp.dll
+ImageSectionObject 0xffffc986986dbd90   980    \Device\HarddiskVolume3\Windows\System32\actxprxy.dll
+ImageSectionObject 0xffffc986986dc3d0   980    \Device\HarddiskVolume3\Windows\System32\DispBroker.dll
+ImageSectionObject 0xffffc98698685860   980    \Device\HarddiskVolume3\Windows\System32\WindowsCodecs.dll
+ImageSectionObject 0xffffc986986d91d0   980    \Device\HarddiskVolume3\Windows\System32\GameInput.dll
+ImageSectionObject 0xffffc986986848c0   980    \Device\HarddiskVolume3\Windows\System32\mscms.dll
+ImageSectionObject 0xffffc986986832e0   980    \Device\HarddiskVolume3\Windows\System32\DispBroker.Desktop.dll
+ImageSectionObject 0xffffc98698683ab0   980    \Device\HarddiskVolume3\Windows\System32\coloradapterclient.dll
+ImageSectionObject 0xffffc986986840f0   980    None
+ImageSectionObject 0xffffc986986808b0   980    \Device\HarddiskVolume3\Windows\System32\WindowManagementAPI.dll
+ImageSectionObject 0xffffc98698680590   980    \Device\HarddiskVolume3\Windows\System32\ISM.dll
+ImageSectionObject 0xffffc98698682340   980    \Device\HarddiskVolume3\Windows\System32\ninput.dll
+ImageSectionObject 0xffffc986986800e0   980    \Device\HarddiskVolume3\Windows\System32\avrt.dll
+ImageSectionObject 0xffffc986973523b0   980    \Device\HarddiskVolume3\Windows\System32\dcomp.dll
+ImageSectionObject 0xffffc98697350ab0   980    \Device\HarddiskVolume3\Windows\System32\WinTypes.dll
+ImageSectionObject 0xffffc9869734d8b0   980    \Device\HarddiskVolume3\Windows\System32\xmllite.dll
+DataSectionObject 0xffffc9869734d8b0   980    \Device\HarddiskVolume3\Windows\System32\xmllite.dll
+ImageSectionObject 0xffffc98697350790   980    \Device\HarddiskVolume3\Windows\System32\d3d11.dll
+ImageSectionObject 0xffffc98697352860   980    \Device\HarddiskVolume3\Windows\System32\D3DCompiler_47.dll
+ImageSectionObject 0xffffc98697350600   980    \Device\HarddiskVolume3\Windows\System32\d2d1.dll
+ImageSectionObject 0xffffc986973518c0   980    \Device\HarddiskVolume3\Windows\System32\CoreUIComponents.dll
+ImageSectionObject 0xffffc98697351d70   980    \Device\HarddiskVolume3\Windows\System32\dwmcore.dll
+ImageSectionObject 0xffffc98697352220   980    \Device\HarddiskVolume3\Windows\System32\uDWM.dll
+ImageSectionObject 0xffffc986973502e0   980    \Device\HarddiskVolume3\Windows\System32\dwmredir.dll
+ImageSectionObject 0xffffc986952f5250   980    \Device\HarddiskVolume3\Windows\System32\shell32.dll
+DataSectionObject 0xffffc986952f5250   980    \Device\HarddiskVolume3\Windows\System32\shell32.dll
+DataSectionObject 0xffffc9869973a300   496    None
+SharedCacheMap 0xffffc9869973a300   496    None
+DataSectionObject 0xffffc98698865330   496    \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000001.db
+DataSectionObject 0xffffc98698d5b5b0   496    \Device\HarddiskVolume3\Windows\System32\msxml6r.dll
+DataSectionObject 0xffffc98698b356a0   496    \Device\HarddiskVolume3\Windows\System32\en-US\iphlpsvc.dll.mui
+DataSectionObject 0xffffc98698857eb0   496    \Device\HarddiskVolume3\Windows\System32\en-US\gpsvc.dll.mui
+DataSectionObject 0xffffc98698c27e40   496    \Device\HarddiskVolume3\Windows\System32\en-US\wldap32.dll.mui
+DataSectionObject 0xffffc986988617d0   496    \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\Caches\cversions.2.db
+DataSectionObject 0xffffc986988657e0   496    \Device\HarddiskVolume3\Windows\System32\en-US\propsys.dll.mui
+DataSectionObject 0xffffc98698b2ca00   496    \Device\HarddiskVolume3\Windows\System32\en-US\vsstrace.dll.mui
+DataSectionObject 0xffffc98698864b60   496    \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000001.db
+DataSectionObject 0xffffc98698c2f370   496    \Device\HarddiskVolume3\Windows\System32\en-US\ESENT.dll.mui
+DataSectionObject 0xffffc98698b34bb0   496    \Device\HarddiskVolume3\Windows\System32\en-US\SHCore.dll.mui
+DataSectionObject 0xffffc9869914e2a0   496    \Device\HarddiskVolume3\Windows\System32\en-US\shell32.dll.mui
+DataSectionObject 0xffffc98698d5bbf0   496    \Device\HarddiskVolume3\Windows\System32\winnlsres.dll
+DataSectionObject 0xffffc98698d59b20   496    \Device\HarddiskVolume3\Windows\System32\en-US\winnlsres.dll.mui
+DataSectionObject 0xffffc9869a23a370   496    \Device\HarddiskVolume3\Windows\System32\en-US\Windows.Web.dll.mui
+ImageSectionObject 0xffffc98698b2c230   496    \Device\HarddiskVolume3\Windows\System32\wbemcomn.dll
+ImageSectionObject 0xffffc9869a7df3b0   496    \Device\HarddiskVolume3\Windows\System32\appinfo.dll
+DataSectionObject 0xffffc9869ac39320   496    \Device\HarddiskVolume3\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+DataSectionObject 0xffffc9869ac36da0   496    \Device\HarddiskVolume3\Windows\System32\en-US\usosvc.dll.mui
+ImageSectionObject 0xffffc98698862a90   496    \Device\HarddiskVolume3\Windows\System32\prm0009.dll
+ImageSectionObject 0xffffc9869974b920   496    None
+ImageSectionObject 0xffffc98698684410   496    \Device\HarddiskVolume3\Windows\System32\wuaueng.dll
+DataSectionObject 0xffffc98698684410   496    \Device\HarddiskVolume3\Windows\System32\wuaueng.dll
+ImageSectionObject 0xffffc98699155af0   496    \Device\HarddiskVolume3\Windows\System32\enterprisecsps.dll
+ImageSectionObject 0xffffc9869975cdb0   496    \Device\HarddiskVolume3\Windows\System32\dmenterprisediagnostics.dll
+ImageSectionObject 0xffffc9869a23e9c0   496    \Device\HarddiskVolume3\Windows\System32\dmenrollengine.dll
+ImageSectionObject 0xffffc9869a7d36a0   496    \Device\HarddiskVolume3\Windows\System32\configmanager2.dll
+ImageSectionObject 0xffffc9869a23faf0   496    \Device\HarddiskVolume3\Windows\System32\dmxmlhelputils.dll
+ImageSectionObject 0xffffc98699749d00   496    \Device\HarddiskVolume3\Windows\System32\wuuhext.dll
+ImageSectionObject 0xffffc9869c4c2850   496    \Device\HarddiskVolume3\Windows\System32\storewuauth.dll
+ImageSectionObject 0xffffc9869914dc60   496    \Device\HarddiskVolume3\Windows\System32\UpdateDeploymentProvider.dll
+ImageSectionObject 0xffffc9869a24cde0   496    \Device\HarddiskVolume3\Windows\System32\InstallService.dll
+ImageSectionObject 0xffffc98699737740   496    \Device\HarddiskVolume3\Windows\System32\LocationFramework.dll
+ImageSectionObject 0xffffc9869c4b9250   496    \Device\HarddiskVolume3\Windows\System32\AppXApplicabilityBlob.dll
+ImageSectionObject 0xffffc9869a23ece0   496    None
+ImageSectionObject 0xffffc9869a2382a0   496    \Device\HarddiskVolume3\Windows\System32\wcmapi.dll
+ImageSectionObject 0xffffc9869ac37700   496    None
+ImageSectionObject 0xffffc9869a7f0840   496    \Device\HarddiskVolume3\Windows\System32\wuuhosdeployment.dll
+ImageSectionObject 0xffffc9869a237490   496    \Device\HarddiskVolume3\Windows\System32\usosvc.dll
+ImageSectionObject 0xffffc9869a0e2410   496    None
+ImageSectionObject 0xffffc9869a0ccac0   496    \Device\HarddiskVolume3\Windows\System32\OpcServices.dll
+ImageSectionObject 0xffffc9869a0cb350   496    \Device\HarddiskVolume3\Windows\System32\AppxPackaging.dll
+ImageSectionObject 0xffffc9869c487700   496    \Device\HarddiskVolume3\Windows\System32\upshared.dll
+ImageSectionObject 0xffffc9869ac38b50   496    \Device\HarddiskVolume3\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication.dll
+ImageSectionObject 0xffffc98698c3cb10   496    \Device\HarddiskVolume3\Program Files\Windows Defender\MpOAV.dll
+ImageSectionObject 0xffffc98698d5ba60   496    \Device\HarddiskVolume3\Windows\System32\webio.dll
+ImageSectionObject 0xffffc9869915c6c0   496    \Device\HarddiskVolume3\Windows\System32\webservices.dll
+DataSectionObject 0xffffc9869915c6c0   496    \Device\HarddiskVolume3\Windows\System32\webservices.dll
+ImageSectionObject 0xffffc986997335a0   496    None
+ImageSectionObject 0xffffc9869915fa50   496    \Device\HarddiskVolume3\Windows\System32\CertEnroll.dll
+ImageSectionObject 0xffffc98699164a00   496    \Device\HarddiskVolume3\Windows\System32\certca.dll
+ImageSectionObject 0xffffc9869c4bd580   496    \Device\HarddiskVolume3\Windows\System32\usoapi.dll
+ImageSectionObject 0xffffc98698c2b9a0   496    \Device\HarddiskVolume3\Windows\System32\wbem\NCProv.dll
+ImageSectionObject 0xffffc9869973cec0   496    \Device\HarddiskVolume3\Windows\System32\LocationWinPalMisc.dll
+ImageSectionObject 0xffffc98698c2cdf0   496    \Device\HarddiskVolume3\Windows\System32\omadmapi.dll
+ImageSectionObject 0xffffc98698c2aeb0   496    \Device\HarddiskVolume3\Windows\System32\dmcmnutils.dll
+ImageSectionObject 0xffffc98699367de0   496    \Device\HarddiskVolume3\Windows\System32\Clipc.dll
+DataSectionObject 0xffffc98699367de0   496    \Device\HarddiskVolume3\Windows\System32\Clipc.dll
+ImageSectionObject 0xffffc9869914c680   496    \Device\HarddiskVolume3\Windows\System32\edputil.dll
+ImageSectionObject 0xffffc986991578a0   496    \Device\HarddiskVolume3\Windows\System32\Windows.Web.dll
+ImageSectionObject 0xffffc9869a7c4ab0   496    \Device\HarddiskVolume3\Windows\System32\DeviceUpdateCenterCsp.dll
+ImageSectionObject 0xffffc98698c2c620   496    \Device\HarddiskVolume3\Windows\System32\iri.dll
+ImageSectionObject 0xffffc98698d54e90   496    \Device\HarddiskVolume3\Windows\System32\AppExtension.dll
+ImageSectionObject 0xffffc98698d58860   496    \Device\HarddiskVolume3\Windows\System32\msxml6.dll
+ImageSectionObject 0xffffc98698d59990   496    \Device\HarddiskVolume3\Windows\System32\Windows.Security.Authentication.OnlineId.dll
+ImageSectionObject 0xffffc98699dc0850   496    None
+ImageSectionObject 0xffffc98698d58b80   496    \Device\HarddiskVolume3\Windows\System32\vaultcli.dll
+ImageSectionObject 0xffffc9869a258640   496    \Device\HarddiskVolume3\Windows\System32\enterpriseresourcemanager.dll
+ImageSectionObject 0xffffc98698d55660   496    \Device\HarddiskVolume3\Windows\System32\dusmapi.dll
+ImageSectionObject 0xffffc98698d55b10   496    \Device\HarddiskVolume3\Windows\System32\Windows.Networking.Connectivity.dll
+ImageSectionObject 0xffffc98698d4de10   496    \Device\HarddiskVolume3\Windows\System32\TokenBroker.dll
+ImageSectionObject 0xffffc98698d52c30   496    \Device\HarddiskVolume3\Windows\System32\wlidprov.dll
+ImageSectionObject 0xffffc98698c40990   496    \Device\HarddiskVolume3\Windows\System32\tokenbinding.dll
+ImageSectionObject 0xffffc98698d4edb0   496    \Device\HarddiskVolume3\Windows\System32\Windows.Security.Authentication.Web.Core.dll
+ImageSectionObject 0xffffc98698c3fd10   496    \Device\HarddiskVolume3\Windows\System32\FlightSettings.dll
+ImageSectionObject 0xffffc9869c4bfe20   496    \Device\HarddiskVolume3\Windows\System32\shacctprofile.dll
+ImageSectionObject 0xffffc986991597e0   496    \Device\HarddiskVolume3\Windows\System32\ProductEnumerator.dll
+ImageSectionObject 0xffffc98698c3fb80   496    None
+ImageSectionObject 0xffffc98698c3e5a0   496    None
+ImageSectionObject 0xffffc98698c3bb70   496    \Device\HarddiskVolume3\Windows\System32\wbem\WmiPrvSD.dll
+ImageSectionObject 0xffffc98698b359c0   496    \Device\HarddiskVolume3\Windows\System32\mi.dll
+ImageSectionObject 0xffffc98698c376b0   496    \Device\HarddiskVolume3\Windows\System32\wbem\fastprox.dll
+ImageSectionObject 0xffffc98698c3b210   496    \Device\HarddiskVolume3\Windows\System32\wbem\wmiutils.dll
+ImageSectionObject 0xffffc98698c3ad60   496    \Device\HarddiskVolume3\Windows\System32\wbem\repdrvfs.dll
+ImageSectionObject 0xffffc98698c3b3a0   496    \Device\HarddiskVolume3\Windows\System32\amsi.dll
+ImageSectionObject 0xffffc98698c38e20   496    \Device\HarddiskVolume3\Windows\System32\wbem\wbemsvc.dll
+ImageSectionObject 0xffffc98698c39460   496    \Device\HarddiskVolume3\Windows\System32\wbem\esscli.dll
+ImageSectionObject 0xffffc98698b35b50   496    \Device\HarddiskVolume3\Windows\System32\clusapi.dll
+ImageSectionObject 0xffffc98698c2dd90   496    \Device\HarddiskVolume3\Windows\System32\wbem\wbemprox.dll
+ImageSectionObject 0xffffc98698c387e0   496    \Device\HarddiskVolume3\Windows\System32\wbem\wbemcore.dll
+ImageSectionObject 0xffffc98698c25280   496    \Device\HarddiskVolume3\Windows\System32\esent.dll
+ImageSectionObject 0xffffc98698b35510   496    \Device\HarddiskVolume3\Windows\System32\wmidcom.dll
+ImageSectionObject 0xffffc98698b34700   496    \Device\HarddiskVolume3\Windows\System32\resutils.dll
+ImageSectionObject 0xffffc98698b37770   496    \Device\HarddiskVolume3\Windows\System32\miutils.dll
+ImageSectionObject 0xffffc98698b32ae0   496    None
+ImageSectionObject 0xffffc98698b34ed0   496    \Device\HarddiskVolume3\Windows\System32\wpncore.dll
+ImageSectionObject 0xffffc98698b372c0   496    \Device\HarddiskVolume3\Windows\System32\sscore.dll
+ImageSectionObject 0xffffc98698b375e0   496    \Device\HarddiskVolume3\Windows\System32\sscoreext.dll
+ImageSectionObject 0xffffc9869a7f3720   496    \Device\HarddiskVolume3\Windows\System32\AppxStreamingDataSourcePS.dll
+ImageSectionObject 0xffffc98698b319b0   496    \Device\HarddiskVolume3\Windows\System32\srvsvc.dll
+ImageSectionObject 0xffffc9869a258320   496    \Device\HarddiskVolume3\Windows\System32\dmoleaututils.dll
+ImageSectionObject 0xffffc98698b335d0   496    None
+ImageSectionObject 0xffffc98698b2db30   496    None
+ImageSectionObject 0xffffc98698b306f0   496    \Device\HarddiskVolume3\Windows\System32\NetSetupApi.dll
+ImageSectionObject 0xffffc98698b33c10   496    None
+ImageSectionObject 0xffffc98698b30560   496    \Device\HarddiskVolume3\Windows\System32\iphlpsvc.dll
+ImageSectionObject 0xffffc98698b2b8d0   496    \Device\HarddiskVolume3\Windows\System32\vsstrace.dll
+ImageSectionObject 0xffffc98698b2ceb0   496    \Device\HarddiskVolume3\Windows\System32\vssapi.dll
+ImageSectionObject 0xffffc986986d7d80   496    \Device\HarddiskVolume3\Windows\System32\profsvcext.dll
+ImageSectionObject 0xffffc9869885bec0   496    \Device\HarddiskVolume3\Windows\System32\shsvcs.dll
+ImageSectionObject 0xffffc986989a31a0   496    \Device\HarddiskVolume3\Windows\System32\fwpolicyiomgr.dll
+ImageSectionObject 0xffffc98698b2c0a0   496    \Device\HarddiskVolume3\Windows\System32\wbem\WMIsvc.dll
+ImageSectionObject 0xffffc9869899dd40   496    \Device\HarddiskVolume3\Windows\System32\Windows.CloudStore.dll
+ImageSectionObject 0xffffc98698995d20   496    \Device\HarddiskVolume3\Windows\System32\ProximityCommonPal.dll
+ImageSectionObject 0xffffc986988625e0   496    \Device\HarddiskVolume3\Windows\System32\rasadhlp.dll
+ImageSectionObject 0xffffc98698994bf0   496    \Device\HarddiskVolume3\Windows\System32\ProximityServicePal.dll
+ImageSectionObject 0xffffc986989945b0   496    \Device\HarddiskVolume3\Windows\System32\ProximityService.dll
+ImageSectionObject 0xffffc98698994740   496    \Device\HarddiskVolume3\Windows\System32\ProximityCommon.dll
+ImageSectionObject 0xffffc98698863bc0   496    \Device\HarddiskVolume3\Windows\System32\DevDispItemProvider.dll
+ImageSectionObject 0xffffc98697352b80   496    \Device\HarddiskVolume3\Windows\System32\gamestreamingext.dll
+ImageSectionObject 0xffffc9869a254e00   496    \Device\HarddiskVolume3\Windows\System32\usocoreps.dll
+ImageSectionObject 0xffffc98698865e20   496    \Device\HarddiskVolume3\Windows\System32\IDStore.dll
+ImageSectionObject 0xffffc9869a7ef710   496    \Device\HarddiskVolume3\Windows\System32\dmiso8601utils.dll
+ImageSectionObject 0xffffc9869974e800   496    \Device\HarddiskVolume3\Windows\System32\wups.dll
+ImageSectionObject 0xffffc98699757630   496    \Device\HarddiskVolume3\Windows\System32\msauserext.dll
+ImageSectionObject 0xffffc98699726120   496    \Device\HarddiskVolume3\Windows\System32\CapabilityAccessManagerClient.dll
+ImageSectionObject 0xffffc986988646b0   496    \Device\HarddiskVolume3\Windows\System32\StructuredQuery.dll
+ImageSectionObject 0xffffc986988633f0   496    \Device\HarddiskVolume3\Windows\System32\MSWB7.dll
+ImageSectionObject 0xffffc9869974e1c0   496    \Device\HarddiskVolume3\Windows\System32\wuapi.dll
+DataSectionObject 0xffffc9869974e1c0   496    \Device\HarddiskVolume3\Windows\System32\wuapi.dll
+ImageSectionObject 0xffffc98699729af0   496    \Device\HarddiskVolume3\Windows\System32\lfsvc.dll
+ImageSectionObject 0xffffc98699da9790   496    \Device\HarddiskVolume3\Windows\System32\LocationFrameworkPS.dll
+ImageSectionObject 0xffffc98698861320   496    \Device\HarddiskVolume3\Windows\System32\Windows.ApplicationModel.dll
+ImageSectionObject 0xffffc9869ac34690   496    None
+ImageSectionObject 0xffffc9869a23b180   496    \Device\HarddiskVolume3\Windows\System32\wosc.dll
+DataSectionObject 0xffffc9869a23b180   496    \Device\HarddiskVolume3\Windows\System32\wosc.dll
+ImageSectionObject 0xffffc9869885f700   496    \Device\HarddiskVolume3\Windows\System32\fveapi.dll
+ImageSectionObject 0xffffc9869885eda0   496    \Device\HarddiskVolume3\Windows\System32\npmproxy.dll
+ImageSectionObject 0xffffc986986e0a20   496    \Device\HarddiskVolume3\Windows\System32\dhcpcsvc6.dll
+ImageSectionObject 0xffffc9869878a560   496    \Device\HarddiskVolume3\Windows\System32\themeservice.dll
+ImageSectionObject 0xffffc98698858cc0   496    \Device\HarddiskVolume3\Windows\System32\urlmon.dll
+ImageSectionObject 0xffffc986988570a0   496    \Device\HarddiskVolume3\Windows\System32\winhttp.dll
+ImageSectionObject 0xffffc98698791130   496    \Device\HarddiskVolume3\Windows\System32\BCP47mrm.dll
+ImageSectionObject 0xffffc986987907d0   496    \Device\HarddiskVolume3\Windows\System32\MrmCoreR.dll
+ImageSectionObject 0xffffc9869878a0b0   496    \Device\HarddiskVolume3\Windows\System32\Sens.dll
+DataSectionObject 0xffffc9869878a0b0   496    \Device\HarddiskVolume3\Windows\System32\Sens.dll
+ImageSectionObject 0xffffc986986e3770   496    \Device\HarddiskVolume3\Windows\System32\WPTaskScheduler.dll
+ImageSectionObject 0xffffc986986e3a90   496    \Device\HarddiskVolume3\Windows\System32\dhcpcsvc.dll
+ImageSectionObject 0xffffc98698858360   496    \Device\HarddiskVolume3\Windows\System32\mobilenetworking.dll
+ImageSectionObject 0xffffc986986de310   496    \Device\HarddiskVolume3\Windows\System32\UserMgrProxy.dll
+ImageSectionObject 0xffffc986986e2640   496    \Device\HarddiskVolume3\Windows\System32\netjoin.dll
+ImageSectionObject 0xffffc986986de950   496    \Device\HarddiskVolume3\Windows\System32\TimeBrokerClient.dll
+ImageSectionObject 0xffffc986986dadf0   496    \Device\HarddiskVolume3\Windows\System32\samcli.dll
+ImageSectionObject 0xffffc986986daad0   496    \Device\HarddiskVolume3\Windows\System32\usermgr.dll
+ImageSectionObject 0xffffc986973d9ca0   496    \Device\HarddiskVolume3\Windows\System32\gpsvc.dll
+ImageSectionObject 0xffffc986986d8eb0   496    \Device\HarddiskVolume3\Windows\System32\ubpm.dll
+ImageSectionObject 0xffffc986986d9360   496    \Device\HarddiskVolume3\Windows\System32\netprofm.dll
+DataSectionObject 0xffffc986986d9360   496    \Device\HarddiskVolume3\Windows\System32\netprofm.dll
+ImageSectionObject 0xffffc986986da170   496    \Device\HarddiskVolume3\Windows\System32\taskcomp.dll
+ImageSectionObject 0xffffc986986d83c0   496    \Device\HarddiskVolume3\Windows\System32\profsvc.dll
+ImageSectionObject 0xffffc9869a22b2d0   496    \Device\HarddiskVolume3\Windows\System32\ELSCore.dll
+ImageSectionObject 0xffffc986986d9e50   496    \Device\HarddiskVolume3\Windows\System32\schedsvc.dll
+ImageSectionObject 0xffffc986986d9b30   496    \Device\HarddiskVolume3\Windows\System32\wmiclnt.dll
+ImageSectionObject 0xffffc986986dcba0   496    \Device\HarddiskVolume3\Windows\System32\CSystemEventsBrokerClient.dll
+ImageSectionObject 0xffffc98698681d00   496    None
+ImageSectionObject 0xffffc986973dc3b0   496    \Device\HarddiskVolume3\Windows\System32\nlaapi.dll
+ImageSectionObject 0xffffc98697352090   496    \Device\HarddiskVolume3\Windows\System32\samlib.dll
+ImageSectionObject 0xffffc9869c49a7b0   496    \Device\HarddiskVolume3\Windows\System32\OnDemandBrokerClient.dll
+ImageSectionObject 0xffffc98698c336a0   496    None
+ImageSectionObject 0xffffc98698b3ac90   388    \Device\HarddiskVolume3\Windows\System32\radardt.dll
+ImageSectionObject 0xffffc98698c39aa0   388    \Device\HarddiskVolume3\Windows\System32\ncuprov.dll
+ImageSectionObject 0xffffc98698c3b6c0   388    \Device\HarddiskVolume3\Windows\System32\energyprov.dll
+ImageSectionObject 0xffffc98698d45490   388    \Device\HarddiskVolume3\Windows\System32\srumapi.dll
+ImageSectionObject 0xffffc98698c32a20   388    \Device\HarddiskVolume3\Windows\System32\eeprov.dll
+ImageSectionObject 0xffffc98698c30e00   388    \Device\HarddiskVolume3\Windows\System32\nduprov.dll
+ImageSectionObject 0xffffc98698c32890   388    \Device\HarddiskVolume3\Windows\System32\appsruprov.dll
+ImageSectionObject 0xffffc98698c320c0   388    \Device\HarddiskVolume3\Windows\System32\vfuprov.dll
+ImageSectionObject 0xffffc98698c33830   388    \Device\HarddiskVolume3\Windows\System32\wpnsruprov.dll
+ImageSectionObject 0xffffc98698c24ab0   388    \Device\HarddiskVolume3\Windows\System32\srumsvc.dll
+ImageSectionObject 0xffffc9869899ab40   388    \Device\HarddiskVolume3\Windows\System32\wwapi.dll
+ImageSectionObject 0xffffc98698b2d1d0   388    \Device\HarddiskVolume3\Windows\System32\wdi.dll
+ImageSectionObject 0xffffc9869c4903a0   388    \Device\HarddiskVolume3\Windows\System32\energy.dll
+ImageSectionObject 0xffffc98698b2bd80   388    \Device\HarddiskVolume3\Windows\System32\dps.dll
+ImageSectionObject 0xffffc9869878c7c0   388    \Device\HarddiskVolume3\Windows\System32\wlanapi.dll
+ImageSectionObject 0xffffc98698b36960   388    \Device\HarddiskVolume3\Windows\System32\pnpts.dll
+ImageSectionObject 0xffffc98698687ac0   388    \Device\HarddiskVolume3\Windows\System32\taskschd.dll
+DataSectionObject 0xffffc98698687ac0   388    \Device\HarddiskVolume3\Windows\System32\taskschd.dll
+ImageSectionObject 0xffffc986986dba70   720    \Device\HarddiskVolume3\Windows\System32\wevtsvc.dll
+ImageSectionObject 0xffffc9869a0bfe10   720    \Device\HarddiskVolume3\Windows\System32\SmsRouterSvc.dll
+ImageSectionObject 0xffffc9869a0c45f0   720    \Device\HarddiskVolume3\Windows\System32\CellularAPI.dll
+ImageSectionObject 0xffffc9869a0c4910   720    None
+ImageSectionObject 0xffffc9869a0c0c20   720    None
+ImageSectionObject 0xffffc986986e0250   720    \Device\HarddiskVolume3\Windows\System32\dhcpcore6.dll
+ImageSectionObject 0xffffc986986dfc10   720    \Device\HarddiskVolume3\Windows\System32\dhcpcore.dll
+ImageSectionObject 0xffffc986973d97f0   720    \Device\HarddiskVolume3\Windows\System32\lmhsvc.dll
+ImageSectionObject 0xffffc986973d9e30   720    \Device\HarddiskVolume3\Windows\System32\TimeBrokerServer.dll
+DataSectionObject 0xffffc986973dc540   956    \Device\HarddiskVolume3\Windows\System32\PhoneutilRes.dll
+ImageSectionObject 0xffffc986973db0f0   956    \Device\HarddiskVolume3\Windows\System32\CallHistoryClient.dll
+ImageSectionObject 0xffffc986973de610   956    \Device\HarddiskVolume3\Windows\System32\wshbth.dll
+ImageSectionObject 0xffffc9869899d0c0   956    \Device\HarddiskVolume3\Windows\System32\NfcRadioMedia.dll
+ImageSectionObject 0xffffc9869899a500   956    \Device\HarddiskVolume3\Windows\System32\WlanRadioManager.dll
+ImageSectionObject 0xffffc9869899ca80   956    \Device\HarddiskVolume3\Windows\System32\XboxGipRadioManager.dll
+ImageSectionObject 0xffffc9869899c2b0   956    \Device\HarddiskVolume3\Windows\System32\WwanRadioManager.dll
+ImageSectionObject 0xffffc98698995eb0   956    \Device\HarddiskVolume3\Windows\System32\RMapi.dll
+ImageSectionObject 0xffffc98698683600   956    \Device\HarddiskVolume3\Windows\System32\BthRadioMedia.dll
+ImageSectionObject 0xffffc986973dac40   956    \Device\HarddiskVolume3\Windows\System32\UserDataTypeHelperUtil.dll
+ImageSectionObject 0xffffc986973db410   956    \Device\HarddiskVolume3\Windows\System32\Phoneutil.dll
+ImageSectionObject 0xffffc98697353b20   956    \Device\HarddiskVolume3\Windows\System32\PhoneOm.dll
+ImageSectionObject 0xffffc986973dc220   956    \Device\HarddiskVolume3\Windows\System32\UserDataPlatformHelperUtil.dll
+ImageSectionObject 0xffffc986973dba50   956    \Device\HarddiskVolume3\Windows\System32\Pimstore.dll
+ImageSectionObject 0xffffc986973db5a0   956    \Device\HarddiskVolume3\Windows\System32\BTAGService.dll
+DataSectionObject 0xffffc9869885d630   416    \Device\HarddiskVolume3\Windows\System32\netmsg.dll
+DataSectionObject 0xffffc9869885d950   416    \Device\HarddiskVolume3\Windows\System32\en-US\netmsg.dll.mui
+DataSectionObject 0xffffc98699363470   416    \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-FontSet-S-1-5-21-1894407743-3967686128-666271048-1000.dat
+DataSectionObject 0xffffc98699365540   416    \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-S-1-5-21-1894407743-3967686128-666271048-1000.dat
+DataSectionObject 0xffffc98698790af0   416    \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-System.dat
+DataSectionObject 0xffffc98698790c80   416    \Device\HarddiskVolume3\Windows\System32\en-US\netprofmsvc.dll.mui
+DataSectionObject 0xffffc98698c33510   416    \Device\HarddiskVolume3\Windows\System32\stdole2.tlb
+SharedCacheMap 0xffffc98698c33510   416    \Device\HarddiskVolume3\Windows\System32\stdole2.tlb
+DataSectionObject 0xffffc9869878b820   416    \Device\HarddiskVolume3\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-FontFace.dat
+ImageSectionObject 0xffffc98698c33380   416    \Device\HarddiskVolume3\Windows\System32\es.dll
+DataSectionObject 0xffffc98698c33380   416    \Device\HarddiskVolume3\Windows\System32\es.dll
+SharedCacheMap 0xffffc98698c33380   416    \Device\HarddiskVolume3\Windows\System32\es.dll
+ImageSectionObject 0xffffc98698d594e0   416    \Device\HarddiskVolume3\Windows\System32\biwinrt.dll
+ImageSectionObject 0xffffc98698d5b420   416    \Device\HarddiskVolume3\Windows\System32\Windows.Networking.dll
+ImageSectionObject 0xffffc98698d53a40   416    \Device\HarddiskVolume3\Windows\System32\sbservicetrigger.dll
+ImageSectionObject 0xffffc98698d59350   416    \Device\HarddiskVolume3\Windows\System32\Windows.Devices.Bluetooth.dll
+ImageSectionObject 0xffffc98698c41160   416    \Device\HarddiskVolume3\Windows\System32\Windows.Networking.HostName.dll
+ImageSectionObject 0xffffc98698d53590   416    \Device\HarddiskVolume3\Windows\System32\cdpsvc.dll
+ImageSectionObject 0xffffc986973dcb80   416    \Device\HarddiskVolume3\Windows\System32\BthAvctpSvc.dll
+ImageSectionObject 0xffffc98698d4c830   416    \Device\HarddiskVolume3\Windows\System32\Microsoft.Bluetooth.Proxy.dll
+ImageSectionObject 0xffffc98698d52140   416    \Device\HarddiskVolume3\Windows\System32\ShareHost.dll
+ImageSectionObject 0xffffc98698d4b570   416    \Device\HarddiskVolume3\Windows\System32\cdp.dll
+ImageSectionObject 0xffffc98698b34570   416    \Device\HarddiskVolume3\Windows\System32\perftrack.dll
+ImageSectionObject 0xffffc98699364730   416    \Device\HarddiskVolume3\Windows\System32\LicenseManager.dll
+ImageSectionObject 0xffffc98699757310   416    \Device\HarddiskVolume3\Windows\System32\AuthBroker.dll
+ImageSectionObject 0xffffc9869885d180   416    \Device\HarddiskVolume3\Windows\System32\computenetwork.dll
+ImageSectionObject 0xffffc986997499e0   416    \Device\HarddiskVolume3\Windows\System32\LicenseManagerSvc.dll
+ImageSectionObject 0xffffc98698790e10   416    \Device\HarddiskVolume3\Windows\System32\netprofmsvc.dll
+ImageSectionObject 0xffffc986997448a0   416    \Device\HarddiskVolume3\Windows\System32\BluetoothApis.dll
+ImageSectionObject 0xffffc9869878e0c0   416    \Device\HarddiskVolume3\Windows\System32\FontProvider.dll
+ImageSectionObject 0xffffc9869878b9b0   416    \Device\HarddiskVolume3\Windows\System32\FntCache.dll
+ImageSectionObject 0xffffc98698680400   416    \Device\HarddiskVolume3\Windows\System32\Windows.Internal.Bluetooth.dll
+ImageSectionObject 0xffffc98698786b90   416    \Device\HarddiskVolume3\Windows\System32\ncsi.dll
+ImageSectionObject 0xffffc986986de180   416    \Device\HarddiskVolume3\Windows\System32\nsisvc.dll
+ImageSectionObject 0xffffc98698682b10   416    \Device\HarddiskVolume3\Windows\System32\Windows.Devices.Radios.dll
+ImageSectionObject 0xffffc986973daab0   416    \Device\HarddiskVolume3\Windows\System32\Microsoft.Bluetooth.Service.dll
+ImageSectionObject 0xffffc986973dcd10   416    \Device\HarddiskVolume3\Windows\System32\bthserv.dll
+ImageSectionObject 0xffffc986973dcea0   416    \Device\HarddiskVolume3\Windows\System32\BthTelemetry.dll
+ImageSectionObject 0xffffc986973dadd0   416    \Device\HarddiskVolume3\Windows\System32\WppRecorderUM.dll
+DataSectionObject 0xffffc986989a1a30   1084   None
+DataSectionObject 0xffffc9869878b690   1084   \Device\HarddiskVolume3\Windows\System32\en-US\MMDevAPI.dll.mui
+DataSectionObject 0xffffc9869878e250   1084   \Device\HarddiskVolume3\Windows\System32\en-US\AudioEndpointBuilder.dll.mui
+DataSectionObject 0xffffc98699d94610   1084   \Device\HarddiskVolume3\Windows\System32\en-US\kernel32.dll.mui
+ImageSectionObject 0xffffc9869a7f06b0   1084   \Device\HarddiskVolume3\Windows\System32\sfc.dll
+DataSectionObject 0xffffc98699153bb0   1084   \Device\HarddiskVolume3\Windows\System32\en-US\windows.storage.dll.mui
+DataSectionObject 0xffffc9869c4b5560   1084   \Device\HarddiskVolume3\Windows\System32\en-US\newdev.dll.mui
+ImageSectionObject 0xffffc9869a239d30   1084   \Device\HarddiskVolume3\Windows\System32\StorSvc.dll
+ImageSectionObject 0xffffc986993653b0   1084   \Device\HarddiskVolume3\Windows\System32\sfc_os.dll
+ImageSectionObject 0xffffc98699d942f0   1084   \Device\HarddiskVolume3\Windows\System32\apisampling.dll
+ImageSectionObject 0xffffc9869a7f3400   1084   \Device\HarddiskVolume3\Windows\System32\pcadm.dll
+ImageSectionObject 0xffffc98698c2eec0   1084   \Device\HarddiskVolume3\Windows\System32\pcasvc.dll
+ImageSectionObject 0xffffc98699146be0   1084   \Device\HarddiskVolume3\Windows\System32\TabSvc.dll
+ImageSectionObject 0xffffc9869c4ad220   1084   \Device\HarddiskVolume3\Windows\System32\newdev.dll
+ImageSectionObject 0xffffc98698b30d30   1084   \Device\HarddiskVolume3\Windows\System32\trkwks.dll
+ImageSectionObject 0xffffc98698d43d20   1084   \Device\HarddiskVolume3\Windows\System32\aepic.dll
+ImageSectionObject 0xffffc98698d4f8a0   1084   \Device\HarddiskVolume3\Windows\System32\bcd.dll
+ImageSectionObject 0xffffc98698c2b4f0   1084   \Device\HarddiskVolume3\Windows\System32\fltLib.dll
+ImageSectionObject 0xffffc98699d92090   1084   \Device\HarddiskVolume3\Windows\System32\pcacli.dll
+ImageSectionObject 0xffffc9869c4afc50   1084   \Device\HarddiskVolume3\Windows\System32\dxgwdi.dll
+ImageSectionObject 0xffffc9869915cb70   1084   \Device\HarddiskVolume3\Windows\System32\devrtl.dll
+ImageSectionObject 0xffffc98699744710   1084   \Device\HarddiskVolume3\Windows\System32\dafBth.dll
+ImageSectionObject 0xffffc98698789750   1084   \Device\HarddiskVolume3\Windows\System32\sysmain.dll
+ImageSectionObject 0xffffc9869878c950   1084   \Device\HarddiskVolume3\Windows\System32\AudioEndpointBuilder.dll
+ImageSectionObject 0xffffc986987892a0   1084   \Device\HarddiskVolume3\Windows\System32\MMDevAPI.dll
+ImageSectionObject 0xffffc986986d8870   1084   \Device\HarddiskVolume3\Windows\System32\das.dll
+ImageSectionObject 0xffffc986973dd4e0   1084   \Device\HarddiskVolume3\Windows\System32\ncbservice.dll
+ImageSectionObject 0xffffc986973de2f0   1084   \Device\HarddiskVolume3\Windows\System32\SystemEventsBrokerClient.dll
+ImageSectionObject 0xffffc98695bbcd40   1084   \Device\HarddiskVolume3\Windows\System32\setupapi.dll
+DataSectionObject 0xffffc98699d90c40   1404   \Device\HarddiskVolume3\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+SharedCacheMap 0xffffc98699d90c40   1404   \Device\HarddiskVolume3\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+DataSectionObject 0xffffc98698c34320   1404   None
+DataSectionObject 0xffffc98699153890   1404   \Device\HarddiskVolume3\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+SharedCacheMap 0xffffc98699153890   1404   \Device\HarddiskVolume3\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+DataSectionObject 0xffffc98698685b80   1404   \Device\HarddiskVolume3\Windows\System32\en-US\dnsapi.dll.mui
+ImageSectionObject 0xffffc98698b2e170   1404   \Device\HarddiskVolume3\Windows\System32\cryptcatsvc.dll
+ImageSectionObject 0xffffc9869a0c9410   1404   \Device\HarddiskVolume3\Windows\System32\winrnr.dll
+ImageSectionObject 0xffffc9869a0c58b0   1404   \Device\HarddiskVolume3\Windows\System32\NapiNSP.dll
+ImageSectionObject 0xffffc9869a0c5ef0   1404   \Device\HarddiskVolume3\Windows\System32\pnrpnsp.dll
+ImageSectionObject 0xffffc986986e1380   1404   \Device\HarddiskVolume3\Windows\System32\webauthn.dll
+ImageSectionObject 0xffffc986989a3c90   1404   \Device\HarddiskVolume3\Windows\System32\cryptsvc.dll
+ImageSectionObject 0xffffc986989a3b00   1404   \Device\HarddiskVolume3\Windows\System32\crypttpmeksvc.dll
+ImageSectionObject 0xffffc98698995b90   1404   \Device\HarddiskVolume3\Windows\System32\wkssvc.dll
+ImageSectionObject 0xffffc9869885b3d0   1404   \Device\HarddiskVolume3\Windows\System32\nrpsrv.dll
+ImageSectionObject 0xffffc98698792bc0   1404   \Device\HarddiskVolume3\Windows\System32\dnsrslvr.dll
+ImageSectionObject 0xffffc98698785d80   1404   \Device\HarddiskVolume3\Windows\System32\nlasvc.dll
+ImageSectionObject 0xffffc98698787810   1404   \Device\HarddiskVolume3\Windows\System32\ssdpapi.dll
+ImageSectionObject 0xffffc98698788300   1468   \Device\HarddiskVolume3\Windows\System32\AudioSes.dll
+ImageSectionObject 0xffffc986987895c0   1468   \Device\HarddiskVolume3\Windows\System32\SEMgrSvc.dll
+DataSectionObject 0xffffc98698792d50   1652   \Device\HarddiskVolume3\Windows\System32\en-US\AudioSrv.dll.mui
+ImageSectionObject 0xffffc9869878ed40   1652   \Device\HarddiskVolume3\Windows\System32\audiosrv.dll
+ImageSectionObject 0xffffc986989a2520   1652   \Device\HarddiskVolume3\Windows\System32\coreaudiopolicymanagerext.dll
+ImageSectionObject 0xffffc9869a7e8cd0   1652   None
+ImageSectionObject 0xffffc986988568d0   1652   \Device\HarddiskVolume3\Windows\System32\CompPkgSup.dll
+ImageSectionObject 0xffffc98698793cf0   1652   \Device\HarddiskVolume3\Windows\System32\HrtfApo.dll
+ImageSectionObject 0xffffc98698857d20   1652   \Device\HarddiskVolume3\Windows\System32\Windows.Media.Devices.dll
+ImageSectionObject 0xffffc9869878fce0   1652   \Device\HarddiskVolume3\Windows\System32\AudioSrvPolicyManager.dll
+ImageSectionObject 0xffffc986988576e0   1744   \Device\HarddiskVolume3\Windows\System32\dusmsvc.dll
+ImageSectionObject 0xffffc9869899a820   1756   \Device\HarddiskVolume3\Windows\System32\cmintegrator.dll
+ImageSectionObject 0xffffc986989a0450   1756   \Device\HarddiskVolume3\Windows\System32\wcmcsp.dll
+ImageSectionObject 0xffffc986986e27d0   1756   \Device\HarddiskVolume3\Windows\System32\wcmsvc.dll
+DataSectionObject 0xffffc98698996b30   1800   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-shm
+DataSectionObject 0xffffc9869a257b50   1800   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm
+ImageSectionObject 0xffffc98698d562e0   1800   \Device\HarddiskVolume3\Windows\System32\CapabilityAccessManager.dll
+ImageSectionObject 0xffffc9869a7d8330   1800   None
+ImageSectionObject 0xffffc9869885a5c0   1800   \Device\HarddiskVolume3\Windows\System32\Windows.StateRepository.dll
+ImageSectionObject 0xffffc98699724820   1800   \Device\HarddiskVolume3\Windows\System32\wifidatacapabilityhandler.dll
+ImageSectionObject 0xffffc986997265d0   1800   \Device\HarddiskVolume3\Windows\System32\cellulardatacapabilityhandler.dll
+ImageSectionObject 0xffffc9869885c690   1800   \Device\HarddiskVolume3\Windows\System32\StateRepository.Core.dll
+DataSectionObject 0xffffc9869885c820   1924   \Device\HarddiskVolume3\Windows\System32\en-US\spoolsv.exe.mui
+DataSectionObject 0xffffc98699367610   1924   \Device\HarddiskVolume3\Windows\System32\en-US\localspl.dll.mui
+DataSectionObject 0xffffc98699370da0   1924   \Device\HarddiskVolume3\Windows\System32\en-US\APMon.dll.mui
+DataSectionObject 0xffffc98699378140   1924   \Device\HarddiskVolume3\Windows\System32\en-US\win32spl.dll.mui
+DataSectionObject 0xffffc98699376840   1924   \Device\HarddiskVolume3\Windows\System32\en-US\inetpp.dll.mui
+ImageSectionObject 0xffffc98699365860   1924   \Device\HarddiskVolume3\Windows\System32\localspl.dll
+ImageSectionObject 0xffffc98699374450   1924   \Device\HarddiskVolume3\Windows\System32\drvstore.dll
+ImageSectionObject 0xffffc98699377650   1924   \Device\HarddiskVolume3\Windows\System32\win32spl.dll
+ImageSectionObject 0xffffc9869885a2a0   1924   \Device\HarddiskVolume3\Windows\System32\spoolsv.exe
+ImageSectionObject 0xffffc98699378c30   1924   \Device\HarddiskVolume3\Windows\System32\inetpp.dll
+ImageSectionObject 0xffffc98699374c20   1924   \Device\HarddiskVolume3\Windows\System32\spool\prtprocs\x64\winprint.dll
+ImageSectionObject 0xffffc986993690a0   1924   \Device\HarddiskVolume3\Windows\System32\winusb.dll
+ImageSectionObject 0xffffc98699369d20   1924   \Device\HarddiskVolume3\Windows\System32\APMon.dll
+ImageSectionObject 0xffffc986993713e0   1924   \Device\HarddiskVolume3\Windows\System32\WSDApi.dll
+ImageSectionObject 0xffffc98699367480   1924   None
+ImageSectionObject 0xffffc98699368290   1924   \Device\HarddiskVolume3\Windows\System32\FXSMON.dll
+ImageSectionObject 0xffffc98699368420   1924   \Device\HarddiskVolume3\Windows\System32\wsnmp32.dll
+ImageSectionObject 0xffffc98699366800   1924   \Device\HarddiskVolume3\Windows\System32\usbmon.dll
+ImageSectionObject 0xffffc98699366b20   1924   \Device\HarddiskVolume3\Windows\System32\tcpmon.dll
+ImageSectionObject 0xffffc98699365b80   1924   \Device\HarddiskVolume3\Windows\System32\PrintIsolationProxy.dll
+ImageSectionObject 0xffffc98699369230   1924   \Device\HarddiskVolume3\Windows\System32\AppMon.dll
+ImageSectionObject 0xffffc98699364a50   1924   \Device\HarddiskVolume3\Windows\System32\spoolss.dll
+ImageSectionObject 0xffffc98699365090   1924   \Device\HarddiskVolume3\Windows\System32\winspool.drv
+ImageSectionObject 0xffffc986993688d0   1924   None
+ImageSectionObject 0xffffc98698d40990   1924   \Device\HarddiskVolume3\Windows\System32\cscapi.dll
+DataSectionObject 0xffffc986989985c0   1952   None
+DataSectionObject 0xffffc986989a2cf0   1952   \Device\HarddiskVolume3\Windows\System32\en-US\FirewallAPI.dll.mui
+ImageSectionObject 0xffffc986989953c0   1952   \Device\HarddiskVolume3\Windows\System32\BFE.DLL
+ImageSectionObject 0xffffc9869878e570   1952   None
+ImageSectionObject 0xffffc98698b36320   1952   \Device\HarddiskVolume3\Windows\System32\wfapigp.dll
+ImageSectionObject 0xffffc986989a26b0   1952   \Device\HarddiskVolume3\Windows\System32\MPSSVC.dll
+DataSectionObject 0xffffc98698c3d790   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db-shm
+DataSectionObject 0xffffc98698c3f860   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\EventStore.db-shm
+DataSectionObject 0xffffc98698c401c0   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db-shm
+DataSectionObject 0xffffc98698c3e730   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db
+SharedCacheMap 0xffffc98698c3e730   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db
+DataSectionObject 0xffffc98698c3d150   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db
+SharedCacheMap 0xffffc98698c3d150   2180   \Device\HarddiskVolume3\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db
+DataSectionObject 0xffffc98698c3f3b0   2180   None
+SharedCacheMap 0xffffc98698c3f3b0   2180   None
+ImageSectionObject 0xffffc98698b2c870   2180   \Device\HarddiskVolume3\Windows\System32\diagtrack.dll
+ImageSectionObject 0xffffc98698b2e7b0   2180   \Device\HarddiskVolume3\Windows\System32\dbgcore.dll
+ImageSectionObject 0xffffc98698b30a10   2180   None
+ImageSectionObject 0xffffc98698b2f2a0   2180   \Device\HarddiskVolume3\Windows\System32\dbghelp.dll
+ImageSectionObject 0xffffc98698b2d810   2180   None
+ImageSectionObject 0xffffc98698b2d360   2180   None
+DataSectionObject 0xffffc98698b2d360   2180   None
+ImageSectionObject 0xffffc98698b2c550   2248   \Device\HarddiskVolume3\Windows\System32\vcruntime140.dll
+ImageSectionObject 0xffffc98698b311e0   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\libxmlsec-openssl.dll
+ImageSectionObject 0xffffc98698b2b740   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe
+ImageSectionObject 0xffffc98698b2f8e0   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\pcre.dll
+ImageSectionObject 0xffffc98698b30240   2248   \Device\HarddiskVolume3\Windows\System32\wsock32.dll
+ImageSectionObject 0xffffc98698b3a650   2248   \Device\HarddiskVolume3\Windows\System32\vsocklib.dll
+ImageSectionObject 0xffffc98698b2fc00   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\intl.dll
+ImageSectionObject 0xffffc98698b2d9a0   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\libssl-1_1-x64.dll
+ImageSectionObject 0xffffc98698b2e940   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\libxmlsec.dll
+ImageSectionObject 0xffffc98698b2dcc0   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\libxml2.dll
+ImageSectionObject 0xffffc98698b2d680   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\libcrypto-1_1-x64.dll
+ImageSectionObject 0xffffc98698b2cd20   2248   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMware VGAuth\glib-2.0.dll
+ImageSectionObject 0xffffc98698b2cb90   2272   \Device\HarddiskVolume3\Windows\System32\vm3dservice.exe
+DataSectionObject 0xffffc98698b332b0   2284   None
+ImageSectionObject 0xffffc98698c2aa00   2284   None
+ImageSectionObject 0xffffc98698c2a550   2284   None
+ImageSectionObject 0xffffc98698b2ba60   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe
+ImageSectionObject 0xffffc98698c37840   2284   \Device\HarddiskVolume3\Windows\System32\comsvcs.dll
+DataSectionObject 0xffffc98698c37840   2284   \Device\HarddiskVolume3\Windows\System32\comsvcs.dll
+SharedCacheMap 0xffffc98698c37840   2284   \Device\HarddiskVolume3\Windows\System32\comsvcs.dll
+ImageSectionObject 0xffffc98698c2cad0   2284   None
+ImageSectionObject 0xffffc98698c2cc60   2284   None
+ImageSectionObject 0xffffc98698c2d2a0   2284   None
+ImageSectionObject 0xffffc98698c2c7b0   2284   None
+ImageSectionObject 0xffffc98698c2b360   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmsvc\hwUpgradeHelper.dll
+ImageSectionObject 0xffffc98698c2b1d0   2284   None
+ImageSectionObject 0xffffc98698c29bf0   2284   \Device\HarddiskVolume3\Windows\System32\msvcp140.dll
+ImageSectionObject 0xffffc98698c27b20   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmsvc\deployPkgPlugin.dll
+ImageSectionObject 0xffffc98698c29740   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\deployPkg.dll
+ImageSectionObject 0xffffc98698c2a230   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmsvc\autoUpgrade.dll
+ImageSectionObject 0xffffc98698c28160   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmsvc\bitMapper.dll
+ImageSectionObject 0xffffc98698c274e0   2284   \Device\HarddiskVolume3\Windows\System32\vcruntime140_1.dll
+ImageSectionObject 0xffffc98698c298d0   2284   None
+ImageSectionObject 0xffffc98698c2a0a0   2284   None
+ImageSectionObject 0xffffc98698c295b0   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\common\hgfsUsability.dll
+ImageSectionObject 0xffffc98698c27350   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\common\vix.dll
+ImageSectionObject 0xffffc98698c282f0   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\hgfs.dll
+ImageSectionObject 0xffffc98698b2edf0   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\gobject-2.0.dll
+ImageSectionObject 0xffffc98698b2fa70   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\pcre.dll
+ImageSectionObject 0xffffc98698c27990   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\common\hgfsServer.dll
+ImageSectionObject 0xffffc98698c29420   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\guestStoreClient.dll
+ImageSectionObject 0xffffc98698b2ead0   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtools.dll
+ImageSectionObject 0xffffc98698b2e490   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\glib-2.0.dll
+ImageSectionObject 0xffffc98698b2e620   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\gmodule-2.0.dll
+ImageSectionObject 0xffffc98698b31370   2284   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\intl.dll
+ImageSectionObject 0xffffc98695bbd9c0   2284   \Device\HarddiskVolume3\Windows\System32\psapi.dll
+DataSectionObject 0xffffc98698d3e730   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.83
+DataSectionObject 0xffffc98698d3d470   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.7C
+DataSectionObject 0xffffc98698d3fd10   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.79
+DataSectionObject 0xffffc98698d401c0   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.5B
+DataSectionObject 0xffffc98698d3d600   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-shm
+DataSectionObject 0xffffc98698c37200   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.80
+SharedCacheMap 0xffffc98698c37200   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.80
+DataSectionObject 0xffffc98698c29290   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\F681BB07-070B-4285-BC6E-E9A8CC37A896-0.bin
+SharedCacheMap 0xffffc98698c29290   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\F681BB07-070B-4285-BC6E-E9A8CC37A896-0.bin
+DataSectionObject 0xffffc98698c38b00   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.87
+SharedCacheMap 0xffffc98698c38b00   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.87
+DataSectionObject 0xffffc98698c30c70   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.7E
+SharedCacheMap 0xffffc98698c30c70   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.7E
+DataSectionObject 0xffffc98698c381a0   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.6C
+SharedCacheMap 0xffffc98698c381a0   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.6C
+DataSectionObject 0xffffc98698c38c90   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.67
+SharedCacheMap 0xffffc98698c38c90   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.67
+DataSectionObject 0xffffc98698c37b60   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.A0
+SharedCacheMap 0xffffc98698c37b60   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Scans\mpcache-B5BACD7C5C2DD50059E1714145928A504CAE0998.bin.A0
+ImageSectionObject 0xffffc98698b38710   2324   \Device\HarddiskVolume3\Program Files\Windows Defender\MpCommu.dll
+ImageSectionObject 0xffffc9869a7ef580   2324   \Device\HarddiskVolume3\Windows\System32\amsiproxy.dll
+ImageSectionObject 0xffffc98698b2f110   2324   \Device\HarddiskVolume3\Program Files\Windows Defender\MsMpEng.exe
+ImageSectionObject 0xffffc98698d3ddd0   2324   \Device\HarddiskVolume3\Windows\System32\wscapi.dll
+ImageSectionObject 0xffffc98698c2e3d0   2324   \Device\HarddiskVolume3\ProgramData\Microsoft\Windows Defender\Definition Updates\Default\MpEngine.dll
+ImageSectionObject 0xffffc98698c32570   2324   \Device\HarddiskVolume3\Windows\System32\WofUtil.dll
+ImageSectionObject 0xffffc98698c2a6e0   2324   \Device\HarddiskVolume3\Program Files\Windows Defender\MpRtp.dll
+ImageSectionObject 0xffffc98698b324a0   2324   None
+ImageSectionObject 0xffffc98698b32630   2324   \Device\HarddiskVolume3\Program Files\Windows Defender\MpClient.dll
+ImageSectionObject 0xffffc986952f6ce0   2432   \Device\HarddiskVolume3\Windows\System32\msctf.dll
+ImageSectionObject 0xffffc98698c2ed30   2736   \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+ImageSectionObject 0xffffc98698d457b0   2736   \Device\HarddiskVolume3\Windows\System32\mfcsubs.dll
+ImageSectionObject 0xffffc98698d44cc0   2736   \Device\HarddiskVolume3\Windows\System32\catsrvps.dll
+ImageSectionObject 0xffffc98698d44e50   2736   \Device\HarddiskVolume3\Windows\System32\catsrvut.dll
+ImageSectionObject 0xffffc98698d45620   2736   \Device\HarddiskVolume3\Windows\System32\catsrv.dll
+ImageSectionObject 0xffffc98698d42290   2736   \Device\HarddiskVolume3\Windows\System32\mtxclu.dll
+ImageSectionObject 0xffffc98698d433c0   2736   \Device\HarddiskVolume3\Windows\System32\ktmw32.dll
+ImageSectionObject 0xffffc98698d430a0   2736   \Device\HarddiskVolume3\Windows\System32\xolehlp.dll
+ImageSectionObject 0xffffc98698d41ac0   2736   \Device\HarddiskVolume3\Windows\System32\msdtcprx.dll
+ImageSectionObject 0xffffc98698c3b850   2736   \Device\HarddiskVolume3\Windows\System32\txflog.dll
+ImageSectionObject 0xffffc98699751b90   2832   \Device\HarddiskVolume3\Windows\System32\security.dll
+DataSectionObject 0xffffc98698d3f3b0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\en-US\cimwin32.dll.mui
+ImageSectionObject 0xffffc986991525d0   2832   \Device\HarddiskVolume3\Windows\System32\pdh.dll
+ImageSectionObject 0xffffc9869a0e8b30   2832   \Device\HarddiskVolume3\Windows\System32\provthrd.dll
+ImageSectionObject 0xffffc98698c3f6d0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\WmiPrvSE.exe
+DataSectionObject 0xffffc98698c3f6d0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\WmiPrvSE.exe
+ImageSectionObject 0xffffc9869972fef0   2832   None
+ImageSectionObject 0xffffc986997524f0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\wmipcima.dll
+ImageSectionObject 0xffffc9869a0c2840   2832   \Device\HarddiskVolume3\Windows\System32\wbem\WmiPerfInst.dll
+ImageSectionObject 0xffffc9869a0e41c0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\ntevt.dll
+ImageSectionObject 0xffffc98699dc0d00   2832   \Device\HarddiskVolume3\Windows\System32\perfos.dll
+ImageSectionObject 0xffffc9869a250300   2832   \Device\HarddiskVolume3\Windows\System32\wmitomi.dll
+ImageSectionObject 0xffffc98698c42740   2832   \Device\HarddiskVolume3\Windows\System32\wbem\cimwin32.dll
+ImageSectionObject 0xffffc9869972e2d0   2832   \Device\HarddiskVolume3\Windows\System32\wbem\Win32_Tpm.dll
+ImageSectionObject 0xffffc98698c428d0   2832   \Device\HarddiskVolume3\Windows\System32\framedynos.dll
+ImageSectionObject 0xffffc98699749080   2832   \Device\HarddiskVolume3\Windows\System32\winbrand.dll
+ImageSectionObject 0xffffc98699dc0210   2832   \Device\HarddiskVolume3\Windows\System32\perfdisk.dll
+ImageSectionObject 0xffffc9869a247e30   2832   \Device\HarddiskVolume3\Windows\System32\Win32_DeviceGuard.dll
+ImageSectionObject 0xffffc9869937fb20   2832   \Device\HarddiskVolume3\Windows\System32\schedcli.dll
+ImageSectionObject 0xffffc98698d3ea50   1796   \Device\HarddiskVolume3\Program Files\Windows Defender\NisSrv.exe
+ImageSectionObject 0xffffc98695bbced0   1796   \Device\HarddiskVolume3\Windows\System32\normaliz.dll
+DataSectionObject 0xffffc98698d41610   1060   \Device\HarddiskVolume3\Windows\System32\en-US\msdtc.exe.mui
+DataSectionObject 0xffffc98698d45300   1060   \Device\HarddiskVolume3\Windows\System32\en-US\msdtcVSp1res.dll.mui
+ImageSectionObject 0xffffc98698d42bf0   1060   \Device\HarddiskVolume3\Windows\System32\msdtcVSp1res.dll
+ImageSectionObject 0xffffc9869878aa10   1060   \Device\HarddiskVolume3\Windows\System32\comres.dll
+DataSectionObject 0xffffc9869878aa10   1060   \Device\HarddiskVolume3\Windows\System32\comres.dll
+DataSectionObject 0xffffc98698d462a0   1060   \Device\HarddiskVolume3\Windows\System32\MsDtc\MSDTC.LOG
+ImageSectionObject 0xffffc98698d40800   1060   \Device\HarddiskVolume3\Windows\System32\msdtctm.dll
+ImageSectionObject 0xffffc98698d428d0   1060   \Device\HarddiskVolume3\Windows\System32\msdtc.exe
+ImageSectionObject 0xffffc98698d42740   1060   \Device\HarddiskVolume3\Windows\System32\msdtclog.dll
+ImageSectionObject 0xffffc98698d42d80   1060   \Device\HarddiskVolume3\Windows\System32\mtxoci.dll
+ImageSectionObject 0xffffc98698d48b40   3092   \Device\HarddiskVolume3\Windows\System32\DesktopShellExt.dll
+ImageSectionObject 0xffffc98698d50840   3092   \Device\HarddiskVolume3\Windows\System32\PackageStateChangeHandler.dll
+ImageSectionObject 0xffffc98698d51330   3092   \Device\HarddiskVolume3\Windows\System32\mssrch.dll
+ImageSectionObject 0xffffc98698d473d0   3092   \Device\HarddiskVolume3\Windows\System32\sihost.exe
+ImageSectionObject 0xffffc98698d55ca0   3092   None
+ImageSectionObject 0xffffc98699153ed0   3092   \Device\HarddiskVolume3\Windows\System32\twinui.dll
+ImageSectionObject 0xffffc98698d52aa0   3092   \Device\HarddiskVolume3\Windows\System32\tquery.dll
+ImageSectionObject 0xffffc98698d51c90   3092   \Device\HarddiskVolume3\Windows\System32\daxexec.dll
+ImageSectionObject 0xffffc98698d50cf0   3092   \Device\HarddiskVolume3\Windows\System32\container.dll
+ImageSectionObject 0xffffc98698d52460   3092   \Device\HarddiskVolume3\Windows\System32\UiaManager.dll
+ImageSectionObject 0xffffc98698d514c0   3092   \Device\HarddiskVolume3\Windows\System32\twinui.appcore.dll
+ImageSectionObject 0xffffc98698d509d0   3092   \Device\HarddiskVolume3\Windows\System32\Windows.System.Launcher.dll
+ImageSectionObject 0xffffc98698d4fd50   3092   \Device\HarddiskVolume3\Windows\System32\notificationplatformcomponent.dll
+ImageSectionObject 0xffffc98698d50520   3092   \Device\HarddiskVolume3\Windows\System32\AppContracts.dll
+ImageSectionObject 0xffffc98698d517e0   3092   \Device\HarddiskVolume3\Windows\System32\WindowManagement.dll
+ImageSectionObject 0xffffc98698d4e5e0   3092   \Device\HarddiskVolume3\Windows\System32\AppointmentActivation.dll
+ImageSectionObject 0xffffc98698d4e900   3092   \Device\HarddiskVolume3\Windows\System32\modernexecserver.dll
+ImageSectionObject 0xffffc98698d4a440   3092   \Device\HarddiskVolume3\Windows\System32\ClipboardServer.dll
+ImageSectionObject 0xffffc98698d49c70   3092   \Device\HarddiskVolume3\Windows\System32\ActivationManager.dll
+ImageSectionObject 0xffffc98698d4c1f0   3092   \Device\HarddiskVolume3\Windows\System32\Windows.Shell.ServiceHostBuilder.dll
+ImageSectionObject 0xffffc986986e4bc0   3092   \Device\HarddiskVolume3\Windows\System32\InputHost.dll
+ImageSectionObject 0xffffc986997550b0   3092   \Device\HarddiskVolume3\Windows\System32\mssprxy.dll
+DataSectionObject 0xffffc9869a0cab80   3108   \Device\HarddiskVolume3\Windows\System32\UserDataAccessRes.dll
+DataSectionObject 0xffffc9869a7e3a00   3108   \Device\HarddiskVolume3\Windows\System32\en-US\QuietHours.dll.mui
+DataSectionObject 0xffffc98698d50e80   3108   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+DataSectionObject 0xffffc9869a0e0980   3108   \Device\HarddiskVolume3\Windows\System32\SyncRes.dll
+DataSectionObject 0xffffc9869915ba40   3108   \Device\HarddiskVolume3\Users\kali\AppData\Local\ConnectedDevicesPlatform\L.kali\ActivitiesCache.db-shm
+DataSectionObject 0xffffc9869c4a2c80   3108   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000000c.db
+DataSectionObject 0xffffc98698d546c0   3108   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Caches\cversions.3.db
+ImageSectionObject 0xffffc98698d583b0   3108   \Device\HarddiskVolume3\Windows\System32\NotificationControllerPS.dll
+ImageSectionObject 0xffffc9869a23d570   3108   None
+ImageSectionObject 0xffffc9869a240130   3108   \Device\HarddiskVolume3\Windows\System32\accountaccessor.dll
+ImageSectionObject 0xffffc9869a23d3e0   3108   \Device\HarddiskVolume3\Windows\System32\MCCSEngineShared.dll
+ImageSectionObject 0xffffc98698d494a0   3108   \Device\HarddiskVolume3\Windows\System32\cemapi.dll
+ImageSectionObject 0xffffc9869a2402c0   3108   \Device\HarddiskVolume3\Windows\System32\SyncController.dll
+ImageSectionObject 0xffffc9869a23fe10   3108   \Device\HarddiskVolume3\Windows\System32\APHostClient.dll
+ImageSectionObject 0xffffc9869a23f4b0   3108   None
+ImageSectionObject 0xffffc98699da4b00   3108   \Device\HarddiskVolume3\Windows\System32\Unistore.dll
+ImageSectionObject 0xffffc98698c2fb40   3108   \Device\HarddiskVolume3\Windows\System32\UserDataLanguageUtil.dll
+ImageSectionObject 0xffffc9869a23ded0   3108   \Device\HarddiskVolume3\Windows\System32\APHostService.dll
+ImageSectionObject 0xffffc9869a23dbb0   3108   None
+ImageSectionObject 0xffffc98699dacb20   3108   \Device\HarddiskVolume3\Windows\System32\MessagingDataModel2.dll
+ImageSectionObject 0xffffc9869915dca0   3108   \Device\HarddiskVolume3\Windows\System32\WinSync.dll
+ImageSectionObject 0xffffc98699da60e0   3108   \Device\HarddiskVolume3\Windows\System32\UserDataService.dll
+ImageSectionObject 0xffffc98699dafeb0   3108   \Device\HarddiskVolume3\Windows\System32\PimIndexMaintenance.dll
+ImageSectionObject 0xffffc98699daf550   3108   \Device\HarddiskVolume3\Windows\System32\POSyncServices.dll
+ImageSectionObject 0xffffc98699dac990   3108   \Device\HarddiskVolume3\Windows\System32\PimIndexMaintenanceClient.dll
+ImageSectionObject 0xffffc9869a23dd40   3108   \Device\HarddiskVolume3\Windows\System32\dsclient.dll
+ImageSectionObject 0xffffc98698d53bd0   3108   \Device\HarddiskVolume3\Windows\System32\AppResolver.dll
+ImageSectionObject 0xffffc98698d589f0   3108   \Device\HarddiskVolume3\Windows\System32\ContentDeliveryManager.Utilities.dll
+ImageSectionObject 0xffffc98698d57280   3108   \Device\HarddiskVolume3\Windows\System32\wpnapps.dll
+ImageSectionObject 0xffffc98698d591c0   3108   \Device\HarddiskVolume3\Windows\System32\twinui.pcshell.dll
+ImageSectionObject 0xffffc9869a23d700   3108   None
+ImageSectionObject 0xffffc98698d54850   3108   \Device\HarddiskVolume3\Windows\System32\wpnclient.dll
+ImageSectionObject 0xffffc98698d55980   3108   \Device\HarddiskVolume3\Windows\System32\Windows.StateRepositoryClient.dll
+ImageSectionObject 0xffffc98698d53400   3108   \Device\HarddiskVolume3\Windows\System32\TileDataRepository.dll
+ImageSectionObject 0xffffc98698d4e2c0   3108   \Device\HarddiskVolume3\Windows\System32\QuietHours.dll
+ImageSectionObject 0xffffc98698d4b890   3108   \Device\HarddiskVolume3\Windows\System32\Faultrep.dll
+ImageSectionObject 0xffffc98698d4f260   3108   \Device\HarddiskVolume3\Windows\System32\NotificationController.dll
+ImageSectionObject 0xffffc98698d4b3e0   3108   None
+ImageSectionObject 0xffffc986989961d0   3108   \Device\HarddiskVolume3\Windows\System32\threadpoolwinrt.dll
+ImageSectionObject 0xffffc98698d49ae0   3108   \Device\HarddiskVolume3\Windows\System32\cdpusersvc.dll
+ImageSectionObject 0xffffc98698861af0   3108   \Device\HarddiskVolume3\Windows\System32\wininet.dll
+ImageSectionObject 0xffffc986988584f0   3108   \Device\HarddiskVolume3\Windows\System32\DWrite.dll
+ImageSectionObject 0xffffc98698856bf0   3108   \Device\HarddiskVolume3\Windows\System32\Windows.Globalization.dll
+ImageSectionObject 0xffffc9869878f380   3108   \Device\HarddiskVolume3\Windows\System32\wincorlib.dll
+DataSectionObject 0xffffc98698d4d640   3236   \Device\HarddiskVolume3\Windows\System32\en-US\taskhostw.exe.mui
+DataSectionObject 0xffffc98699145c40   3236   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+SharedCacheMap 0xffffc98699145c40   3236   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+DataSectionObject 0xffffc98699146410   3236   \Device\HarddiskVolume3\Windows\System32\en-US\MsCtfMonitor.dll.mui
+DataSectionObject 0xffffc986991473b0   3236   \Device\HarddiskVolume3\Windows\System32\en-US\winmm.dll.mui
+DataSectionObject 0xffffc9869a7eba20   3236   None
+ImageSectionObject 0xffffc98698d5c550   3236   \Device\HarddiskVolume3\Windows\System32\PlaySndSrv.dll
+ImageSectionObject 0xffffc98698789a70   3236   \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+ImageSectionObject 0xffffc98698d5ca00   3236   \Device\HarddiskVolume3\Windows\System32\msutb.dll
+ImageSectionObject 0xffffc9869936f950   3236   \Device\HarddiskVolume3\Windows\System32\winmmbase.dll
+ImageSectionObject 0xffffc9869a7ea5d0   3236   None
+ImageSectionObject 0xffffc98698b36af0   3236   \Device\HarddiskVolume3\Windows\System32\MsCtfMonitor.dll
+ImageSectionObject 0xffffc98698c37cf0   3236   \Device\HarddiskVolume3\Windows\System32\midimap.dll
+ImageSectionObject 0xffffc98698d511a0   3236   \Device\HarddiskVolume3\Windows\System32\msacm32.dll
+ImageSectionObject 0xffffc9869a7ed320   3236   \Device\HarddiskVolume3\Windows\System32\msacm32.drv
+ImageSectionObject 0xffffc9869a7eaa80   3236   \Device\HarddiskVolume3\Windows\System32\ksuser.dll
+DataSectionObject 0xffffc98699146d70   3496   \Device\HarddiskVolume3\Windows\en-US\explorer.exe.mui
+DataSectionObject 0xffffc9869a2385c0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\ntshrui.dll.mui
+DataSectionObject 0xffffc9869a22cef0   3496   None
+DataSectionObject 0xffffc9869a23a820   3496   \Device\HarddiskVolume3\Program Files\Windows Defender\en-US\shellext.dll.mui
+DataSectionObject 0xffffc9869914a5b0   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000003.db
+DataSectionObject 0xffffc986997311b0   3496   \Device\HarddiskVolume3\Windows\Globalization\ICU\windowsZones.res
+DataSectionObject 0xffffc9869914cb30   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+ImageSectionObject 0xffffc9869915b270   3496   \Device\HarddiskVolume3\Windows\System32\imageres.dll
+DataSectionObject 0xffffc9869915b270   3496   \Device\HarddiskVolume3\Windows\System32\imageres.dll
+DataSectionObject 0xffffc9869914d490   3496   \Device\HarddiskVolume3\Windows\System32\en-US\oleaccrc.dll.mui
+DataSectionObject 0xffffc9869914dad0   3496   \Device\HarddiskVolume3\Windows\System32\oleaccrc.dll
+DataSectionObject 0xffffc986991522b0   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+SharedCacheMap 0xffffc986991522b0   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+DataSectionObject 0xffffc9869973d500   3496   \Device\HarddiskVolume3\Windows\System32\en-US\sndvolsso.dll.mui
+DataSectionObject 0xffffc98699162de0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\dsreg.dll.mui
+DataSectionObject 0xffffc9869a225380   3496   None
+DataSectionObject 0xffffc98699733d70   3496   \Device\HarddiskVolume3\Windows\System32\en-US\stobject.dll.mui
+DataSectionObject 0xffffc98699da5910   3496   \Device\HarddiskVolume3\Windows\System32\en-US\explorerframe.dll.mui
+DataSectionObject 0xffffc98699da5aa0   3496   \Device\HarddiskVolume3\Windows\SystemResources\ExplorerFrame.dll.mun
+ImageSectionObject 0xffffc98698857550   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.Resources.19h1.dll
+DataSectionObject 0xffffc9869972f400   3496   \Device\HarddiskVolume3\Windows\Globalization\ICU\zoneinfo64.res
+DataSectionObject 0xffffc9869899c5d0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\UIRibbon.dll.mui
+DataSectionObject 0xffffc9869a251110   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+DataSectionObject 0xffffc9869c4ad860   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+DataSectionObject 0xffffc986991591a0   3496   \Device\HarddiskVolume3\Windows\rescache\_merged\1840795356\1515387952.pri
+DataSectionObject 0xffffc98699156450   3496   \Device\HarddiskVolume3\Windows\System32\en-US\twinui.pcshell.dll.mui
+ImageSectionObject 0xffffc98699d96a00   3496   \Device\HarddiskVolume3\Windows\System32\UIRibbonRes.dll
+DataSectionObject 0xffffc9869ac43730   3496   \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.19041.1_en-us_cb612d02732b0fd9\comctl32.dll.mui
+DataSectionObject 0xffffc9869915ac30   3496   \Device\HarddiskVolume3\Windows\SystemResources\ShellComponents\ShellComponents.pri
+DataSectionObject 0xffffc98699728830   3496   \Device\HarddiskVolume3\Windows\System32\en-US\ApplicationFrame.dll.mui
+DataSectionObject 0xffffc986988606a0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\InputSwitch.dll.mui
+DataSectionObject 0xffffc9869a232670   3496   \Device\HarddiskVolume3\Windows\System32\en-US\wscui.cpl.mui
+ImageSectionObject 0xffffc9869a2235d0   3496   \Device\HarddiskVolume3\Windows\System32\wscui.cpl
+DataSectionObject 0xffffc9869a2235d0   3496   \Device\HarddiskVolume3\Windows\System32\wscui.cpl
+DataSectionObject 0xffffc9869a244dc0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\hcproviders.dll.mui
+DataSectionObject 0xffffc9869a244aa0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\ActionCenter.dll.mui
+DataSectionObject 0xffffc986997343b0   3496   \Device\HarddiskVolume3\Windows\SystemResources\stobject.dll.mun
+DataSectionObject 0xffffc9869ac3d650   3496   \Device\HarddiskVolume3\Windows\System32\en-US\zipfldr.dll.mui
+DataSectionObject 0xffffc98699368100   3496   \Device\HarddiskVolume3\Windows\SystemResources\Windows.UI.ShellCommon\Windows.UI.ShellCommon.pri
+DataSectionObject 0xffffc98699368d80   3496   \Device\HarddiskVolume3\Windows\rescache\_merged\2457103279\2443532238.pri
+DataSectionObject 0xffffc98699740570   3496   \Device\HarddiskVolume3\Windows\System32\en-US\pnidui.dll.mui
+DataSectionObject 0xffffc986997416a0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\bthprops.cpl.mui
+DataSectionObject 0xffffc98699d9d120   3496   \Device\HarddiskVolume3\Windows\System32\en-US\mpr.dll.mui
+DataSectionObject 0xffffc98699da73a0   3496   \Device\HarddiskVolume3\Windows\SystemResources\shell32.dll.mun
+DataSectionObject 0xffffc98699d90dd0   3496   None
+DataSectionObject 0xffffc9869a0c2e80   3496   \Device\HarddiskVolume3\Windows\System32\en-US\ieframe.dll.mui
+DataSectionObject 0xffffc98699155320   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+DataSectionObject 0xffffc9869a0e1ab0   3496   \Device\HarddiskVolume3\Windows\System32\en-US\dui70.dll.mui
+DataSectionObject 0xffffc9869ac435a0   3496   \Device\HarddiskVolume3\Windows\SystemResources\zipfldr.dll.mun
+DataSectionObject 0xffffc9869973d9b0   3496   \Device\HarddiskVolume3\Windows\SystemResources\SndVolSSO.dll.mun
+DataSectionObject 0xffffc98699746330   3496   \Device\HarddiskVolume3\Windows\System32\en-US\imapi2.dll.mui
+ImageSectionObject 0xffffc98699738b90   3496   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.UI.winmd
+DataSectionObject 0xffffc98699daa0f0   3496   None
+DataSectionObject 0xffffc9869c4b6b40   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+DataSectionObject 0xffffc98699d93990   3496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+ImageSectionObject 0xffffc98699374130   3496   \Device\HarddiskVolume3\Windows\System32\mfplat.dll
+ImageSectionObject 0xffffc9869a0c7660   3496   \Device\HarddiskVolume3\Windows\System32\ieframe.dll
+ImageSectionObject 0xffffc98699dbe2d0   3496   \Device\HarddiskVolume3\Windows\System32\wpdshext.dll
+ImageSectionObject 0xffffc9869a239a10   3496   \Device\HarddiskVolume3\Windows\System32\werconcpl.dll
+ImageSectionObject 0xffffc9869c494b80   3496   \Device\HarddiskVolume3\Windows\System32\WindowsCodecsRaw.dll
+ImageSectionObject 0xffffc98698d578c0   3496   \Device\HarddiskVolume3\Windows\explorer.exe
+DataSectionObject 0xffffc98698d578c0   3496   \Device\HarddiskVolume3\Windows\explorer.exe
+ImageSectionObject 0xffffc9869a245d60   3496   \Device\HarddiskVolume3\Windows\System32\WorkFoldersShell.dll
+ImageSectionObject 0xffffc98698c41ac0   3496   \Device\HarddiskVolume3\Windows\System32\provsvc.dll
+ImageSectionObject 0xffffc9869a0da260   3496   \Device\HarddiskVolume3\Windows\ShellComponents\TaskFlowUI.dll
+ImageSectionObject 0xffffc9869a0d7380   3496   \Device\HarddiskVolume3\Windows\System32\UIRibbon.dll
+ImageSectionObject 0xffffc9869a0dbcf0   3496   \Device\HarddiskVolume3\Windows\ShellExperiences\TileControl.dll
+ImageSectionObject 0xffffc9869a0db200   3496   None
+ImageSectionObject 0xffffc9869973e950   3496   \Device\HarddiskVolume3\Windows\System32\shdocvw.dll
+ImageSectionObject 0xffffc9869a0ce550   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.FileExplorer.dll
+ImageSectionObject 0xffffc98699d974f0   3496   \Device\HarddiskVolume3\Windows\System32\mlang.dll
+ImageSectionObject 0xffffc9869a24bb20   3496   \Device\HarddiskVolume3\Windows\System32\NPSMDesktopProvider.dll
+ImageSectionObject 0xffffc9869a7c4150   3496   \Device\HarddiskVolume3\Windows\System32\UserDataTimeUtil.dll
+ImageSectionObject 0xffffc98699da39d0   3496   \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.264_none_faeb9d41761776a3\GdiPlus.dll
+ImageSectionObject 0xffffc9869a2498c0   3496   \Device\HarddiskVolume3\Windows\System32\msIso.dll
+ImageSectionObject 0xffffc98699d9e700   3496   \Device\HarddiskVolume3\Windows\System32\cdprt.dll
+ImageSectionObject 0xffffc9869a2396f0   3496   \Device\HarddiskVolume3\Program Files\Windows Defender\shellext.dll
+ImageSectionObject 0xffffc9869a2313b0   3496   \Device\HarddiskVolume3\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+ImageSectionObject 0xffffc9869973d690   3496   \Device\HarddiskVolume3\Windows\System32\ActionCenter.dll
+ImageSectionObject 0xffffc9869973dcd0   3496   \Device\HarddiskVolume3\Windows\System32\Windows.FileExplorer.Common.dll
+ImageSectionObject 0xffffc9869973d370   3496   \Device\HarddiskVolume3\Windows\System32\Syncreg.dll
+ImageSectionObject 0xffffc9869973f5d0   3496   \Device\HarddiskVolume3\Windows\System32\atlthunk.dll
+ImageSectionObject 0xffffc98699734220   3496   \Device\HarddiskVolume3\Windows\System32\batmeter.dll
+ImageSectionObject 0xffffc9869a233480   3496   \Device\HarddiskVolume3\Windows\System32\wscinterop.dll
+ImageSectionObject 0xffffc9869973ca10   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Storage.Search.dll
+ImageSectionObject 0xffffc9869973e7c0   3496   \Device\HarddiskVolume3\Windows\System32\DXP.dll
+ImageSectionObject 0xffffc9869a229cf0   3496   \Device\HarddiskVolume3\Windows\System32\twext.dll
+ImageSectionObject 0xffffc9869972b580   3496   \Device\HarddiskVolume3\Windows\System32\prnfldr.dll
+ImageSectionObject 0xffffc98699734860   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Shell.dll
+ImageSectionObject 0xffffc9869937c470   3496   \Device\HarddiskVolume3\Windows\System32\rometadata.dll
+ImageSectionObject 0xffffc9869972e140   3496   \Device\HarddiskVolume3\Windows\System32\ieproxy.dll
+ImageSectionObject 0xffffc98699736610   3496   \Device\HarddiskVolume3\Windows\System32\stobject.dll
+ImageSectionObject 0xffffc9869937f350   3496   \Device\HarddiskVolume3\Windows\System32\icu.dll
+ImageSectionObject 0xffffc9869936bad0   3496   \Device\HarddiskVolume3\Windows\System32\SyncCenter.dll
+ImageSectionObject 0xffffc98699373320   3496   \Device\HarddiskVolume3\Windows\System32\RTWorkQ.dll
+ImageSectionObject 0xffffc98699151ae0   3496   \Device\HarddiskVolume3\Windows\System32\linkinfo.dll
+ImageSectionObject 0xffffc98699145920   3496   \Device\HarddiskVolume3\Windows\System32\TaskFlowDataEngine.dll
+ImageSectionObject 0xffffc98698d5aac0   3496   \Device\HarddiskVolume3\Windows\System32\ShellCommonCommonProxyStub.dll
+ImageSectionObject 0xffffc98699162ac0   3496   \Device\HarddiskVolume3\Windows\System32\cflapi.dll
+ImageSectionObject 0xffffc9869936e500   3496   \Device\HarddiskVolume3\Windows\System32\UIAutomationCore.dll
+ImageSectionObject 0xffffc98698d46d90   3496   \Device\HarddiskVolume3\Windows\System32\dui70.dll
+ImageSectionObject 0xffffc9869914e430   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Internal.Shell.Broker.dll
+ImageSectionObject 0xffffc986991589d0   3496   \Device\HarddiskVolume3\Windows\System32\DictationManager.dll
+ImageSectionObject 0xffffc98699160090   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Core.TextInput.dll
+ImageSectionObject 0xffffc986991635b0   3496   \Device\HarddiskVolume3\Windows\System32\PCShellCommonProxyStub.dll
+ImageSectionObject 0xffffc98699153a20   3496   \Device\HarddiskVolume3\Windows\System32\duser.dll
+ImageSectionObject 0xffffc98698d4bd40   3496   \Device\HarddiskVolume3\Windows\System32\dlnashext.dll
+ImageSectionObject 0xffffc98699159650   3496   \Device\HarddiskVolume3\Windows\System32\windowsudk.shellcommon.dll
+ImageSectionObject 0xffffc98698d436e0   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Data.Activities.dll
+ImageSectionObject 0xffffc98699157bc0   3496   \Device\HarddiskVolume3\Windows\System32\NPSM.dll
+ImageSectionObject 0xffffc98699159970   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Internal.Signals.dll
+ImageSectionObject 0xffffc98699d90600   3496   \Device\HarddiskVolume3\Windows\System32\smartscreenps.dll
+ImageSectionObject 0xffffc98699155e10   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Shell.BlueLightReduction.dll
+ImageSectionObject 0xffffc98699155190   3496   \Device\HarddiskVolume3\Windows\System32\cscui.dll
+ImageSectionObject 0xffffc98699157710   3496   \Device\HarddiskVolume3\Windows\System32\VirtualMonitorManager.dll
+ImageSectionObject 0xffffc98699156130   3496   \Device\HarddiskVolume3\Windows\System32\AboveLockAppHost.dll
+ImageSectionObject 0xffffc98699157260   3496   \Device\HarddiskVolume3\Windows\System32\HolographicExtensions.dll
+ImageSectionObject 0xffffc986991530c0   3496   None
+ImageSectionObject 0xffffc986991573f0   3496   \Device\HarddiskVolume3\Windows\System32\EhStorShell.dll
+ImageSectionObject 0xffffc9869914c360   3496   \Device\HarddiskVolume3\Windows\System32\oleacc.dll
+ImageSectionObject 0xffffc98699154830   3496   \Device\HarddiskVolume3\Windows\System32\ApplicationFrame.dll
+ImageSectionObject 0xffffc98699153d40   3496   \Device\HarddiskVolume3\Windows\System32\ntshrui.dll
+ImageSectionObject 0xffffc986991509b0   3496   \Device\HarddiskVolume3\Windows\System32\cldapi.dll
+ImageSectionObject 0xffffc9869914fd30   3496   \Device\HarddiskVolume3\Windows\System32\windows.immersiveshell.serviceprovider.dll
+ImageSectionObject 0xffffc9869914d620   3496   \Device\HarddiskVolume3\Windows\System32\ExplorerFrame.dll
+ImageSectionObject 0xffffc9869914beb0   3496   \Device\HarddiskVolume3\Windows\System32\thumbcache.dll
+ImageSectionObject 0xffffc9869914d300   3496   \Device\HarddiskVolume3\Windows\System32\DataExchange.dll
+ImageSectionObject 0xffffc98698d58220   3496   \Device\HarddiskVolume3\Windows\System32\Windows.StateRepositoryBroker.dll
+ImageSectionObject 0xffffc98698d5b740   3496   \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1_none_b555e41d4684ddec\comctl32.dll
+ImageSectionObject 0xffffc9869914d7b0   3496   \Device\HarddiskVolume3\Windows\System32\SettingSyncCore.dll
+ImageSectionObject 0xffffc9869914d170   3496   \Device\HarddiskVolume3\Windows\System32\SndVolSSO.dll
+ImageSectionObject 0xffffc9869914b870   3496   \Device\HarddiskVolume3\Windows\System32\StartTileData.dll
+ImageSectionObject 0xffffc98698d58090   3496   \Device\HarddiskVolume3\Windows\System32\twinapi.dll
+ImageSectionObject 0xffffc9869a230d70   3496   None
+ImageSectionObject 0xffffc98698d4d190   3496   \Device\HarddiskVolume3\Windows\System32\virtdisk.dll
+ImageSectionObject 0xffffc9869a0e8e50   3496   \Device\HarddiskVolume3\Windows\System32\EhStorAPI.dll
+ImageSectionObject 0xffffc9869c48ccf0   3496   \Device\HarddiskVolume3\Windows\System32\PlayToDevice.dll
+ImageSectionObject 0xffffc986989a29d0   3496   \Device\HarddiskVolume3\Windows\System32\SettingSync.dll
+ImageSectionObject 0xffffc986989964f0   3496   \Device\HarddiskVolume3\Windows\System32\PhotoMetadataHandler.dll
+ImageSectionObject 0xffffc98698863a30   3496   \Device\HarddiskVolume3\Windows\System32\Windows.Devices.Enumeration.dll
+ImageSectionObject 0xffffc9869ac42dd0   3496   \Device\HarddiskVolume3\Windows\System32\chartv.dll
+ImageSectionObject 0xffffc9869ac3c6b0   3496   None
+ImageSectionObject 0xffffc98699dbb580   3496   \Device\HarddiskVolume3\Windows\System32\networkexplorer.dll
+ImageSectionObject 0xffffc98698860e70   3496   \Device\HarddiskVolume3\Windows\System32\EthernetMediaManager.dll
+ImageSectionObject 0xffffc9869c4ae1c0   3496   \Device\HarddiskVolume3\Windows\System32\nlmproxy.dll
+ImageSectionObject 0xffffc98698861190   3496   \Device\HarddiskVolume3\Windows\System32\NetworkUXBroker.dll
+ImageSectionObject 0xffffc9869885ccd0   3496   \Device\HarddiskVolume3\Windows\System32\InputSwitch.dll
+ImageSectionObject 0xffffc986986e4d50   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Immersive.dll
+ImageSectionObject 0xffffc98698794330   3496   \Device\HarddiskVolume3\Windows\System32\LanguageOverlayUtil.dll
+ImageSectionObject 0xffffc9869878f9c0   3496   \Device\HarddiskVolume3\Windows\System32\Windows.UI.dll
+ImageSectionObject 0xffffc986986e48a0   3496   \Device\HarddiskVolume3\Windows\System32\TextInputFramework.dll
+ImageSectionObject 0xffffc98699741ce0   3496   \Device\HarddiskVolume3\Windows\System32\pnidui.dll
+ImageSectionObject 0xffffc98699742af0   3496   \Device\HarddiskVolume3\Windows\System32\cscobj.dll
+ImageSectionObject 0xffffc986997461a0   3496   \Device\HarddiskVolume3\Windows\System32\imapi2.dll
+ImageSectionObject 0xffffc98699742c80   3496   \Device\HarddiskVolume3\Windows\System32\srchadmin.dll
+ImageSectionObject 0xffffc9869a23b950   3496   \Device\HarddiskVolume3\Windows\System32\hcproviders.dll
+ImageSectionObject 0xffffc98698788490   3496   \Device\HarddiskVolume3\Windows\System32\PortableDeviceApi.dll
+ImageSectionObject 0xffffc98699740bb0   3496   \Device\HarddiskVolume3\Windows\System32\PortableDeviceTypes.dll
+ImageSectionObject 0xffffc98699742190   3496   \Device\HarddiskVolume3\Windows\System32\SettingMonitor.dll
+ImageSectionObject 0xffffc98699742960   3496   \Device\HarddiskVolume3\Windows\System32\WPDShServiceObj.dll
+ImageSectionObject 0xffffc98699740890   3496   \Device\HarddiskVolume3\Windows\System32\bthprops.cpl
+DataSectionObject 0xffffc986991468c0   3660   \Device\HarddiskVolume3\Windows\System32\en-US\ctfmon.exe.mui
+DataSectionObject 0xffffc98699148670   3660   \Device\HarddiskVolume3\Windows\System32\C_1256.NLS
+DataSectionObject 0xffffc98699148350   3660   \Device\HarddiskVolume3\Windows\System32\C_1251.NLS
+DataSectionObject 0xffffc9869914a8d0   3660   \Device\HarddiskVolume3\Windows\System32\C_1254.NLS
+DataSectionObject 0xffffc9869914ad80   3660   \Device\HarddiskVolume3\Windows\System32\C_1250.NLS
+DataSectionObject 0xffffc98699148800   3660   \Device\HarddiskVolume3\Windows\System32\C_1253.NLS
+DataSectionObject 0xffffc986991554b0   3660   \Device\HarddiskVolume3\Windows\System32\en-US\datamap.0409.dat
+ImageSectionObject 0xffffc98697250260   3660   \Device\HarddiskVolume3\Windows\System32\KBDUS.DLL
+ImageSectionObject 0xffffc98699146730   3660   \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+ImageSectionObject 0xffffc9869914b3c0   3660   \Device\HarddiskVolume3\Windows\System32\MTF.dll
+ImageSectionObject 0xffffc98699149160   3660   \Device\HarddiskVolume3\Windows\System32\MTFServer.dll
+ImageSectionObject 0xffffc9869914b0a0   3660   \Device\HarddiskVolume3\Windows\System32\InputLocaleManager.dll
+ImageSectionObject 0xffffc986991476d0   3660   \Device\HarddiskVolume3\Windows\System32\InputService.dll
+ImageSectionObject 0xffffc98699146a50   3660   \Device\HarddiskVolume3\Windows\System32\TextInputMethodFormatter.dll
+ImageSectionObject 0xffffc9869a7bf330   3660   \Device\HarddiskVolume3\Windows\System32\WordBreakers.dll
+DataSectionObject 0xffffc9869a225e70   3828   None
+ImageSectionObject 0xffffc98699153570   3828   \Device\HarddiskVolume3\Windows\System32\CBDHSvc.dll
+ImageSectionObject 0xffffc98699159b00   3828   \Device\HarddiskVolume3\Windows\System32\windows.applicationmodel.datatransfer.dll
+ImageSectionObject 0xffffc9869885b0b0   2132   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.Phone.dll
+DataSectionObject 0xffffc98699363600   2132   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\resources.pri
+DataSectionObject 0xffffc98699363790   2132   \Device\HarddiskVolume3\Windows\rescache\_merged\24768367\3374421605.pri
+DataSectionObject 0xffffc9869936b620   2132   \Device\HarddiskVolume3\Windows\SystemResources\Windows.UI.ShellCommon\pris\Windows.UI.ShellCommon.en-US.pri
+ImageSectionObject 0xffffc9869885bd30   2132   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.Maps.dll
+ImageSectionObject 0xffffc9869885a430   2132   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.InkControls.dll
+DataSectionObject 0xffffc9869936ecd0   2132   \Device\HarddiskVolume3\Windows\System32\en-US\windows.ui.xaml.dll.mui
+ImageSectionObject 0xffffc98699369870   2132   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Xaml.Resources.Common.dll
+DataSectionObject 0xffffc98699370440   2132   \Device\HarddiskVolume3\Windows\System32\en-US\Windows.Globalization.dll.mui
+DataSectionObject 0xffffc98699371a20   2132   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_0_Header.bin
+DataSectionObject 0xffffc98699371bb0   2132   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_0_Data.bin
+SharedCacheMap 0xffffc98699371bb0   2132   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_0_Data.bin
+ImageSectionObject 0xffffc98699365d10   2132   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartUI.dll
+ImageSectionObject 0xffffc98699164eb0   2132   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+ImageSectionObject 0xffffc98699368a60   2132   \Device\HarddiskVolume3\Windows\System32\Windows.Storage.ApplicationData.dll
+ImageSectionObject 0xffffc9869936b940   2132   \Device\HarddiskVolume3\Windows\System32\Windows.Services.TargetedContent.dll
+ImageSectionObject 0xffffc98699376390   2132   \Device\HarddiskVolume3\Windows\System32\RTMediaFrame.dll
+ImageSectionObject 0xffffc98699363150   2132   \Device\HarddiskVolume3\Windows\System32\ShellExperiences\Windows.UI.Shell.SharedUtilities.dll
+ImageSectionObject 0xffffc9869936b7b0   2132   \Device\HarddiskVolume3\Windows\System32\fontgroupsoverride.dll
+ImageSectionObject 0xffffc986993696e0   2132   \Device\HarddiskVolume3\Windows\System32\Windows.Globalization.Fontgroups.dll
+ImageSectionObject 0xffffc986997270c0   2132   \Device\HarddiskVolume3\Windows\System32\XamlTileRender.dll
+ImageSectionObject 0xffffc9869885c1e0   2132   \Device\HarddiskVolume3\Windows\System32\directmanipulation.dll
+DataSectionObject 0xffffc9869a2429d0   4012   None
+ImageSectionObject 0xffffc98699366e40   4012   None
+DataSectionObject 0xffffc98699366e40   4012   None
+ImageSectionObject 0xffffc9869a23d890   4012   \Device\HarddiskVolume3\Windows\System32\shutdownux.dll
+DataSectionObject 0xffffc98699372510   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\resources.pri
+DataSectionObject 0xffffc986993721f0   4156   \Device\HarddiskVolume3\Windows\rescache\_merged\1306122063\2191766279.pri
+DataSectionObject 0xffffc98699372e70   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris\resources.en-US.pri
+ImageSectionObject 0xffffc9869937cc40   4156   \Device\HarddiskVolume3\Windows\System32\icuuc.dll
+ImageSectionObject 0xffffc9869937c600   4156   \Device\HarddiskVolume3\Windows\System32\icuin.dll
+DataSectionObject 0xffffc98699727700   4156   \Device\HarddiskVolume3\Windows\System32\en-US\edgehtml.dll.mui
+ImageSectionObject 0xffffc9869972f270   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Search.winmd
+ImageSectionObject 0xffffc9869972ce80   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+ImageSectionObject 0xffffc9869972d7e0   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.Foundation.winmd
+ImageSectionObject 0xffffc9869972e460   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.Security.winmd
+ImageSectionObject 0xffffc9869972fd60   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.Storage.winmd
+ImageSectionObject 0xffffc98699733280   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.System.winmd
+ImageSectionObject 0xffffc986997362f0   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.Web.winmd
+DataSectionObject 0xffffc98699724690   4156   \Device\HarddiskVolume3\Windows\Globalization\ICU\timezoneTypes.res
+DataSectionObject 0xffffc98698b303d0   4156   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\MSIMGSIZ.DAT
+ImageSectionObject 0xffffc9869973b8e0   4156   \Device\HarddiskVolume3\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+DataSectionObject 0xffffc98699737a60   4156   \Device\HarddiskVolume3\Windows\SystemResources\Chakra.dll.mun
+ImageSectionObject 0xffffc9869973b5c0   4156   \Device\HarddiskVolume3\Program Files\Common Files\System\Ole DB\oledb32r.dll
+DataSectionObject 0xffffc98699724500   4156   \Device\HarddiskVolume3\Windows\Globalization\ICU\icudtl.dat
+DataSectionObject 0xffffc98698863ee0   4156   \Device\HarddiskVolume3\Windows\Fonts\simsun.ttc
+DataSectionObject 0xffffc9869a7bcc20   4156   \Device\HarddiskVolume3\Windows\Fonts\seguisb.ttf
+DataSectionObject 0xffffc9869a7caeb0   4156   \Device\HarddiskVolume3\Windows\SystemResources\edgehtml.dll.mun
+DataSectionObject 0xffffc9869c490d00   4156   \Device\HarddiskVolume3\Windows\System32\en-US\StartTileData.dll.mui
+ImageSectionObject 0xffffc9869973a940   4156   \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1_none_4b395a7b3c8e63ab\comctl32.dll
+ImageSectionObject 0xffffc9869914ba00   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+ImageSectionObject 0xffffc9869a229e80   4156   \Device\HarddiskVolume3\Windows\System32\webplatstorageserver.dll
+ImageSectionObject 0xffffc98698d57be0   4156   \Device\HarddiskVolume3\Windows\System32\Windows.CloudStore.Schema.Shell.dll
+ImageSectionObject 0xffffc986997400c0   4156   \Device\HarddiskVolume3\Windows\System32\SystemSettings.DataModel.dll
+ImageSectionObject 0xffffc9869973ba70   4156   \Device\HarddiskVolume3\Program Files\Common Files\System\Ole DB\oledb32.dll
+ImageSectionObject 0xffffc9869973c6f0   4156   \Device\HarddiskVolume3\Windows\System32\msdart.dll
+ImageSectionObject 0xffffc986997314d0   4156   \Device\HarddiskVolume3\Windows\System32\Windows.ApplicationModel.Background.SystemEventsBroker.dll
+ImageSectionObject 0xffffc98699374db0   4156   \Device\HarddiskVolume3\Windows\System32\Windows.UI.Input.Inking.dll
+ImageSectionObject 0xffffc9869937e9f0   4156   \Device\HarddiskVolume3\Windows\System32\edgehtml.dll
+ImageSectionObject 0xffffc9869937c790   4156   \Device\HarddiskVolume3\Windows\System32\Chakra.dll
+ImageSectionObject 0xffffc9869885d4a0   4156   \Device\HarddiskVolume3\Windows\System32\OnDemandConnRouteHelper.dll
+ImageSectionObject 0xffffc9869937e540   4156   \Device\HarddiskVolume3\Windows\System32\EdgeManager.dll
+ImageSectionObject 0xffffc98699377970   4156   \Device\HarddiskVolume3\Windows\System32\Windows.Cortana.ProxyStub.dll
+ImageSectionObject 0xffffc98699371890   4156   \Device\HarddiskVolume3\Windows\System32\Windows.Web.Http.dll
+ImageSectionObject 0xffffc986993734b0   4156   \Device\HarddiskVolume3\Windows\System32\msftedit.dll
+ImageSectionObject 0xffffc9869936dba0   4156   \Device\HarddiskVolume3\Windows\System32\Speech_OneCore\common\sapi_onecore.dll
+ImageSectionObject 0xffffc98699371570   4156   \Device\HarddiskVolume3\Windows\System32\ConstraintIndex.Search.dll
+ImageSectionObject 0xffffc9869936cd90   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApi.dll
+ImageSectionObject 0xffffc9869936d3d0   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\BingConfigurationClient.dll
+ImageSectionObject 0xffffc9869936e690   4156   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Search.Core.dll
+ImageSectionObject 0xffffc98699726c10   4156   \Device\HarddiskVolume3\Windows\System32\edgeIso.dll
+ImageSectionObject 0xffffc98699381740   4156   \Device\HarddiskVolume3\Windows\System32\srpapi.dll
+ImageSectionObject 0xffffc98699725950   4156   \Device\HarddiskVolume3\Windows\System32\msimtf.dll
+ImageSectionObject 0xffffc986997254a0   4156   None
+ImageSectionObject 0xffffc98699725180   4156   None
+ImageSectionObject 0xffffc9869c49cec0   4156   None
+ImageSectionObject 0xffffc98698790190   4156   \Device\HarddiskVolume3\Windows\System32\globinputhost.dll
+DataSectionObject 0xffffc98698d54530   4244   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000000b.db
+DataSectionObject 0xffffc98699d87af0   4244   None
+ImageSectionObject 0xffffc9869973fda0   4244   \Device\HarddiskVolume3\Windows\System32\regapi.dll
+ImageSectionObject 0xffffc9869973db40   4244   \Device\HarddiskVolume3\Windows\System32\SettingsEnvironment.Desktop.dll
+ImageSectionObject 0xffffc98699375d50   4244   \Device\HarddiskVolume3\Windows\System32\Windows.Cortana.OneCore.dll
+ImageSectionObject 0xffffc9869973b110   4244   \Device\HarddiskVolume3\Windows\System32\Windows.Cortana.Desktop.dll
+ImageSectionObject 0xffffc9869937eb80   4492   \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+DataSectionObject 0xffffc9869a7c2210   4836   \Device\HarddiskVolume3\Windows\System32\en-US\Windows.Storage.Search.dll.mui
+DataSectionObject 0xffffc9869a7f14c0   4836   \Device\HarddiskVolume3\Windows\System32\en-US\mssvp.dll.mui
+ImageSectionObject 0xffffc9869a231090   4836   \Device\HarddiskVolume3\Windows\System32\mssvp.dll
+ImageSectionObject 0xffffc9869a2515c0   4836   \Device\HarddiskVolume3\Windows\System32\Windows.ApplicationModel.Core.dll
+ImageSectionObject 0xffffc9869a7db9e0   4836   \Device\HarddiskVolume3\Windows\System32\feclient.dll
+ImageSectionObject 0xffffc9869a7d7e80   4836   \Device\HarddiskVolume3\Windows\System32\efswrt.dll
+DataSectionObject 0xffffc98699753ad0   5176   \Device\HarddiskVolume3\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+SharedCacheMap 0xffffc98699753ad0   5176   \Device\HarddiskVolume3\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+DataSectionObject 0xffffc98699755560   5176   \Device\HarddiskVolume3\Windows\System32\en-US\SearchIndexer.exe.mui
+ImageSectionObject 0xffffc98699755a10   5176   \Device\HarddiskVolume3\Windows\System32\SearchIndexer.exe
+DataSectionObject 0xffffc98699756690   5176   \Device\HarddiskVolume3\Windows\SystemResources\tquery.dll.mun
+DataSectionObject 0xffffc9869a2445f0   5176   \Device\HarddiskVolume3\Windows\System32\en-US\tquery.dll.mui
+ImageSectionObject 0xffffc9869a22c0e0   5176   \Device\HarddiskVolume3\Windows\System32\elslad.dll
+ImageSectionObject 0xffffc986997553d0   5176   None
+ImageSectionObject 0xffffc9869a22c270   5176   \Device\HarddiskVolume3\Windows\System32\Query.dll
+ImageSectionObject 0xffffc9869975d8a0   5428   \Device\HarddiskVolume3\Windows\System32\ssdpsrv.dll
+DataSectionObject 0xffffc98699d915a0   5496   \Device\HarddiskVolume3\Windows\System32\en-US\smartscreen.exe.mui
+DataSectionObject 0xffffc98699d8fb10   5496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Safety\shell\remote\script_325785655767390484056490918594026283942.rel.v2
+DataSectionObject 0xffffc98699d8fe30   5496   \Device\HarddiskVolume3\Windows\System32\en-US\Windows.Web.Http.dll.mui
+DataSectionObject 0xffffc9869a0beb50   5496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Safety\edge\remote\script_325959408320881770987398580906187707347.rel.v2
+DataSectionObject 0xffffc9869a24eeb0   5496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Safety\edge\local\local\cache
+DataSectionObject 0xffffc9869a24d740   5496   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Safety\edge\remote\topTraffic_637744606387471204
+DataSectionObject 0xffffc9869a7d18f0   5496   \Device\HarddiskVolume3\Windows\System32\C_20127.NLS
+ImageSectionObject 0xffffc98699d8f1b0   5496   \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+DataSectionObject 0xffffc98699d8f1b0   5496   \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+ImageSectionObject 0xffffc9869975fb00   5496   \Device\HarddiskVolume3\Windows\System32\WinRtTracing.dll
+ImageSectionObject 0xffffc9869c4aaca0   5496   \Device\HarddiskVolume3\Windows\System32\msdelta.dll
+DataSectionObject 0xffffc98699d91d70   5540   \Device\HarddiskVolume3\Windows\System32\en-US\securityhealthsso.dll.mui
+ImageSectionObject 0xffffc98699d91730   5540   \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+ImageSectionObject 0xffffc98699d8ee90   5540   \Device\HarddiskVolume3\Windows\System32\SecurityHealthSSO.dll
+ImageSectionObject 0xffffc98699d958d0   5540   None
+ImageSectionObject 0xffffc98699da2d50   5564   \Device\HarddiskVolume3\Windows\SysWOW64\propsys.dll
+ImageSectionObject 0xffffc98699d93b20   5564   \Device\HarddiskVolume3\Program Files\TrueCrypt\TrueCrypt.exe
+DataSectionObject 0xffffc98699d93b20   5564   \Device\HarddiskVolume3\Program Files\TrueCrypt\TrueCrypt.exe
+DataSectionObject 0xffffc98699da2710   5564   \Device\HarddiskVolume3\Windows\System32\en-US\comdlg32.dll.mui
+DataSectionObject 0xffffc98699da68b0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\oleaccrc.dll
+DataSectionObject 0xffffc98699da8980   5564   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+ImageSectionObject 0xffffc98699dace40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\vmhgfs.dll
+ImageSectionObject 0xffffc98699dab6d0   5564   None
+ImageSectionObject 0xffffc98699dbde20   5564   \Device\HarddiskVolume3\Windows\SysWOW64\ntshrui.dll
+ImageSectionObject 0xffffc9869a0bfc80   5564   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.StateRepositoryPS.dll
+ImageSectionObject 0xffffc9869a0c18a0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\actxprxy.dll
+ImageSectionObject 0xffffc9869a0bb180   5564   \Device\HarddiskVolume3\Windows\SysWOW64\fltLib.dll
+ImageSectionObject 0xffffc9869a0c5720   5564   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.Storage.Search.dll
+ImageSectionObject 0xffffc9869a0c0a90   5564   \Device\HarddiskVolume3\Windows\SysWOW64\sxs.dll
+ImageSectionObject 0xffffc9869a0bab40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\cldapi.dll
+ImageSectionObject 0xffffc98699dbd650   5564   \Device\HarddiskVolume3\Windows\SysWOW64\devobj.dll
+ImageSectionObject 0xffffc98699dbb8a0   5564   None
+ImageSectionObject 0xffffc98699dba5e0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\PortableDeviceApi.dll
+ImageSectionObject 0xffffc98699dbc840   5564   \Device\HarddiskVolume3\Windows\SysWOW64\MMDevAPI.dll
+ImageSectionObject 0xffffc98699dbc200   5564   \Device\HarddiskVolume3\Windows\SysWOW64\PlayToDevice.dll
+ImageSectionObject 0xffffc98699db5310   5564   None
+ImageSectionObject 0xffffc98699db65d0   5564   None
+ImageSectionObject 0xffffc98699dbc390   5564   None
+ImageSectionObject 0xffffc98699db0e50   5564   None
+ImageSectionObject 0xffffc98699dbba30   5564   None
+ImageSectionObject 0xffffc98699dbbee0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\DevDispItemProvider.dll
+ImageSectionObject 0xffffc98699db5950   5564   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncShell.dll
+ImageSectionObject 0xffffc98699dac4e0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\winmm.dll
+ImageSectionObject 0xffffc98699db49b0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\apphelp.dll
+ImageSectionObject 0xffffc98699dac350   5564   None
+ImageSectionObject 0xffffc98699db1940   5564   None
+ImageSectionObject 0xffffc98699db1df0   5564   None
+ImageSectionObject 0xffffc98699db5180   5564   None
+ImageSectionObject 0xffffc98699db1170   5564   None
+ImageSectionObject 0xffffc98699db0b30   5564   None
+ImageSectionObject 0xffffc98699daea60   5564   None
+ImageSectionObject 0xffffc98699dafd20   5564   None
+ImageSectionObject 0xffffc98699db36f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\iertutil.dll
+ImageSectionObject 0xffffc98699da8660   5564   \Device\HarddiskVolume3\Windows\SysWOW64\wtsapi32.dll
+ImageSectionObject 0xffffc98699dad480   5564   \Device\HarddiskVolume3\Windows\SysWOW64\mpr.dll
+ImageSectionObject 0xffffc98699db0680   5564   None
+ImageSectionObject 0xffffc98699da9dd0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\sspicli.dll
+ImageSectionObject 0xffffc98699daad70   5564   None
+ImageSectionObject 0xffffc98699da84d0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\wininet.dll
+ImageSectionObject 0xffffc98699da9920   5564   \Device\HarddiskVolume3\Windows\SysWOW64\userenv.dll
+ImageSectionObject 0xffffc98699da8b10   5564   \Device\HarddiskVolume3\Windows\SysWOW64\secur32.dll
+ImageSectionObject 0xffffc986997626c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.FileExplorer.Common.dll
+ImageSectionObject 0xffffc98699760c30   5564   \Device\HarddiskVolume3\Windows\SysWOW64\linkinfo.dll
+ImageSectionObject 0xffffc98699762080   5564   \Device\HarddiskVolume3\Windows\SysWOW64\xmllite.dll
+ImageSectionObject 0xffffc98699da6a40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\AssignedAccessRuntime.dll
+ImageSectionObject 0xffffc986970589c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
+ImageSectionObject 0xffffc98699da1c20   5564   \Device\HarddiskVolume3\Windows\SysWOW64\duser.dll
+ImageSectionObject 0xffffc98699da6270   5564   \Device\HarddiskVolume3\Windows\SysWOW64\thumbcache.dll
+ImageSectionObject 0xffffc98699da23f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\dxgi.dll
+ImageSectionObject 0xffffc98699da3cf0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.UI.FileExplorer.dll
+ImageSectionObject 0xffffc98699da3200   5564   \Device\HarddiskVolume3\Windows\SysWOW64\oleacc.dll
+ImageSectionObject 0xffffc98699da2a30   5564   \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+ImageSectionObject 0xffffc98699d9f9c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+ImageSectionObject 0xffffc98699da1db0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+ImageSectionObject 0xffffc98699d9f830   5564   \Device\HarddiskVolume3\Windows\SysWOW64\DataExchange.dll
+ImageSectionObject 0xffffc98699382b90   5564   \Device\HarddiskVolume3\Windows\SysWOW64\ExplorerFrame.dll
+ImageSectionObject 0xffffc98699da5dc0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\WindowsCodecs.dll
+ImageSectionObject 0xffffc98699da1770   5564   None
+ImageSectionObject 0xffffc98699da5140   5564   \Device\HarddiskVolume3\Windows\SysWOW64\edputil.dll
+ImageSectionObject 0xffffc98699da3b60   5564   \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+ImageSectionObject 0xffffc98699d98c60   5564   \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1_none_fd031af45b0106f2\comctl32.dll
+ImageSectionObject 0xffffc98699d9cae0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\TextInputFramework.dll
+ImageSectionObject 0xffffc98699d9b9b0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
+ImageSectionObject 0xffffc98699da44c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\dui70.dll
+ImageSectionObject 0xffffc98699d9c950   5564   \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+ImageSectionObject 0xffffc98699d9d760   5564   \Device\HarddiskVolume3\Windows\SysWOW64\WinTypes.dll
+ImageSectionObject 0xffffc98699d9be60   5564   \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+ImageSectionObject 0xffffc98699d99a70   5564   \Device\HarddiskVolume3\Windows\SysWOW64\msls31.dll
+ImageSectionObject 0xffffc98699d9a6f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\TextShaping.dll
+ImageSectionObject 0xffffc98699d98df0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\usp10.dll
+ImageSectionObject 0xffffc98699d99750   5564   None
+ImageSectionObject 0xffffc98699d97680   5564   \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1_none_92e69152510a8cb1\comctl32.dll
+ImageSectionObject 0xffffc98699d95bf0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\windows.storage.dll
+ImageSectionObject 0xffffc98699d9aec0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\profapi.dll
+ImageSectionObject 0xffffc98699d95d80   5564   \Device\HarddiskVolume3\Windows\SysWOW64\wldp.dll
+ImageSectionObject 0xffffc98699d95740   5564   \Device\HarddiskVolume3\Windows\SysWOW64\kernel.appcore.dll
+ImageSectionObject 0xffffc98699d95a60   5564   None
+ImageSectionObject 0xffffc98699d96b90   5564   None
+ImageSectionObject 0xffffc986970570c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
+ImageSectionObject 0xffffc98697058380   5564   \Device\HarddiskVolume3\Windows\SysWOW64\gdi32.dll
+ImageSectionObject 0xffffc98697058510   5564   \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
+DataSectionObject 0xffffc98697058510   5564   \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
+ImageSectionObject 0xffffc98697058b50   5564   \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
+ImageSectionObject 0xffffc986970581f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\ucrtbase.dll
+ImageSectionObject 0xffffc98697057890   5564   \Device\HarddiskVolume3\Windows\SysWOW64\wintrust.dll
+ImageSectionObject 0xffffc98695bfece0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\user32.dll
+ImageSectionObject 0xffffc98695bfd700   5564   \Device\HarddiskVolume3\Windows\SysWOW64\rpcrt4.dll
+ImageSectionObject 0xffffc98697057700   5564   \Device\HarddiskVolume3\Windows\SysWOW64\gdi32full.dll
+ImageSectionObject 0xffffc98697057bb0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\bcrypt.dll
+ImageSectionObject 0xffffc98697057d40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\SHCore.dll
+ImageSectionObject 0xffffc98697058830   5564   \Device\HarddiskVolume3\Windows\SysWOW64\combase.dll
+ImageSectionObject 0xffffc98695bfda20   5564   \Device\HarddiskVolume3\Windows\SysWOW64\sechost.dll
+ImageSectionObject 0xffffc98695bfd570   5564   None
+ImageSectionObject 0xffffc98695bfdd40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\coml2.dll
+ImageSectionObject 0xffffc98695bfd890   5564   \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
+ImageSectionObject 0xffffc98695bfd3e0   5564   None
+DataSectionObject 0xffffc98695bfd3e0   5564   None
+ImageSectionObject 0xffffc98695bfd0c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
+ImageSectionObject 0xffffc98695bfded0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\shlwapi.dll
+ImageSectionObject 0xffffc98695bfdbb0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\bcryptprimitives.dll
+ImageSectionObject 0xffffc98695bfeb50   5564   None
+ImageSectionObject 0xffffc98695bfe1f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
+ImageSectionObject 0xffffc98695bfe9c0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\clbcatq.dll
+ImageSectionObject 0xffffc98695bcf1f0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\KernelBase.dll
+ImageSectionObject 0xffffc98695bfe6a0   5564   \Device\HarddiskVolume3\Windows\SysWOW64\setupapi.dll
+ImageSectionObject 0xffffc98695bfe510   5564   \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
+DataSectionObject 0xffffc98695bfe510   5564   \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
+ImageSectionObject 0xffffc98695bcea20   5564   \Device\HarddiskVolume3\Windows\SysWOW64\cfgmgr32.dll
+ImageSectionObject 0xffffc98695bced40   5564   \Device\HarddiskVolume3\Windows\SysWOW64\ws2_32.dll
+ImageSectionObject 0xffffc98695bbc890   5564   \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
+ImageSectionObject 0xffffc98695bce700   5564   \Device\HarddiskVolume3\Windows\SysWOW64\crypt32.dll
+ImageSectionObject 0xffffc98695bbdb50   5564   \Device\HarddiskVolume3\Windows\System32\wow64.dll
+ImageSectionObject 0xffffc986952f5570   5564   \Device\HarddiskVolume3\Windows\System32\wow64win.dll
+DataSectionObject 0xffffc98698c2e560   5592   None
+ImageSectionObject 0xffffc98699d931c0   5592   \Device\HarddiskVolume3\Windows\System32\SecurityHealthService.exe
+ImageSectionObject 0xffffc9869a242840   5592   \Device\HarddiskVolume3\Windows\System32\SecurityCenterBrokerPS.dll
+DataSectionObject 0xffffc9869a0cb4e0   5716   \Device\HarddiskVolume3\Windows\System32\msxml3r.dll
+DataSectionObject 0xffffc9869a0cbe40   5716   \Device\HarddiskVolume3\Windows\System32\en-US\msxml6r.dll.mui
+ImageSectionObject 0xffffc98699d9a3d0   5716   \Device\HarddiskVolume3\Windows\System32\mfc140enu.dll
+ImageSectionObject 0xffffc98699d9e570   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmusr\desktopEvents.dll
+ImageSectionObject 0xffffc98699d9f6a0   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\VMToolsHook64.dll
+ImageSectionObject 0xffffc9869a0ccc50   5716   \Device\HarddiskVolume3\Windows\System32\msxml3.dll
+ImageSectionObject 0xffffc98699d9fe70   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmusr\vmtray.dll
+ImageSectionObject 0xffffc98699d91a50   5716   \Device\HarddiskVolume3\Windows\System32\mfc140u.dll
+ImageSectionObject 0xffffc98699761ef0   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmusr\unity.dll
+ImageSectionObject 0xffffc9869975fe20   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\glibmm-2.4.dll
+ImageSectionObject 0xffffc98699da0e10   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmusr\dndcp.dll
+ImageSectionObject 0xffffc98699da0320   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\sigc-2.0.dll
+ImageSectionObject 0xffffc98699d9eed0   5716   \Device\HarddiskVolume3\Program Files\VMware\VMware Tools\plugins\vmusr\darkModeSync.dll
+ImageSectionObject 0xffffc9869a0c6b70   5808   \Device\HarddiskVolume3\Windows\SysWOW64\msimtf.dll
+ImageSectionObject 0xffffc98699da7080   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+ImageSectionObject 0xffffc9869a0bb630   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSync.LocalizedResources.dll
+ImageSectionObject 0xffffc9869a0ba500   5808   None
+DataSectionObject 0xffffc9869a0bb950   5808   None
+DataSectionObject 0xffffc9869a0bd3e0   5808   None
+ImageSectionObject 0xffffc9869a0c10d0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\ieframe.dll
+DataSectionObject 0xffffc9869a0c10d0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\ieframe.dll
+SharedCacheMap 0xffffc9869a0c10d0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\ieframe.dll
+DataSectionObject 0xffffc9869a0c82e0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\en-US\urlmon.dll.mui
+DataSectionObject 0xffffc98699756cd0   5808   \Device\HarddiskVolume3\Windows\System32\en-US\Windows.Security.Authentication.Web.Core.dll.mui
+DataSectionObject 0xffffc98698c2eba0   5808   \Device\HarddiskVolume3\Windows\System32\en-US\mshtml.dll.mui
+DataSectionObject 0xffffc9869a0c98c0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\en-US\jscript9.dll.mui
+ImageSectionObject 0xffffc9869a0c6d00   5808   \Device\HarddiskVolume3\Windows\SysWOW64\dhcpcsvc6.dll
+ImageSectionObject 0xffffc9869a0c7ca0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\DWrite.dll
+ImageSectionObject 0xffffc9869a0c7e30   5808   \Device\HarddiskVolume3\Windows\SysWOW64\DXCore.dll
+ImageSectionObject 0xffffc9869a0c7b10   5808   \Device\HarddiskVolume3\Windows\SysWOW64\d2d1.dll
+ImageSectionObject 0xffffc98699db7ed0   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\libcrypto-1_1.dll
+ImageSectionObject 0xffffc9869a0c26b0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\mswsock.dll
+ImageSectionObject 0xffffc9869a0c4aa0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\mskeyprotect.dll
+ImageSectionObject 0xffffc9869a0c71b0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\srpapi.dll
+ImageSectionObject 0xffffc9869a0c90f0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\jscript9.dll
+ImageSectionObject 0xffffc98699dac800   5808   \Device\HarddiskVolume3\Windows\SysWOW64\ncryptsslp.dll
+ImageSectionObject 0xffffc9869a0c4460   5808   \Device\HarddiskVolume3\Windows\SysWOW64\cryptnet.dll
+ImageSectionObject 0xffffc9869a0c3970   5808   \Device\HarddiskVolume3\Windows\SysWOW64\mshtml.dll
+ImageSectionObject 0xffffc9869a0c4dc0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\FWPUCLNT.DLL
+ImageSectionObject 0xffffc9869a0c3b00   5808   \Device\HarddiskVolume3\Windows\SysWOW64\schannel.dll
+ImageSectionObject 0xffffc9869a0c37e0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\rasadhlp.dll
+ImageSectionObject 0xffffc9869a0c4140   5808   \Device\HarddiskVolume3\Windows\SysWOW64\MicrosoftAccountTokenProvider.dll
+ImageSectionObject 0xffffc9869a0c34c0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\dpapi.dll
+ImageSectionObject 0xffffc9869a0c2cf0   5808   None
+ImageSectionObject 0xffffc9869a0c1a30   5808   \Device\HarddiskVolume3\Windows\SysWOW64\msIso.dll
+ImageSectionObject 0xffffc9869a0be510   5808   \Device\HarddiskVolume3\Windows\SysWOW64\umpdc.dll
+ImageSectionObject 0xffffc9869a0c29d0   5808   None
+ImageSectionObject 0xffffc9869a0c0900   5808   None
+ImageSectionObject 0xffffc9869a0c2b60   5808   None
+ImageSectionObject 0xffffc9869a0c2390   5808   \Device\HarddiskVolume3\Windows\SysWOW64\dsreg.dll
+ImageSectionObject 0xffffc98699da9c40   5808   None
+ImageSectionObject 0xffffc98699daa5a0   5808   None
+ImageSectionObject 0xffffc9869a0c13f0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\FamilySafetyExt.dll
+ImageSectionObject 0xffffc9869a0c05e0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\Wpc.dll
+ImageSectionObject 0xffffc9869a0bd700   5808   \Device\HarddiskVolume3\Windows\SysWOW64\msxml6.dll
+ImageSectionObject 0xffffc9869a0bd250   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncFALWB.dll
+ImageSectionObject 0xffffc9869a0bda20   5808   \Device\HarddiskVolume3\Windows\SysWOW64\WindowManagementAPI.dll
+ImageSectionObject 0xffffc9869a0bd570   5808   None
+ImageSectionObject 0xffffc9869a0bdbb0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\powrprof.dll
+ImageSectionObject 0xffffc9869a0be1f0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\InputHost.dll
+ImageSectionObject 0xffffc9869a0bb7c0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+ImageSectionObject 0xffffc9869a0ba690   5808   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.UI.dll
+ImageSectionObject 0xffffc9869a0bd0c0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\mlang.dll
+ImageSectionObject 0xffffc98699dbaa90   5808   None
+ImageSectionObject 0xffffc98699dbe5f0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\wscapi.dll
+ImageSectionObject 0xffffc9869a0c2520   5808   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.Security.Authentication.Web.Core.dll
+ImageSectionObject 0xffffc9869a0c8150   5808   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.Web.dll
+ImageSectionObject 0xffffc98699dbc6b0   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\libssl-1_1.dll
+ImageSectionObject 0xffffc9869a0c5590   5808   None
+ImageSectionObject 0xffffc9869a0c6e90   5808   \Device\HarddiskVolume3\Windows\SysWOW64\vaultcli.dll
+ImageSectionObject 0xffffc98699dbb0d0   5808   None
+ImageSectionObject 0xffffc98699dbb3f0   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Network.dll
+ImageSectionObject 0xffffc98699db73e0   5808   None
+ImageSectionObject 0xffffc98699db8510   5808   None
+ImageSectionObject 0xffffc98699dba130   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Quick.dll
+ImageSectionObject 0xffffc98699db89c0   5808   None
+ImageSectionObject 0xffffc98699db9320   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Gui.dll
+ImageSectionObject 0xffffc98699dbc520   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\WnsClientApi.dll
+ImageSectionObject 0xffffc9869974a1b0   5808   None
+ImageSectionObject 0xffffc98699dbb710   5808   None
+ImageSectionObject 0xffffc98699dbbbc0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\netapi32.dll
+ImageSectionObject 0xffffc98699db7890   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5WinExtras.dll
+ImageSectionObject 0xffffc98699db8ce0   5808   None
+ImageSectionObject 0xffffc98699db7570   5808   None
+ImageSectionObject 0xffffc98699382d20   5808   None
+ImageSectionObject 0xffffc98699db7700   5808   None
+ImageSectionObject 0xffffc98699db8830   5808   \Device\HarddiskVolume3\Windows\SysWOW64\wer.dll
+ImageSectionObject 0xffffc98699db7a20   5808   None
+ImageSectionObject 0xffffc98699db9af0   5808   \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.264_none_4298d4188a939fa9\GdiPlus.dll
+ImageSectionObject 0xffffc98699748400   5808   None
+ImageSectionObject 0xffffc98699db0810   5808   None
+ImageSectionObject 0xffffc98699db4820   5808   None
+ImageSectionObject 0xffffc98699db94b0   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Telemetry.dll
+ImageSectionObject 0xffffc98699db9960   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncSessions.dll
+ImageSectionObject 0xffffc98699da3840   5808   None
+ImageSectionObject 0xffffc98698d4c510   5808   None
+ImageSectionObject 0xffffc98699db8e70   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncClient.dll
+ImageSectionObject 0xffffc98699db9640   5808   None
+ImageSectionObject 0xffffc98699db6c10   5808   \Device\HarddiskVolume3\Windows\SysWOW64\Windows.System.Diagnostics.Telemetry.PlatformTelemetryClient.dll
+ImageSectionObject 0xffffc98699db4b40   5808   None
+ImageSectionObject 0xffffc98699dae740   5808   None
+DataSectionObject 0xffffc98699dae740   5808   None
+ImageSectionObject 0xffffc98699dad610   5808   None
+ImageSectionObject 0xffffc98699dad930   5808   None
+ImageSectionObject 0xffffc98699daabe0   5808   None
+ImageSectionObject 0xffffc98699dae5b0   5808   \Device\HarddiskVolume3\Windows\SysWOW64\dhcpcsvc.dll
+ImageSectionObject 0xffffc98699dad2f0   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\OneDriveTelemetryStable.dll
+ImageSectionObject 0xffffc98699dab090   5808   None
+ImageSectionObject 0xffffc98699da79e0   5808   None
+ImageSectionObject 0xffffc98699daaa50   5808   \Device\HarddiskVolume3\Users\kali\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\ucrtbase.dll
+ImageSectionObject 0xffffc98699da9ab0   5808   None
+ImageSectionObject 0xffffc98695bcf510   5808   \Device\HarddiskVolume3\Windows\SysWOW64\normaliz.dll
+ImageSectionObject 0xffffc98695bce250   5808   \Device\HarddiskVolume3\Windows\SysWOW64\nsi.dll
+ImageSectionObject 0xffffc9869a235870   516    \Device\HarddiskVolume3\Windows\System32\SgrmBroker.exe
+ImageSectionObject 0xffffc986991549c0   516    \Device\HarddiskVolume3\Windows\System32\SgrmEnclave.dll
+ImageSectionObject 0xffffc9869a23bc70   2020   \Device\HarddiskVolume3\Windows\System32\wscsvc.dll
+ImageSectionObject 0xffffc9869a23c5d0   2020   \Device\HarddiskVolume3\Windows\System32\vbsapi.dll
+ImageSectionObject 0xffffc9869a23da20   2020   \Device\HarddiskVolume3\Windows\System32\SecurityCenterBroker.dll
+ImageSectionObject 0xffffc9869a252ba0   540    \Device\HarddiskVolume3\Windows\System32\EAMProgressHandler.dll
+ImageSectionObject 0xffffc9869a255da0   540    \Device\HarddiskVolume3\Windows\System32\CryptoWinRT.dll
+DataSectionObject 0xffffc9869a7bd3f0   2724   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\IndexedDB.edb
+SharedCacheMap 0xffffc9869a7bd3f0   2724   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\IndexedDB.edb
+DataSectionObject 0xffffc98698789d90   2724   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\CacheStorage\CacheStorage.edb
+SharedCacheMap 0xffffc98698789d90   2724   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\CacheStorage\CacheStorage.edb
+DataSectionObject 0xffffc98699728ce0   2724   None
+SharedCacheMap 0xffffc98699728ce0   2724   None
+DataSectionObject 0xffffc9869a7b9a20   4748   \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\resources.pri
+ImageSectionObject 0xffffc9869a7b61e0   4748   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\vcruntime140_1_app.dll
+ImageSectionObject 0xffffc9869937f800   4748   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\vcruntime140_app.dll
+ImageSectionObject 0xffffc9869a7b88f0   4748   \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\InputApp.dll
+ImageSectionObject 0xffffc9869a25c1a0   4748   \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe
+ImageSectionObject 0xffffc9869a7b90c0   4748   \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInput.dll
+ImageSectionObject 0xffffc9869a7ba510   4748   \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\LayoutData.dll
+ImageSectionObject 0xffffc9869974db80   4748   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\msvcp140_app.dll
+ImageSectionObject 0xffffc98699750420   4748   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\vccorlib140_app.dll
+ImageSectionObject 0xffffc9869a7e4360   1056   \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+DataSectionObject 0xffffc9869a7e73d0   1056   \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\resources.pri
+DataSectionObject 0xffffc9869a7e5300   1056   None
+ImageSectionObject 0xffffc9869a7e25b0   1056   \Device\HarddiskVolume3\Windows\ShellExperiences\QuickActions.dll
+ImageSectionObject 0xffffc9869a7e5c60   1056   \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Windows.UI.ActionCenter.dll
+ImageSectionObject 0xffffc9869a0f2a90   1056   \Device\HarddiskVolume3\Windows\System32\QuickActionsDataModel.dll
+DataSectionObject 0xffffc98698687480   5084   \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\en-US\powershell.exe.mui
+ImageSectionObject 0xffffc9869c487570   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.PowerShell.ConsoleHost\v4.0_3.0.0.0__31bf3856ad364e35\Microsoft.PowerShell.ConsoleHost.dll
+ImageSectionObject 0xffffc9869c48d4c0   5084   None
+DataSectionObject 0xffffc9869c48b8a0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorrc.dll
+ImageSectionObject 0xffffc9869c48c390   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.PowerShell.Security\v4.0_3.0.0.0__31bf3856ad364e35\Microsoft.PowerShell.Security.dll
+ImageSectionObject 0xffffc9869c48bee0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+ImageSectionObject 0xffffc9869c48a5e0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll
+ImageSectionObject 0xffffc9869c4a27d0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.SecureBoot.Commands\v4.0_10.0.0.0__31bf3856ad364e35\Microsoft.SecureBoot.Commands.dll
+ImageSectionObject 0xffffc9869c48c9d0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+ImageSectionObject 0xffffc9869c4a0ed0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Windows.StartLayout.Commands\v4.0_10.0.0.0__31bf3856ad364e35\Microsoft.Windows.StartLayout.Commands.dll
+ImageSectionObject 0xffffc9869c4894b0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll
+ImageSectionObject 0xffffc9869c48a770   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.XML.dll
+ImageSectionObject 0xffffc9869c48f400   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Configuration.Install\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.Install.dll
+ImageSectionObject 0xffffc9869c48bbc0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+ImageSectionObject 0xffffc9869c496480   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.KeyDistributionService.Cmdlets\v4.0_10.0.0.0__31bf3856ad364e35\Microsoft.KeyDistributionService.Cmdlets.dll
+ImageSectionObject 0xffffc9869c487bb0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Management.Automation\v4.0_3.0.0.0__31bf3856ad364e35\System.Management.Automation.dll
+ImageSectionObject 0xffffc9869c48a900   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.DirectoryServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.DirectoryServices.dll
+ImageSectionObject 0xffffc9869c48c200   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+ImageSectionObject 0xffffc9869c48e5f0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.ServiceProcess\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.ServiceProcess.dll
+ImageSectionObject 0xffffc9869c487890   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+ImageSectionObject 0xffffc9869c48e460   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.PowerShell.Commands.Management\v4.0_3.0.0.0__31bf3856ad364e35\Microsoft.PowerShell.Commands.Management.dll
+ImageSectionObject 0xffffc9869c48db00   5084   \Device\HarddiskVolume3\Program Files\WindowsPowerShell\Modules\PSReadline\2.0.0\Microsoft.PowerShell.PSReadline.dll
+ImageSectionObject 0xffffc9869a229b60   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+ImageSectionObject 0xffffc9869c4a35e0   5084   None
+ImageSectionObject 0xffffc9869c4a75f0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Dynamic\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Dynamic.dll
+ImageSectionObject 0xffffc9869c492600   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.Management.Infrastructure.Native\v4.0_1.0.0.0__31bf3856ad364e35\Microsoft.Management.Infrastructure.Native.dll
+ImageSectionObject 0xffffc9869c4a5390   5084   \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\Modules\WindowsSearch\Microsoft.WindowsSearch.Commands.dll
+ImageSectionObject 0xffffc9869c48e910   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+ImageSectionObject 0xffffc9869c496610   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_64\Microsoft.AppV.AppvClientComConsumer\v4.0_10.0.0.0__31bf3856ad364e35\Microsoft.AppV.AppvClientComConsumer.dll
+ImageSectionObject 0xffffc9869c4914d0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll
+ImageSectionObject 0xffffc9869c4930f0   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.PowerShell.Commands.Utility\v4.0_3.0.0.0__31bf3856ad364e35\Microsoft.PowerShell.Commands.Utility.dll
+ImageSectionObject 0xffffc98698683790   5084   \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+DataSectionObject 0xffffc98698683790   5084   \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ImageSectionObject 0xffffc98699d88900   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+ImageSectionObject 0xffffc9869c488e70   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll
+ImageSectionObject 0xffffc9869c4a8720   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\Framework64\v4.0.30319\diasymreader.dll
+ImageSectionObject 0xffffc98699dbfbd0   5084   \Device\HarddiskVolume3\Windows\System32\atl.dll
+ImageSectionObject 0xffffc98699d8a390   5084   \Device\HarddiskVolume3\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll
+ImageSectionObject 0xffffc9869c4986e0   5084   \Device\HarddiskVolume3\Windows\System32\KdsCli.dll
+ImageSectionObject 0xffffc98699d8b650   5084   \Device\HarddiskVolume3\Windows\System32\ucrtbase_clr0400.dll
+ImageSectionObject 0xffffc98699d8ab60   5084   \Device\HarddiskVolume3\Windows\System32\vcruntime140_clr0400.dll
+ImageSectionObject 0xffffc98699d89260   5084   \Device\HarddiskVolume3\Windows\System32\mscoree.dll
+DataSectionObject 0xffffc9869974aca0   5512   \Device\HarddiskVolume3\Windows\System32\en-US\Conhost.exe.mui
+ImageSectionObject 0xffffc98698d5c0a0   5512   \Device\HarddiskVolume3\Windows\System32\conhost.exe
+DataSectionObject 0xffffc986986db750   1984   None
+DataSectionObject 0xffffc986986853b0   1984   None
+ImageSectionObject 0xffffc98698c2d750   1984   \Device\HarddiskVolume3\Windows\System32\radarrs.dll
+ImageSectionObject 0xffffc98698c304a0   1984   \Device\HarddiskVolume3\Windows\System32\RstrtMgr.dll
+ImageSectionObject 0xffffc9869c4a0a20   6764   \Device\HarddiskVolume3\Windows\System32\WaaSMedicPS.dll
+ImageSectionObject 0xffffc9869c49f8f0   6764   \Device\HarddiskVolume3\Windows\System32\WaaSMedicSvc.dll
+DataSectionObject 0xffffc98698c26ea0   5312   \Device\HarddiskVolume3\Windows\System32\en-US\Taskmgr.exe.mui
+DataSectionObject 0xffffc986972bf4c0   5312   \Device\HarddiskVolume3\Windows\SystemResources\Taskmgr.exe.mun
+ImageSectionObject 0xffffc98698c25730   5312   None
+DataSectionObject 0xffffc98698c25730   5312   None
+ImageSectionObject 0xffffc9869c4a2e10   5312   \Device\HarddiskVolume3\Windows\System32\d3d9.dll
+ImageSectionObject 0xffffc9869a0e9300   5312   \Device\HarddiskVolume3\Windows\System32\credui.dll
+DataSectionObject 0xffffc9869a0e9300   5312   \Device\HarddiskVolume3\Windows\System32\credui.dll
+ImageSectionObject 0xffffc986988601f0   5312   \Device\HarddiskVolume3\Windows\System32\D3D12.dll
+ImageSectionObject 0xffffc9869c4a3770   5312   \Device\HarddiskVolume3\Windows\System32\D3DSCache.dll
+DataSectionObject 0xffffc9869c484b40   6148   \Device\HarddiskVolume3\Windows\System32\en-US\notepad.exe.mui
+DataSectionObject 0xffffc9869c48b260   6148   \Device\HarddiskVolume3\Windows\SystemResources\notepad.exe.mun
+DataSectionObject 0xffffc98699d83e00   6148   \Device\HarddiskVolume3\Windows\SystemResources\comdlg32.dll.mun
+ImageSectionObject 0xffffc98698d4a760   6148   \Device\HarddiskVolume3\Windows\System32\ntlanman.dll
+ImageSectionObject 0xffffc98699730d00   6148   \Device\HarddiskVolume3\Windows\System32\AssignedAccessRuntime.dll
+ImageSectionObject 0xffffc98699d83630   6148   \Device\HarddiskVolume3\Windows\System32\notepad.exe
+ImageSectionObject 0xffffc9869a0e0b10   6148   \Device\HarddiskVolume3\Windows\System32\davclnt.dll
+ImageSectionObject 0xffffc9869c495b20   6148   \Device\HarddiskVolume3\Windows\System32\davhlpr.dll
+ImageSectionObject 0xffffc9869a0e07f0   6148   \Device\HarddiskVolume3\Windows\System32\drprov.dll
+ImageSectionObject 0xffffc9869c495990   6148   \Device\HarddiskVolume3\Windows\System32\vmhgfs.dll
+ImageSectionObject 0xffffc98695bbc0c0   6148   \Device\HarddiskVolume3\Windows\System32\comdlg32.dll
+DataSectionObject 0xffffc9869c497bf0   3304   \Device\HarddiskVolume3\Windows\System32\en-US\AppXDeploymentServer.dll.mui
+DataSectionObject 0xffffc98699159c90   3304   \Device\HarddiskVolume3\Windows\System32\config\systemprofile\AppData\Local\Microsoft\InstallService\{C314AB38-A356-454B-A271-B6F0C3BFFA4D}.checkpoint
+ImageSectionObject 0xffffc9869c4a5cf0   3304   \Device\HarddiskVolume3\Windows\System32\MrmDeploy.dll
+ImageSectionObject 0xffffc98698b38260   3304   \Device\HarddiskVolume3\Windows\System32\AppXDeploymentServer.dll
+ImageSectionObject 0xffffc98699745cf0   3304   \Device\HarddiskVolume3\Windows\System32\AppxSip.dll
+ImageSectionObject 0xffffc98699760140   3304   \Device\HarddiskVolume3\Windows\System32\AppXDeploymentExtensions.desktop.dll
+ImageSectionObject 0xffffc9869a7ec510   3304   \Device\HarddiskVolume3\Windows\System32\Windows.Networking.Vpn.dll
+ImageSectionObject 0xffffc9869c4c05f0   3304   \Device\HarddiskVolume3\Windows\System32\AppXDeploymentExtensions.onecore.dll
+ImageSectionObject 0xffffc9869c4a7dc0   3304   \Device\HarddiskVolume3\Windows\System32\ClipSVC.dll
+ImageSectionObject 0xffffc9869ac46610   3304   \Device\HarddiskVolume3\Windows\System32\AppxApplicabilityEngine.dll
+ImageSectionObject 0xffffc9869915b8b0   3304   \Device\HarddiskVolume3\Windows\System32\cryptxml.dll
+DataSectionObject 0xffffc9869915b8b0   3304   \Device\HarddiskVolume3\Windows\System32\cryptxml.dll
+ImageSectionObject 0xffffc9869ac46160   3304   \Device\HarddiskVolume3\Windows\System32\deviceaccess.dll
+DataSectionObject 0xffffc9869a231b80   6428   \Device\HarddiskVolume3\Windows\servicing\en-US\TrustedInstaller.exe.mui
+ImageSectionObject 0xffffc9869a232350   6428   \Device\HarddiskVolume3\Windows\servicing\TrustedInstaller.exe
+ImageSectionObject 0xffffc9869a2316d0   6428   \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\wdscore.dll
+ImageSectionObject 0xffffc9869a2348d0   6428   \Device\HarddiskVolume3\Windows\servicing\CbsApi.dll
+DataSectionObject 0xffffc9869c4a16a0   592    \Device\HarddiskVolume3\Windows\servicing\CbsMsg.dll
+ImageSectionObject 0xffffc9869c4a1830   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\dpx.dll
+ImageSectionObject 0xffffc9869ac34370   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\TiWorker.exe
+DataSectionObject 0xffffc9869ac34370   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\TiWorker.exe
+ImageSectionObject 0xffffc9869c4a0890   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\CbsCore.dll
+ImageSectionObject 0xffffc9869c4a0bb0   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\wcp.dll
+ImageSectionObject 0xffffc9869c4a1ce0   592    \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\drupdate.dll
+ImageSectionObject 0xffffc9869c4a24b0   592    \Device\HarddiskVolume3\Windows\System32\spp.dll
+ImageSectionObject 0xffffc9869c4a2190   592    \Device\HarddiskVolume3\Windows\System32\srclient.dll
+ImageSectionObject 0xffffc9869a256250   3688   \Device\HarddiskVolume3\Windows\System32\wbem\WmiPerfClass.dll
+ImageSectionObject 0xffffc98698c3d2e0   1396   \Device\HarddiskVolume3\Windows\System32\MoUsoCoreWorker.exe
+DataSectionObject 0xffffc98698c3d2e0   1396   \Device\HarddiskVolume3\Windows\System32\MoUsoCoreWorker.exe
+ImageSectionObject 0xffffc9869a2482e0   1396   \Device\HarddiskVolume3\Windows\System32\Windows.Internal.PredictionUnit.dll
+ImageSectionObject 0xffffc9869a7c5730   1396   \Device\HarddiskVolume3\Windows\System32\Windows.Storage.Compression.dll
+DataSectionObject 0xffffc9869ac370c0   2848   \Device\HarddiskVolume3\Windows\System32\en-US\audiodg.exe.mui
+ImageSectionObject 0xffffc9869a7e7a10   2848   \Device\HarddiskVolume3\Windows\System32\audiodg.exe
+ImageSectionObject 0xffffc9869a7e8e60   2848   None
+ImageSectionObject 0xffffc9869a7ece70   2848   None
+ImageSectionObject 0xffffc9869a7ebbb0   2848   None
+DataSectionObject 0xffffc98699759700   5272   \Device\HarddiskVolume3\Windows\System32\en-US\dosvc.dll.mui
+ImageSectionObject 0xffffc98698c417a0   5272   None
+ImageSectionObject 0xffffc9869a224570   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\HxTsr.exe
+DataSectionObject 0xffffc9869915f8c0   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\en-us\hxcommintl.dll
+DataSectionObject 0xffffc9869915eab0   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\resources.pri
+DataSectionObject 0xffffc9869915edd0   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe\resources.pri
+DataSectionObject 0xffffc9869915f5a0   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\office.odf
+ImageSectionObject 0xffffc9869a7f11a0   7988   \Device\HarddiskVolume3\Windows\System32\Windows.Energy.dll
+ImageSectionObject 0xffffc9869a7e8500   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\Microsoft.Applications.Telemetry.Windows.dll
+ImageSectionObject 0xffffc98699da52d0   7988   \Device\HarddiskVolume3\Windows\System32\Geolocation.dll
+ImageSectionObject 0xffffc98699da7d00   7988   \Device\HarddiskVolume3\Windows\System32\Windows.ApplicationModel.Store.dll
+ImageSectionObject 0xffffc9869a7becf0   7988   \Device\HarddiskVolume3\Windows\System32\TaskApis.dll
+ImageSectionObject 0xffffc98699d84c10   7988   \Device\HarddiskVolume3\Windows\System32\ContactApis.dll
+ImageSectionObject 0xffffc98699da4e20   7988   \Device\HarddiskVolume3\Windows\System32\EmailApis.dll
+ImageSectionObject 0xffffc9869915de30   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\vccorlib140_app.dll
+ImageSectionObject 0xffffc9869915b400   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\HxComm.dll
+ImageSectionObject 0xffffc9869972de20   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\HxOutlookBackground.dll
+ImageSectionObject 0xffffc98699d86380   7988   \Device\HarddiskVolume3\Windows\System32\UserDataAccountApis.dll
+ImageSectionObject 0xffffc98699156db0   7988   \Device\HarddiskVolume3\Windows\System32\AppointmentApis.dll
+ImageSectionObject 0xffffc98699d96870   7988   \Device\HarddiskVolume3\Windows\System32\ContactActivation.dll
+ImageSectionObject 0xffffc9869a7f25f0   7988   \Device\HarddiskVolume3\Windows\System32\Windows.System.Diagnostics.Telemetry.PlatformTelemetryClient.dll
+ImageSectionObject 0xffffc9869a7f0e80   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\vcruntime140_app.dll
+ImageSectionObject 0xffffc9869a0d0940   7988   \Device\HarddiskVolume3\Windows\System32\Windows.ApplicationModel.Background.TimeBroker.dll
+ImageSectionObject 0xffffc9869915c080   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\msvcp140_app.dll
+ImageSectionObject 0xffffc98697f4b0e0   7988   \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\vcruntime140_1_app.dll
+ImageSectionObject 0xffffc98699160ea0   5328   \Device\HarddiskVolume3\Windows\System32\FamilySafetyExt.dll
+ImageSectionObject 0xffffc98699160860   5328   \Device\HarddiskVolume3\Windows\System32\Wpc.dll
+DataSectionObject 0xffffc98699729320   8088   \Device\HarddiskVolume3\Windows\SystemResources\Windows.UI.ShellCommonInetCore\Windows.UI.ShellCommonInetCore.pri
+DataSectionObject 0xffffc98699727890   8088   \Device\HarddiskVolume3\Windows\rescache\_merged\566262634\1299512800.pri
+DataSectionObject 0xffffc9869972ac20   8088   \Device\HarddiskVolume3\Windows\rescache\_merged\1936697710\926042841.pri
+DataSectionObject 0xffffc9869972d330   8088   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\resources.pri
+DataSectionObject 0xffffc9869972aa90   8088   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\MicrosoftEdge\User\Default\DataStore\Data\nouser1\120712-0049\DBStore\spartan.edb
+SharedCacheMap 0xffffc9869972aa90   8088   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\MicrosoftEdge\User\Default\DataStore\Data\nouser1\120712-0049\DBStore\spartan.edb
+DataSectionObject 0xffffc98699734d10   8088   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\pris\resources.en-US.pri
+DataSectionObject 0xffffc98699735670   8088   \Device\HarddiskVolume3\Windows\SystemResources\Windows.UI.ShellCommonInetCore\pris\Windows.UI.ShellCommonInetCore.en-US.pri
+ImageSectionObject 0xffffc98699381d80   8088   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe
+ImageSectionObject 0xffffc98699730e90   8088   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\eView.dll
+ImageSectionObject 0xffffc986993823c0   8088   \Device\HarddiskVolume3\Windows\System32\Windows.System.Diagnostics.dll
+ImageSectionObject 0xffffc98699725630   8088   \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\eModel.dll
+ImageSectionObject 0xffffc98698c2c490   8088   \Device\HarddiskVolume3\Windows\System32\mdmregistration.dll
+ImageSectionObject 0xffffc9869972b8a0   8088   \Device\HarddiskVolume3\Windows\System32\ShellExperiences\WindowsInternal.Xaml.Controls.Tabs.dll
+ImageSectionObject 0xffffc986997294b0   8088   None
+ImageSectionObject 0xffffc986997309e0   8088   \Device\HarddiskVolume3\Windows\System32\Windows.System.Profile.RetailInfo.dll
+ImageSectionObject 0xffffc986997297d0   8088   \Device\HarddiskVolume3\Windows\System32\eShims.dll
+ImageSectionObject 0xffffc9869a7da8b0   8088   \Device\HarddiskVolume3\Windows\System32\ActivationClient.dll
+ImageSectionObject 0xffffc9869a7ce880   8088   \Device\HarddiskVolume3\Windows\System32\Windows.System.UserProfile.DiagnosticsSettings.dll
+ImageSectionObject 0xffffc9869a247b10   8088   \Device\HarddiskVolume3\Windows\System32\Windows.System.Profile.PlatformDiagnosticsAndUsageDataSettings.dll
+ImageSectionObject 0xffffc9869972c520   7784   \Device\HarddiskVolume3\Windows\System32\browserbroker.dll
+ImageSectionObject 0xffffc9869972a770   7784   \Device\HarddiskVolume3\Windows\System32\browser_broker.exe
+DataSectionObject 0xffffc9869972a770   7784   \Device\HarddiskVolume3\Windows\System32\browser_broker.exe
+ImageSectionObject 0xffffc98699736480   7288   \Device\HarddiskVolume3\Windows\System32\MicrosoftEdgeSH.exe
+ImageSectionObject 0xffffc986997383c0   7288   \Device\HarddiskVolume3\Windows\System32\EdgeContent.dll
+DataSectionObject 0xffffc98697fd3660   7460   \Device\HarddiskVolume3\Windows\Fonts\times.ttf
+DataSectionObject 0xffffc98697fd1bd0   7460   \Device\HarddiskVolume3\Windows\Fonts\timesbd.ttf
+DataSectionObject 0xffffc986973531c0   7460   \Device\HarddiskVolume3\Windows\Fonts\seguiemj.ttf
+DataSectionObject 0xffffc9869a7bd710   7460   \Device\HarddiskVolume3\Users\kali\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!002\MicrosoftEdge\MSIMGSIZ.DAT
+DataSectionObject 0xffffc9869a7ecb50   7460   \Device\HarddiskVolume3\Windows\Fonts\arial.ttf
+ImageSectionObject 0xffffc98699736930   7460   \Device\HarddiskVolume3\Windows\System32\MicrosoftEdgeCP.exe
+ImageSectionObject 0xffffc9869a7c8ac0   7460   \Device\HarddiskVolume3\Windows\System32\MFMediaEngine.dll
+ImageSectionObject 0xffffc9869a7c69f0   7460   \Device\HarddiskVolume3\Windows\System32\vm3dum64.dll
+ImageSectionObject 0xffffc9869a7c2b70   7460   None
+ImageSectionObject 0xffffc9869a7c7670   7460   \Device\HarddiskVolume3\Windows\System32\d3d10level9.dll
+ImageSectionObject 0xffffc98699d9aa10   5940   \Device\HarddiskVolume3\Users\kali\Downloads\DumpIt.exe
+DataSectionObject 0xffffc98699d9aa10   5940   \Device\HarddiskVolume3\Users\kali\Downloads\DumpIt.exe

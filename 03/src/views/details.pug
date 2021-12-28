@@ -1,0 +1,41 @@
+extends layout
+
+block content
+  h1(style='text-align: center;') Your Santa's naughty or nice list candidate
+
+  br
+
+  h5(style='text-align: center;') Carefully review your entry. Candidate will be added to the list soon.
+
+  br
+
+  div.row(style="display:flex; justify-content: center;")
+    div.col-md-3
+      div.form-group
+        label(for='id') ID:
+        input#id.form-control(type="number", placeholder='1' name='id', disabled, value=id)
+
+  div.row(style="display:flex; justify-content: center;")
+    div.col-md-3
+      div.form-group
+        label(for='name') Name and surname:
+        input#name.form-control(type="text", placeholder="John Doe", name="name", disabled, value=name)
+
+  div.row(style="display:flex; justify-content: center;")
+    div.col-md-3
+      div.form-group
+        label(for='age') Age:
+        input#age.form-control(type="text", placeholder="20", name="age", disabled, value=age)
+
+  div.row(style="display:flex; justify-content: center;")
+    div.col-md-3
+      div.form-group
+        label(for='status') Status:
+        input#status.form-control(type="text", placeholder="Naughty", name="status", disabled, value=custom)
+
+  br
+
+  div.row(style="display:flex; justify-content: center; text-align: center;")
+    div.col-md-3
+      div.form-group
+        a.btn.btn-primary(type="button" href="?page=0&pageSize=10") Go back home

@@ -1,0 +1,26 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Dec 27 12:33:21 2021
+Invocation: foremost -i dump 
+Output directory: /home/oioki/21/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: dump
+Start: Mon Dec 27 12:33:21 2021
+Length: 242 MB (254705664 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00190032.htm 	      21 KB 	   97296567 	 
+1:	00349192.dll 	      21 KB 	  178786304 	 04/05/2099 21:40:14
+2:	00382912.exe 	      13 KB 	  196050944 	 10/15/2078 08:50:18
+Finish: Mon Dec 27 12:33:26 2021
+
+3 FILES EXTRACTED
+	
+htm:= 1
+exe:= 2
+------------------------------------------------------------------
+
+Foremost finished at Mon Dec 27 12:33:26 2021

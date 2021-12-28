@@ -1,0 +1,148 @@
+html,
+body {
+  margin: 0px;
+  background-color: #212425;
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+  font-family: "Lato", sans-serif;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  /*   background-image: url("http://localhost/bg.png"); */
+  background-position: center;
+  height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #212425;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.decode-input {
+  margin: 0px;
+  padding: 13px;
+
+  color: white;
+  background: #141414;
+  border: solid 1px black;
+  box-shadow: 0 0 6px 0px rgb(0 0 0);
+  font-size: 16px;
+}
+
+.decode-text {
+  color: white;
+  width: 100%;
+  max-width: 350px;
+  font-weight: bold;
+}
+
+.decode-label {
+  margin-top: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #afafaf;
+  padding-bottom: 7px;
+}
+
+.decode-button {
+  margin-top: 63px;
+  font-size: 15px;
+  padding: 12px 20px;
+  background: transparent;
+  border: solid 1px white;
+  color: white;
+  cursor: pointer;
+  margin-left: 20px;
+  transition: all 0.5s;
+  box-shadow: 0 0 6px 0px rgb(0 0 0);
+}
+
+.decode-button:hover {
+  background-color: white;
+  color: #212425;
+}
+
+/* The snackbar - position it at the bottom and in the middle of the screen */
+#snackbar {
+  visibility: hidden; /* Hidden by default. Visible on click */
+  min-width: 250px; /* Set a default minimum width */
+  margin-left: -125px; /* Divide value of min-width by 2 */
+  background-color: #333; /* Black background color */
+  color: #fff; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 2px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  bottom: 30px; /* 30px from the bottom */
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+  visibility: visible; /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .bgimg-1 {
+    display: block;
+    padding: 30px;
+  }
+
+  .decode-button {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+}
