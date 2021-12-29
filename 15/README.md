@@ -2,7 +2,7 @@
 
 > Santa found his old program, which contains a secret. Can you help him retrieve it? Flag is right input!
 
-[check][./check]
+[check](./check)
 
 ## Solution
 

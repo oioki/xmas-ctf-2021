@@ -9,11 +9,12 @@ https://naughty.owasp.si/
 ## Solution
 
 The challenge is an HTML form that sends POST request with `name` and `age` as parameters. Let's be wild and press "Submit" button straight away, without any input:
+
 ![naughty2.png](naughty2.png)
 
 The Status says "Unexpected end of input", so the backend is likely written in JavaScript. We can try different inputs, but I tried sending `name=this&age=20`, and it yielded `[object global]20` status. So, there is likely a dumb evaluation of `name` parameter as JS code.
 
-Let 's try something like `this.process.mainModule.require('fs').readdirSync('.')` (inspired by [https://ctftime.org/writeup/6773](this writeup)). However, this gives `You won't be on Santa's nice list` status. A quick investigation revealed that `name` parameter has a limit of 20 characters.
+Let 's try something like `this.process.mainModule.require('fs').readdirSync('.')` (inspired by [this writeup](https://ctftime.org/writeup/6773)). However, this gives `You won't be on Santa's nice list` status. A quick investigation revealed that `name` parameter has a limit of 20 characters.
 
 However, we can send the same payload in the `age` parameter, because the validation is only performed on frontend. It worked:
 

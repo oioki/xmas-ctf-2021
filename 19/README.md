@@ -6,7 +6,7 @@
 
 ## Solution
 
-This time, we have a .NET DLL file (dynamic library), and again, we can use [dnSpy](https://github.com/dnSpy/dnSpy/releases) to decompile it. I saved the source code for `Main()` and `Func2()` functions to [source.cs]. Also I have converted it to class because I did not know how to invoke functions from the DLL.
+This time, we have a .NET DLL file (dynamic library), and again, we can use [dnSpy](https://github.com/dnSpy/dnSpy/releases) to decompile it. I saved the source code for `Main()` and `Func2()` functions to [source.cs](./source.cs). Also I have converted it to class because I did not know how to invoke functions from the DLL.
 
 If you inspect the source code briefly, you will notice two sequences of bytes - one in `Main()`, another in `Func2()`. They are combined somehow in the second function, together with some randomness, XOR (`ExclusiveOr`), and IL-representation of the Func2 function itself (note `GetILAsByteArray`). But it's hard to follow manually what's going on, so we need to debug it somehow.
 
@@ -58,7 +58,7 @@ The fix is similar:
         Expression.Assign(parameterExpression4, Expression.Constant(0, typeof(int))),
 ```
 
-Just in case, see the [modified](./modified.cs)source code.
+Just in case, see the [modified](./modified.cs) source code.
 
 Now, when you run the program, you will get:
 
