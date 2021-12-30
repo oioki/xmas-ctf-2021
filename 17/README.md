@@ -6,6 +6,4 @@
 
 ## Solution
 
-I have not solved this challenge. The only team who solved this was Karathan.
-
-TODO: link to Karathan writeup.
+I have not solved this challenge. The only team who solved this was Karathan. Check out their [awesome writeup](https://github.com/SBird1337/xmas2021/blob/master/santa-pwnd/writeup.md).
